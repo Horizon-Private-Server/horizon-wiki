@@ -5,8 +5,8 @@ _This guide is by DeathBySnowman, last revised 3 February 2022._
 
 Contents:
 - ![Introduction](https://github.com/jtjanecek/horizon-wiki/blob/main/getting-online/pcsx2/README.md#introduction)
-- ![PCSX2 1.6.0](https://github.com/jtjanecek/horizon-wiki/blob/main/getting-online/pcsx2/README.md#introduction)
-- ![PCSX2 1.7.0](https://github.com/jtjanecek/horizon-wiki/blob/main/getting-online/pcsx2/README.md#introduction)
+- ![PCSX2 1.6.0](https://github.com/jtjanecek/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-160)
+- ![PCSX2 1.7.0](https://github.com/jtjanecek/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-170)
 
 ## Introduction
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
