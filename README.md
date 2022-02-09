@@ -8,6 +8,6 @@ PS2:
 
 ## Table of contents
 - [How to Play & Connect to Horizon](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/README.md)
-- [PS2 UYA Information, Features, & More](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/ps2-up-your-arsenal/README.md)
-- [PS2 DL Information, Features, & More](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/ps2-deadlocked/README.md)
+- [PS2 UYA Information, Features, & More](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/README.md)
+- [PS2 DL Information, Features, & More](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/README.md)
 
