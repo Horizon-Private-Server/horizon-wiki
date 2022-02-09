@@ -4,9 +4,9 @@ This is a guide on how to connect Horizon using PCSX2.
 _This guide is by DeathBySnowman, last revised 3 February 2022._
 
 Contents:
-- ![Introduction](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#introduction)
-- ![PCSX2 1.6.0](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-160)
-- ![PCSX2 1.7.0](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-170)
+- [Introduction](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#introduction)
+- [PCSX2 1.6.0](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-160)
+- [PCSX2 1.7.0](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/README.md#pcsx2-170)
 
 ## Introduction
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
@@ -37,10 +37,10 @@ In PCSX2 navigate to Config, then Emulation Settings. Then go to the Game Fixes 
 
 ![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/emulation_settings.png)
 
-3. This last step ONLY applies if you are using a PAL or NTSC-J ISO/disc. You will need to also download the file linked below and save it into the Cheats folder of your PCSX2 installation. Then open PCSX2 and select "Enable Cheats" from the System menu. Also, when setting up your profile choose "Europe" for the server setting. Again, this last step is not necessary if you are using an NTSC-U/C ISO/disc. You can download the cheat ![here](https://raw.githubusercontent.com/jtjanecek/horizon-wiki/main/assets/cheats/17125698.pnach). (right click, "Save As")
+3. This last step ONLY applies if you are using a PAL or NTSC-J ISO/disc. You will need to also download the file linked below and save it into the Cheats folder of your PCSX2 installation. Then open PCSX2 and select "Enable Cheats" from the System menu. Also, when setting up your profile choose "Europe" for the server setting. Again, this last step is not necessary if you are using an NTSC-U/C ISO/disc. You can download the cheat [here](https://raw.githubusercontent.com/jtjanecek/horizon-wiki/main/assets/cheats/17125698.pnach). (right click, "Save As")
 
 ## PCSX2 1.7.0
 Many emulator players have reported smoother gameplay using PCSX2 1.7.0, which is technically in beta still. There are two PCSX2 1.7.0 builds that have been tested so far:
-- ![1.7.0 build that was meant specifically for Ratchet and Clank online by DeathBySnowMan](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/dbs_build.md#using-pcsx2-170-dbs-horizon-build)
+- [1.7.0 build that was meant specifically for Ratchet and Clank online by DeathBySnowMan](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/dbs_build.md#using-pcsx2-170-dbs-horizon-build)
 - Generic 1.7.0 build by TheBananaTart [Link coming soon]
 
