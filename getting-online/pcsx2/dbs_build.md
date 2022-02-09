@@ -1,11 +1,11 @@
-# Using PCSX2 1.7.0 (DBS Horizon Build)
+# Using PCSX2 1.7.0 (R&C Online Build)
+Guide by DeathBySnowman
+
 Results using any version of PCSX2 will depend greatly on your processor, graphics card, network connection, and other factors.
 
 That said, if purchasing a PS2 is not an option for you and you would like to attempt to optimize online game performance/minimize lag/etc., you may want to try this beta build of PCSX2 1.7.0 that was created specifically for Ratchet and Clank Online.
 
 The screenshots below are from my Windows 10 PC. I am not a PCSX2 expert, so please let me know if anything below is incorrect or doesn’t make sense. Thank you!
-
--- DeathBySnowman
 
 Set up as follows:
 1. Download the beta build zip file from: https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view 
