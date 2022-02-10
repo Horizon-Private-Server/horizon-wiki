@@ -8,6 +8,3 @@ Select the link below based on your platform!
 
 - [PCSX2](/getting-online/pcsx2/README.md)
 - PS2
-- PS3 [COMING SOON!]
-- PSP [COMING SOON!]
-- PPSSPP [COMING SOON!]
