@@ -2,7 +2,7 @@
 
 This page is dedicated to detailing all of the custom game modes available on the Horizon Private Server. Below each game mode is a list of recommended settings curated through developer and community playtesting. Please feel free to use whatever settings you want, the recommended settings are provided only as a baseline to get you started!
 
-All game modes except for Search and Destory do not contribute towards your stats in a particular area (e.g., rank/skill level, kill, deaths). Search and Destroy contributes towards your Conquest Rank (similar to a substituted sub-game mode like __Home Nodes__ and __Lockdown__).
+All game modes except for Search and Destory do not contribute towards your stats in a particular area (e.g., rank/skill level, kills, deaths). Search and Destroy contributes towards your Conquest Rank (similar to a substituted sub-game mode like __Home Nodes__ and __Lockdown__).
 
 ## Infected
 
@@ -52,13 +52,13 @@ __Gun Game is supported on all Normal and Custom Maps.__
 
 ## Spleef
 
-A game mode derived from Minecraft, where the goal is not to kill your opponent, but to destroy the ground below your opponents feet. Spleef consists of 2-layers of destructable boxes. If you fall, don't worry, you will have a second chance!
+A game mode derived from Minecraft, where the goal is not to kill your opponent, but to destroy the ground below your opponent's feet. Spleef consists of 2-layers of destructable boxes. If you fall, don't worry, you will have a second chance!
 
 A Spleef game is broken up into multiple matches.
 The last player standing (or in many cases, the last player to hit the void) is awarded 3 points.
 The second to last player to hit the void is awarded 2 points, and the third to last is awarded 1 point.
 Everyone else gets a rock.
-The first person to a specified number of points wins, or the person with the most kill at the end of the time specified wins.
+The first person to a specified number of points wins, or the person with the most points at the end of the time limit wins.
 
 __Spleef requires a custom map to play.__
 
@@ -76,7 +76,7 @@ __Spleef requires a custom map to play.__
 
 ## Infinite Climber
 
-A game mode unique to Deadlocked. The floods have come, and you have no Ark! The water in each level is rising and the only hope of escape you have is to parkour on the floating debris to escape. You score is calculated based on how high you climb. The player who climbs the highest wins.
+A game mode unique to Deadlocked. The floods have come, and you have no Ark! The water in each level is rising and your only hope of escape is to parkour up the floating debris. Your score is calculated based on how high you climb. The player who climbs the highest wins.
 
 __Infinite climber is supported by all 10 normal maps, but is currently not supported on custom maps.__
 
@@ -87,9 +87,10 @@ __Infinite climber is supported by all 10 normal maps, but is currently not supp
   - Autospawn Weapons - __On__
   - Unlimited Ammo - __On__
   - Team Play - __On__
+  - Survivor - __On__
     > This game mode is very challenging by itself. While multiple teams are supported, it is recommended that you all stay on as one team to have a longer game.
 - Weapon
-    > It is recommended that you only leave the __Magma Cannon__ and __Scorpion Flail__ active. The Magma Cannon is the best weapon for navigating with Charge Boots and playtesting has indicated that some people prefer to use the Scorpion Flail when performing hyperstring jumps.
+    > It is recommended that you only leave the __Magma Cannon__ and __Scorpion Flail__ active. The Magma Cannon is the best weapon for navigating with Charge Boots and playtesting has indicated that some people prefer to use the Scorpion Flail when performing hyperstring jumps. Due to the frantic nature of this game mode, not spawning with these weapons may be a death sentence for unlucky players.
   - Dual Vipers - __Off__
   - The Arbiter - __Off__
   - Fusion Rifle - __Off__
@@ -103,8 +104,9 @@ A game mode derived from the Call of Duty franchise.
 There are 2 bomb sites (nodes) on the map and 2 teams, an attacking team and defending team.
 The objective of the attacking team is to destroy ONE of the bombsites, while the goal of the defending team is to protect BOTH bomb sites.
 Death is permanent for the entire round for both teams.
-The attacking team is given a bomb (Red Weapon Pack) at the start of each round, this bomb can only be carried by a single, selected player.
+The attacking team is given a bomb (Red Weapon Pack) at the start of each round, this bomb can only be carried by a single player, selected by the attacking team.
 The attacking team has a choice of the two color-coded bomb sites (__PURPLE__ and __GREEN__).
+The red weapon pack contains the hacker ray, which the bomb carrier must use to hack the node at the bomb site (i.e., plant the bomb).
 
 Victory conditions are as follows:
 1. If all players on the attacking team are killed before the bomb is planted, the defenders win.
@@ -114,10 +116,13 @@ Victory conditions are as follows:
 
 If all of the defenders are dead and the bomb is planted, it detonates immediately (no 30 second delay).
 The round timer is paused while the bomb is planted.
+If the bomb is dropped (the bomb carrier dies), other members of the attacking team can pick it up.
 A game of SND consists of up to 11 rounds.
 The first team to win 6 rounds wins the game.
 Every 3 rounds, the teams switch sides.
 Weapon upgrades/V2s (if enabled) are lost after each round is over.
+> Community playtesting has indicated that each Team using their own VC has been extremely effective, and has added a lot of depth to SND strategy.
+> Additionally, a common community rule has been that players mute themselves in Discord on death (Similar to group rules followed in games like Among Us).
 
 __Search and Destroy is supported by all 10 normal maps and the following custom maps.__
 * Maraxus Singleplayer (SP)
@@ -136,7 +141,8 @@ __Search and Destroy is supported by all 10 normal maps and the following custom
   - Unlimited Ammo - __On__
   - Team Play - __On__
 - Weapon
-  - > Due to the competitive nature of SND, games played have typically consisted of Cycle Weapons (__Magma Cannon__, __B-6 Obliterator__ and __Fusion Rifle__). Different weapon combinations could lead to exciting gamplay variants. In order to guarantee a completely fair game, it is recommended that a maximum of 3 weapons are used so every player spawns with the same weapons.
+  - > Due to the competitive nature of SND, games played have typically consisted of Cycle Weapons (__Magma Cannon__, __B-6 Obliterator__ and __Fusion Rifle__). Different weapon combinations could lead to exciting gamplay variants.
+    >In order to guarantee a completely fair game, it is recommended that a maximum of 3 weapons are used so every player spawns with the same weapons.
 - Custom
   - Health Crates - __Off__
 
