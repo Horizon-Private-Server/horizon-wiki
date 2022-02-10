@@ -12,8 +12,8 @@ Some initial set up is required to play on custom maps. Refer to the [setup guid
 
 ## Download
 
-- [PS2 Maps](/assets/dl/dl_custom_maps_ps2.zip)
-- [PCSX2 Maps](/assets/dl/dl_custom_maps_pcsx2.zip)
+- [PS2 Maps Download](/assets/dl/dl_custom_maps_ps2.zip?raw=true)
+- [PCSX2 Maps Download](/assets/dl/dl_custom_maps_pcsx2.zip?raw=true)
 
 ## Setup
 
@@ -53,7 +53,7 @@ Guide to install custom maps on PCSX2.
 
 ![usb settings](/assets/dl/pcsx2/usbsettings.png)
 
-4. Configure Port 1 to point to the download .img file.
+4. Configure Port 1 to point to the downloaded .img file.
 
 ![usb path](/assets/dl/pcsx2/usbmasspath.png)
 
@@ -77,7 +77,7 @@ To play on a custom map is simple.
 
 ![no modules](/assets/dl/game/nocmapmodules.png)
 
-NOTE: If you receive this message then you must install the map modules before you can play.
+NOTE: If you receive a message stating you do not have custom maps enabled then you must install the map modules before you can play.
 
 ### Installing Map Modules
 
