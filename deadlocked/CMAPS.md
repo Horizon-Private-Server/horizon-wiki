@@ -4,6 +4,8 @@ The Horizon server enables users to play on custom maps.
 
 Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) for how to play.
 
+Additional custom map documentation and credits can be found [here](./CMAPS_DETAIL.MD).
+
 ## Table of Contents
 
 - [Download Links](#download)
