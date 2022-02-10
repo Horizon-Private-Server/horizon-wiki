@@ -103,8 +103,10 @@ A game mode derived from the Call of Duty franchise.
 There are 2 bomb sites (nodes) on the map and 2 teams, an attacking team and defending team.
 The objective of the attacking team is to destroy ONE of the bombsites, while the goal of the defending team is to protect BOTH bomb sites.
 Death is permanent for the entire round for both teams.
-The attacking team is given a bomb (Red Weapon Pack) at the start of each round, this bomb can only be carried by a single, selected player. Victory conditions are as follows:
+The attacking team is given a bomb (Red Weapon Pack) at the start of each round, this bomb can only be carried by a single, selected player.
 The attacking team has a choice of the two color-coded bomb sites (__PURPLE__ and __GREEN__).
+
+Victory conditions are as follows:
 1. If all players on the attacking team are killed before the bomb is planted, the defenders win.
 2. If the round timer hits 0 wwithout the bomb being planted, the defenders win (even if they are all dead).
 3. If the attackers plant the bomb, the defenders must defuse within in 30 seconds or the bomb will detonate and the attackers win (the bomb must be defused in time, even if all of the attackers are dead for the defenders to win the round).
@@ -122,7 +124,7 @@ __Search and Destroy is supported by all 10 normal maps and the following custom
 * Mining Facility Singleplayer (SP)
 * Sarathos Singleplayer (SP)
 * Temple of Shaar Singleplayer (SP)
-* Thyrranosis
+* Tyhrranosis
 * Torval Singleplayer (SP)
 
 - General
