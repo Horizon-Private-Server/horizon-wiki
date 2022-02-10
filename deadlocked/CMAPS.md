@@ -49,7 +49,7 @@ Guide to install custom maps on PCSX2.
 
 1. Download the maps for the PCSX2 [here](#download).
 2. Unzip and copy the extracted .img file to a convenient place.
-3. Configure PCSX2 USB plugin for mass storage device with Port 1 as cstdio:
+3. Configure PCSX2 USB plugin for mass storage device with Device API Port 1 as cstdio:
 
 ![usb settings](/assets/dl/pcsx2/usbsettings.png)
 
