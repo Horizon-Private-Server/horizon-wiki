@@ -249,7 +249,8 @@ TBD! Coming Soon!
 
 ### Hoverbike Race
 
-A Custom Map which adds a Racetrack to Sarathos Swamp, currently used in an outdated Game Mode.
+A Custom Map which adds a Racetrack to Sarathos Swamp.
+There is currently not a coinciding game mode.
 
 []()
 
