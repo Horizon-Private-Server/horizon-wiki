@@ -1,4 +1,5 @@
 # Using PCSX2 1.7.0 (R&C Online Build)
+
 Guide by DeathBySnowman
 
 Results using any version of PCSX2 will depend greatly on your processor, graphics card, network connection, and other factors.
@@ -8,11 +9,12 @@ That said, if purchasing a PS2 is not an option for you and you would like to at
 The screenshots below are from my Windows 10 PC. I am not a PCSX2 expert, so please let me know if anything below is incorrect or doesn’t make sense. Thank you!
 
 Set up as follows:
-1. Download the beta build zip file from: https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view 
+
+1. Download the beta build zip file from: [https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view](https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view)
 2. Unzip the folder and move it into the directory you would like to run it from e.g. Program Files (this build does not have an installer file).
 3. Install npcap using the “nmap-7.91-setup.exe” file in the folder. This has to be done to allow for online play.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/windows_explorer.png)
+![img](/assets/pcsx2/windows_explorer.png)
 
 4. Open PCSX2 using the “pcsx2 VRR.exe” file.
 5. Go to the Config menu → BIOS/Folder Selector.
@@ -24,36 +26,36 @@ Set up as follows:
     - If you are using an Ethernet connection, select the switched Ethernet option. You should not have to do anything else - just click OK.
     - If using a WiFi connection, things are a little more complicated. Select the bridged Wi-Fi option, and check the “Intercept DHCP” box. Then, run Command Prompt’s ipconfig tool (or equivalent). Enter in the Subnet Mask and Gateway Address from your ipconfig output. Then, for the PS2 Address enter in your IPv4 address but change the last number. For example, if your IP address ends in 142 change it to 143. The reason for this is so that the PS2 is assigned a different address than other devices connected to your network. You might also be able to check e.g. your router setup page to see all IP addresses on your network.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/wired_vs_wireless.png)
+![img](/assets/pcsx2/wired_vs_wireless.png)
 
 7. Go to Config → Gamepad Settings and map your controller.
 8. Go to Config → General Settings and adjust as shown below for each tab. You will have to un-check the “Preset” box at the bottom left before changing many of the settings.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/ee_settings.png)
+![img](/assets/pcsx2/ee_settings.png)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/VUs_setting.png)
+![img](/assets/pcsx2/VUs_setting.png)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/gs_only_setting.png)
+![img](/assets/pcsx2/gs_only_setting.png)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/gs_setting.png)
+![img](/assets/pcsx2/gs_setting.png)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/emulation_settings_simple.png)
+![img](/assets/pcsx2/emulation_settings_simple.png)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/game_fixes.png)
+![img](/assets/pcsx2/game_fixes.png)
 
 9. Go to Config → Graphics Settings and adjust as shown below. Some of these settings (Renderer, Adapter, etc.) are obviously machine dependent. For older machines, we recommend setting the “Internal Resolution” to 1080p max.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/graphics_settings.png)
+![img](/assets/pcsx2/graphics_settings.png)
 
 10. Still in the Graphics Settings window, click “Advanced Settings and Hacks.” Set up as shown below. Click OK.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/adv_settings.png)
+![img](/assets/pcsx2/adv_settings.png)
 
 11. At the bottom of the Graphics Settings window, click OSD Configuration. Set up as shown below and click OK. Click Shader Configuration, set up as shown and click OK.
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/osd_setting.jpg)
+![img](/assets/pcsx2/osd_setting.jpg)
 
-![img](https://raw.githubusercontent.com/Horizon-Private-Server/horizon-wiki/main/assets/pcsx2/shader_setting.png)
+![img](/assets/pcsx2/shader_setting.png)
 
 12. Click OK to save all of the Graphics Settings changes.
 13. Obtain your ISO for UYA or DL if you have not already done so, or insert the game disc.

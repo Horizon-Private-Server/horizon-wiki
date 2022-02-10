@@ -6,5 +6,5 @@ This is the Horizon documentation for the original, PS2 release of Ratchet: Dead
 
 - Custom Features
 - Mods
-- Custom Maps
+- [Custom Maps](./CMAPS.MD)
 - Custom Game Modes
