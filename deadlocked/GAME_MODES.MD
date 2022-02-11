@@ -4,11 +4,26 @@ This page is dedicated to detailing all of the custom game modes available on th
 
 All game modes except for Search and Destory do not contribute towards your stats in a particular area (e.g., rank/skill level, kills, deaths). Search and Destroy contributes towards your Conquest Rank (similar to a substituted sub-game mode like __Home Nodes__ and __Lockdown__).
 
+## Table of Contents
+- [Custom Game Modes](#custom-game-modes)
+  - [Table of Contents](#table-of-contents)
+  - [Infected](#infected)
+    - [Recommended Settings](#recommended-settings)
+  - [Gun Game](#gun-game)
+    - [Recommended Settings](#recommended-settings-1)
+  - [Spleef](#spleef)
+    - [Recommended Settings](#recommended-settings-2)
+  - [Infinite Climber](#infinite-climber)
+    - [Recommended Settings](#recommended-settings-3)
+  - [Search and Destory (SND)](#search-and-destory-snd)
+    - [Recommended Settings](#recommended-settings-4)
+  - [Duck Hunt](#duck-hunt)
+
 ## Infected
 
 A game mode derived from the the eponymously named game modes featured in the Halo and Call of Duty franchises. Players become "infected" after dying and must hunt the remaining survivors using only their wrench and their speed! Survivors, have the luxury of weapons, but have a limited health pool, limited ammo and only one life! If the survivors last the duration of the game, they win, otherwise the infected win.
 
-__Infected is supported on all Normal and Custom Maps.__
+> __COMPATIBILITY:__ Infected is supported on all Normal and Custom Maps.
 
 ### Recommended Settings
 
@@ -38,7 +53,7 @@ Weapons 2-7 are randomized between the [__Magma Cannon__, __The Arbiter__, __Fus
 The order of weapons is the same for each player, but is randomized in-between games.
 Once you get a kill with each weapon, you will be left with only your wrench, get a kill with it to end the game!
 
-__Gun Game is supported on all Normal and Custom Maps.__
+> __COMPATIBILITY:__ Gun Game is supported on all Normal and Custom Maps.
 
 ### Recommended Settings
 
@@ -60,7 +75,7 @@ The second to last player to hit the void is awarded 2 points, and the third to 
 Everyone else gets a rock.
 The first person to a specified number of points wins, or the person with the most points at the end of the time limit wins.
 
-__Spleef requires a custom map to play.__
+> __COMPATIBILITY:__ Spleef requires its specific custom map to play.
 
 ### Recommended Settings
 - General
@@ -78,7 +93,7 @@ __Spleef requires a custom map to play.__
 
 A game mode unique to Deadlocked. The floods have come, and you have no Ark! The water in each level is rising and your only hope of escape is to parkour up the floating debris. Your score is calculated based on how high you climb. The player who climbs the highest wins.
 
-__Infinite climber is supported by all 10 normal maps, but is currently not supported on custom maps.__
+> __COMPATIBILITY:__ Infinite climber is supported by all 10 normal maps, but is currently not supported on custom maps.
 
 ### Recommended Settings
 - General
@@ -121,17 +136,19 @@ A game of SND consists of up to 11 rounds.
 The first team to win 6 rounds wins the game.
 Every 3 rounds, the teams switch sides.
 Weapon upgrades/V2s (if enabled) are lost after each round is over.
-> Community playtesting has indicated that each Team using their own VC has been extremely effective, and has added a lot of depth to SND strategy.
-> Additionally, a common community rule has been that players mute themselves in Discord on death (Similar to group rules followed in games like Among Us).
 
-__Search and Destroy is supported by all 10 normal maps and the following custom maps.__
-* Maraxus Singleplayer (SP)
-* Mining Facility Singleplayer (SP)
-* Sarathos Singleplayer (SP)
-* Temple of Shaar Singleplayer (SP)
-* Tyhrranosis
-* Torval Singleplayer (SP)
+Community playtesting has indicated that each Team using their own VC has been extremely effective, and has added a lot of depth to SND strategy.
+Additionally, a common community rule has been that players mute themselves in Discord on death (Similar to group rules followed in games like Among Us).
 
+> __COMPATIBILITY:__ Search and Destroy is supported by all 10 normal maps and the following custom maps.
+>   * Maraxus Singleplayer (SP)
+>   * Mining Facility Singleplayer (SP)
+>   * Sarathos Singleplayer (SP)
+>   * Temple of Shaar Singleplayer (SP)
+>   * Tyhrranosis
+>   * Torval Singleplayer (SP)
+
+### Recommended Settings
 - General
   - Game Type - __Conquest__
   - Radar Blips - __Off__
