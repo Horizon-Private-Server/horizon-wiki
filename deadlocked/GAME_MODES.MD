@@ -15,7 +15,7 @@ All game modes except for Search and Destory do not contribute towards your stat
     - [Recommended Settings](#recommended-settings-2)
   - [Infinite Climber](#infinite-climber)
     - [Recommended Settings](#recommended-settings-3)
-  - [Search and Destory (SND)](#search-and-destory-snd)
+  - [Search and Destroy (SND)](#search-and-destroy-snd)
     - [Recommended Settings](#recommended-settings-4)
   - [Duck Hunt](#duck-hunt)
 
@@ -105,7 +105,7 @@ A game mode unique to Deadlocked. The floods have come, and you have no Ark! The
   - Survivor - __On__
     > This game mode is very challenging by itself. While multiple teams are supported, it is recommended that you all stay on as one team to have a longer game.
 - Weapon
-    > It is recommended that you only leave the __Magma Cannon__ and __Scorpion Flail__ active. The Magma Cannon is the best weapon for navigating with Charge Boots and playtesting has indicated that some people prefer to use the Scorpion Flail when performing hyperstring jumps. Due to the frantic nature of this game mode, not spawning with these weapons may be a death sentence for unlucky players.
+    > It is recommended that you only leave the __Magma Cannon__ and __Scorpion Flail__ active. The Magma Cannon is the best weapon for navigating with Charge Boots and playtesting has indicated that some people prefer to use the Scorpion Flail when performing hyperstrike jumps. Due to the frantic nature of this game mode, not spawning with these weapons may be a death sentence for unlucky players.
   - Dual Vipers - __Off__
   - The Arbiter - __Off__
   - Fusion Rifle - __Off__
@@ -113,7 +113,7 @@ A game mode unique to Deadlocked. The floods have come, and you have no Ark! The
   - B-6 Obliterator - __Off__
   - Holoshield Launcher - __Off__
 
-## Search and Destory (SND)
+## Search and Destroy (SND)
 
 A game mode derived from the Call of Duty franchise.
 There are 2 bomb sites (nodes) on the map and 2 teams, an attacking team and defending team.
