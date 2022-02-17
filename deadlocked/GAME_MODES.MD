@@ -21,7 +21,10 @@ All game modes except for Search and Destory do not contribute towards your stat
 
 ## Infected
 
-A game mode derived from the the eponymously named game modes featured in the Halo and Call of Duty franchises. Players become "infected" after dying and must hunt the remaining survivors using only their wrench and their speed! Survivors, have the luxury of weapons, but have a limited health pool, limited ammo and only one life! If the survivors last the duration of the game, they win, otherwise the infected win.
+A game mode derived from the the eponymously named game modes featured in the Halo and Call of Duty franchises.
+Players become "infected" after dying and must hunt the remaining survivors using only their wrench and their speed!
+Survivors, have the luxury of weapons, but have a limited health pool, limited ammo and only one life!
+If the survivors last the duration of the game, they win, otherwise the infected win.
 
 > __COMPATIBILITY:__ Infected is supported on all Normal and Custom Maps.
 
@@ -116,7 +119,7 @@ A game mode unique to Deadlocked. The floods have come, and you have no Ark! The
 ## Search and Destroy (SND)
 
 A game mode derived from the Call of Duty franchise.
-There are 2 bomb sites (nodes) on the map and 2 teams, an attacking team and defending team.
+There are 2 bomb sites (nodes) on the map and 2 teams; an attacking team, and a defending team.
 The objective of the attacking team is to destroy ONE of the bombsites, while the goal of the defending team is to protect BOTH bomb sites.
 Death is permanent for the entire round for both teams.
 The attacking team is given a bomb (Red Weapon Pack) at the start of each round, this bomb can only be carried by a single player, selected by the attacking team.
@@ -130,8 +133,8 @@ Victory conditions are as follows:
 4. If the bomb is planted and successfully defused, the defenders win.
 
 If all of the defenders are dead and the bomb is planted, it detonates immediately (no 30 second delay).
-The round timer is paused while the bomb is planted.
-If the bomb is dropped (the bomb carrier dies), other members of the attacking team can pick it up.
+The round time limit is paused while the bomb is planted.
+If the bomb is dropped (i.e., the bomb carrier dies), other members of the attacking team can pick it up.
 A game of SND consists of up to 11 rounds.
 The first team to win 6 rounds wins the game.
 Every 3 rounds, the teams switch sides.
