@@ -18,6 +18,8 @@ All game modes except for Search and Destory do not contribute towards your stat
   - [Search and Destroy (SND)](#search-and-destroy-snd)
     - [Recommended Settings](#recommended-settings-4)
   - [Duck Hunt](#duck-hunt)
+  - [Survival](#survival)
+    - [Recommended Settings](#recommended-settings-5)
 
 ## Infected
 
@@ -169,3 +171,34 @@ Additionally, a common community rule has been that players mute themselves in D
 ## Duck Hunt
 
 TBD! More info coming soon!
+
+## Survival
+
+A game mode derived from COD: Zombies.
+You have limited ammo, life, and must survive wave after wave of oncoming zombies.
+
+Survival requires custom maps!
+
+> __MAPS:__ Survival supports the following maps:
+>   * Mining Facility
+>   * Marcadia Palace
+>   * Veldin
+
+> __DIFFICULTY:__ Survival supports the following difficulties:
+>   * Couch Potato [0.25x]
+>   * Contestant [0.50x]
+>   * Gladiator [0.75x]
+>   * Hero [1.00x]
+>   * Exterminator [1.50x]
+
+
+### Recommended Settings
+- General
+  - Game Type - __Deathmatch__
+  - Radar Blips - __On/Short__
+  - Special Pickups - __On__
+  - Charge Boots - __Always/Normal__
+  - Autospawn Weapons - __Off__
+  - Unlimited Ammo - __Off__
+  - Team Play - __On__
+  - Survivor - __On__
