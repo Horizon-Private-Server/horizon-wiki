@@ -4,7 +4,7 @@ Multiplayer bots have been created to play alongside or against other bots and p
 
 **IMPORTANT**: Only invite bots after all normal players have joined the game
 
-Bots can be invited using the normal "Invite Player" menu within the game. Below is a table of the bot names to invite:
+Bots can be invited using the normal "Invite Player" menu within the game (they take ~10 seconds to join). Below is a table of the bot names to invite:
 
 | Bot name  | Description |
 | ------------- | ------------- |
