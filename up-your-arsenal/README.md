@@ -7,3 +7,4 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - Custom Features
 - Mods
 - Custom Maps
+- ![Multiplayer bots](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bots.md)
