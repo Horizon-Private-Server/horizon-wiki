@@ -13,7 +13,7 @@ Bots can be invited using the normal "Invite Player" menu within the game (they 
 | cpu2  | CPU that will fight but has better accuracy than cpu1 |
 | cpu3  | CPU that will fight but has better accuracy than cpu2 |
 | cpu4  | CPU that will fight but has better accuracy than cpu3. Can cycle weapons |
-| cpug  | [**EPILEPSY WARNING**] God mode CPU that has 1000 health and no limits on weapon firing and has aimhack |
+| cpug  | [**EPILEPSY WARNING**] [**WARNING: CAN CRASH YOUR PS2 IF MULTIPLE JOIN**] God mode CPU that has 1000 health and no limits on weapon firing and has aimhack |
 
 ## Maps Supported:
 - Marcadia Palace
