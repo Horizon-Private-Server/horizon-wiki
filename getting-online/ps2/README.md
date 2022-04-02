@@ -29,7 +29,7 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 If you have an NTSC-U/C PS2 and game disc (United States/Canada), congratulations! You have the easiest setup of anyone.
 
 Steps are as follows:
-1. Navigate to the Multiplayer area of UYA and select Online Play.
+1. Navigate to the Multiplayer area of the game you want to play and select Online Play.
 2. Press Square to access Network Setup. Wait for it to load.
 3. Select "Add Setting."
 4. Save to whichever memory card slot you are using.
