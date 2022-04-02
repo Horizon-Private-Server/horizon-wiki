@@ -41,7 +41,7 @@ Steps are as follows:
 10. Wait for the connection test to complete, then save the settings. It is recommended, but not required, to change the name of the setting to match that of the DNS that you chose in step 9.
 11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network. That's it!
 
-You can also refer to [this video](https://www.youtube.com/watch?v=bE66gzgi6mk&t=671s) (external link). The video uses Cristian's DNS.
+If you prefer, [this video](https://www.youtube.com/watch?v=bE66gzgi6mk&t=671s) (external link) walks through the same steps. The video uses Cristian's DNS.
 
 
 ## PAL
