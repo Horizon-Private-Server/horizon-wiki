@@ -33,7 +33,7 @@ Both versions of PCSX2 require you to have administrative access to the folder t
 
 ## PCSX2 1.6.0
 
-To get online with PCSX2 1.6.0:
+To get online with PCSX2 1.6.0, follow this easy 3-step process:
 
 1. Follow the video tutorial: [https://www.youtube.com/watch?v=bE66gzgi6mk&t=79s](https://www.youtube.com/watch?v=bE66gzgi6mk&t=79s)
 2. In addition to the steps shown in the video, we recommend enabling the "EE Timing Hack" setting using the steps listed below:
@@ -48,5 +48,5 @@ In PCSX2 navigate to Config, then Emulation Settings. Then go to the Game Fixes 
 
 Many emulator players have reported smoother gameplay using PCSX2 1.7.0, which is technically in beta still. There are two PCSX2 1.7.0 builds that have been tested so far:
 
-- [Special 1.7.0 build for Ratchet and Clank online by Atomic83](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
-- Generic 1.7.0 build [Link coming soon]
+- Special 1.7.0 build for Ratchet and Clank online by Atomic83 [guide by DeathBySnowman](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
+- [Generic 1.7.0 build](https://pcsx2.net/downloads/)
