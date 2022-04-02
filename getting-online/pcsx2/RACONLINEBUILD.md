@@ -12,7 +12,7 @@ The screenshots below are from my Windows 10 PC. I am not a PCSX2 expert, so ple
 
 Set up as follows:
 
-1. Download the beta build zip file from: [https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view](https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view)
+1. Download the beta build zip file from: [this link](https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view).
 2. Unzip the folder and move it into the directory you would like to run it from e.g. Program Files (this build does not have an installer file).
 3. Install npcap using the “nmap-7.91-setup.exe” file in the folder. This has to be done to allow for online play.
 
