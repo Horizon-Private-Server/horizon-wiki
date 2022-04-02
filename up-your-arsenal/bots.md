@@ -1,8 +1,8 @@
 # Multiplayer Bots
 
-Multiplayer bots have been created to play alongside or against other bots and players. Currently the bots only play **Team Deathmatch** and will not play Siege/CTF. Support for those modes will come later. ![Source code](https://github.com/Horizon-Private-Server/horizon-uya-bot)
+Multiplayer bots have been created to play alongside or against other bots and players. Currently the bots only play **Team Deathmatch** and will not play Siege/CTF. Support for those modes will come later. [Source code](https://github.com/Horizon-Private-Server/horizon-uya-bot)
 
-**IMPORTANT**: Only invite bots after all normal players have joined the game
+**IMPORTANT**: Only invite bots after all normal players have joined the game.
 
 Bots can be invited using the normal "Invite Player" menu within the game (they take ~10 seconds to join). Below is a table of the bot names to invite:
 
@@ -32,12 +32,12 @@ Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 
 
 2. How do I make the bot change team?
-- To make them change colors, you can use the "request team change" in staging
+- To make them change colors, you can use the "request team change" in staging.
 
 
 3. Why did the bot leave the game?
-- The CPUs will only stay in the game for 15 minutes once they enter staging (to prevent abuse). If it was earlier, please post in #uya-crash-logs on discord
+- The CPUs will only stay in the game for 15 minutes once they enter staging (to prevent abuse). If it was earlier, please post in #uya-crash-logs on discord.
 
 
-4. It takes a long time to kick a bot from a game
-- Yeah it takes about 45 seconds
+4. It takes a long time to kick a bot from a game!
+- Yeah it takes about 45 seconds.
