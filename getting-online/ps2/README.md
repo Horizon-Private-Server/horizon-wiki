@@ -46,8 +46,8 @@ If you prefer, [this video](https://www.youtube.com/watch?v=bE66gzgi6mk&t=671s) 
 
 ## PAL
 
-If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC U/C version). Unfortunately, Gladiator is not supported at this time.
+If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). Unfortunately, Gladiator is not supported at this time.
 
-Thanks to some outstanding community members, we have guides in English and Spanish for how to access our servers on a PAL or NTSC-J PS2. These links are both external to our wiki - if there are any issues with them please let us know on Discord!
+Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on a PAL or NTSC-J PS2. These links are external to our wiki - if there are any issues with them please let us know on Discord!
 - [English - thanks to Skunk](https://docs.google.com/document/d/1jAF87A5NoRKrZr333MPjoB4VhHVBlVZUVFXnsSf8wkw/view)
 - [Español - gracias a TaxEvasionIsFun](https://docs.google.com/document/d/1-Nn91KYuJ2cDUKOhCcN-2zBaem1v-PUNPSyupaaHa1g/view)
