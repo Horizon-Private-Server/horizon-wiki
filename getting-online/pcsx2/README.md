@@ -48,5 +48,7 @@ In PCSX2 navigate to Config, then Emulation Settings. Then go to the Game Fixes 
 
 Many emulator players have reported smoother gameplay using PCSX2 1.7.0, which is technically in beta still. There are two PCSX2 1.7.0 builds that have been tested so far:
 
-- Special 1.7.0 build for Ratchet and Clank online by Atomic83 [guide by DeathBySnowman](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
-- [Generic 1.7.0 build](https://pcsx2.net/downloads/)
+- Special 1.7.0 build for Ratchet and Clank online by Atomic83 ([click here for a guide by DeathBySnowman])(/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
+- Generic 1.7.0 build from PCSX2 website ([Click here for a guide by TheBananaTarT])(https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/)
+
+Due to the wide variety of computer specss, PCSX2 configuration is to some extent a matter of trial and error. If the settings shown in one of the guides aren't working well for you, you may want to try the settings shown in the other guide.
