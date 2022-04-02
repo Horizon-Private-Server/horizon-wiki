@@ -28,7 +28,20 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 
 If you have an NTSC-U/C PS2 and game disc (United States/Canada), congratulations! You have the easiest setup of anyone.
 
-Coming soon!
+Steps are as follows:
+1. Navigate to the Multiplayer area of UYA and select Online Play.
+2. Press Square to access Network Setup. Wait for it to load.
+3. Select "Add Setting."
+4. Save to whichever memory card slot you are using.
+5. Select the "SCE/Ethernet (Network Adaptor)" hardware.
+6. Select "Not Required" for the next question.
+7. For "Set the IP address automatically?" select Auto.
+8. For "Set the DNS server address automatically?" select _Manual._
+9. Change the "Primary DNS" to what is shown in the Horizon Discord. As of this writing, you can use the Horizon DNS, Cristian's DNS, or 1UP/K3rber0s' DNS to access UYA or DL on the Horizon server.
+10. Wait for the connection test to complete, then save the settings. It is recommended, but not required, to change the name of the setting to match that of the DNS that you chose in step 9.
+11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network. That's it!
+
+You can also refer to [this video](https://www.youtube.com/watch?v=bE66gzgi6mk&t=671s). The video uses Cristian's DNS.
 
 
 ## PAL
