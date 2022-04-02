@@ -10,7 +10,7 @@ Contents:
 - [NTSC PS2](/getting-online/ps2/README.md#NTSC)
 - [PAL PS2](/getting-online/ps2/README.md#PAL)
 
-##Introduction
+## Introduction
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
@@ -24,14 +24,14 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 - Free McBoot memory card (only needed if you have a PAL or NTSC-J PS2 and game disc).
 
 
-##NTSC
+## NTSC
 
 If you have an NTSC-U/C PS2 and game disc (United States/Canada), congratulations! You have the easiest setup of anyone.
 
 Coming soon!
 
 
-##PAL
+## PAL
 
 If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC U/C version). Unfortunately, Gladiator is not supported at this time.
 
