@@ -7,4 +7,4 @@ Select the link below based on your platform!
 ## Guides
 
 - [PCSX2](/getting-online/pcsx2/README.md)
-- PS2
+- [PS2](/getting-online/ps2/README.md)
