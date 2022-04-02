@@ -20,8 +20,8 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 - The basics: PS2, controller, memory card, and disc for the game you want to play.
 - Network adapter, if you have a "fat" PS2. This is not needed if you have a "slim" PS2, as it is already built-in.
 - Network cable, and ability to connect that network cable to your router.
-- USB stick (only needed if you have a PAL or NTSC-J PS2 and game disc).
-- Free McBoot memory card (only needed if you have a PAL or NTSC-J PS2 and game disc).
+- USB stick (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
+- Free McBoot memory card (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
 
 
 ## NTSC
