@@ -1,6 +1,8 @@
 # Using PCSX2 1.7.0 (R&C Online Build)
 
-Guide by DeathBySnowman
+This is a guide on how to configure atomic83's PCSX2 build created specifically for Ratchet Online.
+
+_This guide is by DeathBySnowman, last revised 2 April 2022._
 
 Results using any version of PCSX2 will depend greatly on your processor, graphics card, network connection, and other factors.
 
@@ -59,8 +61,6 @@ Set up as follows:
 
 12. Click OK to save all of the Graphics Settings changes.
 13. Obtain your ISO for UYA or DL if you have not already done so, or insert the game disc.
-**NOTE** If you have a PAL version of the game, download the file linked below and place it into the cheats folder of your PCSX2 installation. Then, in the PCSX2 system menu navigate to System -> Game Settings -> Enable Cheats (If you have an NTSC version of the game, you can ignore this extra step).
-Link to PAL cheat file (after clicking link, right click, "Save As")
-14. Navigate to Online Play and run the network setup tool. Create a new config and enter the Horizon DNS (visit the discord server to get this). Save the config as "horizon" or whatever name you want.
-15. That’s it! If you have any questions, please use the #tech-support channel.
-
+**NOTE:** If you have a PAL version of the game, download the file [here](/assets/cheats/17125698.pnach) (right click, "Save As") and place it into the cheats folder of your PCSX2 installation. Then, in the PCSX2 system menu navigate to System -> Game Settings -> Enable Cheats (If you have an NTSC version of the game, you can ignore this extra step).
+14. Navigate to Online Play and run the network setup tool. Create a new config and enter the correct DNS (visit the Discord server to get this). Save the config as "horizon" or whatever name you want.
+15. That’s it! If you have any questions, please use the #tech-support channel in the Discord server.
