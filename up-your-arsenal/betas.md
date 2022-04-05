@@ -2,6 +2,8 @@
 
 Support for some UYA Betas and Prototypes have been added to the Horizon UYA Test server.
 
+The betas are early versions of UYA that were shown during press releases and testing before UYA officially was released.
+
 Supported versions:
 
 | Version | Region | Features |
