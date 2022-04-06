@@ -15,15 +15,15 @@ Supported versions:
 ## How do I play the betas?
 ### PCSX2
 1. Obtain an ISO file of the beta you want to play. **NOTE: Depending on where you live, ISO downloads available online may or may not be legal. If using an illegal ISO, you agree to completely release the UYA Staff, DL Staff, and all other members of the online community from any liability resulting from your actions.**
-2. Steps 2-6 need to be completed on a Windows computer. You need to patch the ISO file so that it can pass through DNAS. Start by downloading the DNAS patch tool `DNAS_PATCHER21.7z` from [this link](https://www.psx-place.com/threads/dnas-net-patcher.22813/).
-3. Extract the `.exe` file and the ISO into the same folder using 7-zip. *Note: You may have to temporarily disable your antivirus software to successfully extract the files.*
-4. Drag and drop the ISO file over the `.exe` file. It will open a black Command Prompt window saying that it is scanning the ISO.
-5. Once the Command Prompt window disappears, check the "date modified" for the ISO beta file. If the patch tool worked correctly, the date/time should have changed to the latest time.
-6. Now you can open the ISO in PCSX2 as you would normally.
-7. Set the DNS to the UYA Test server DNS. You can find this in the [Horizon Discord](https://discord.gg/horizonps).
-8. Connect as you normally would. If your game freezes on "Looking up lobby server", reset PCSX2 and try again.
-9. You will notice the profile screen is different than what you are used to. To change your profile name and password from the defaults, select the fields and change them.
-10. Select "Login" to log in (if it says "Connection failed" the first time, keep trying). Enjoy!
+2. Steps 2-5 need to be completed on a Windows computer. You need to patch the ISO file so that it can pass through DNAS. Start by downloading the DNAS patch tool `DNAS_PATCHER21.7z` from [this link](https://www.psx-place.com/threads/dnas-net-patcher.22813/).
+3. Extract the `.exe` file and the ISO into the same folder using 7-zip. *Note: You may have to temporarily disable any antivirus software to successfully extract the files.*
+4. Drag and drop the ISO file over the `.exe` file. A black Command Prompt window will open, stating that the ISO is being scanned.
+5. Once the Command Prompt window disappears, check the "date modified" on the ISO beta file. If the patch tool worked correctly, the date/time should have changed to the latest time. Now you can open the ISO in PCSX2 as you would normally.
+6. In PCSX2, set the DNS to the UYA Test server DNS. You can find this in the [Horizon Discord](https://discord.gg/horizonps).
+7. Connect as you normally would. If your game freezes on "Looking up lobby server", reset PCSX2 and try again.
+8. You will notice the login/select profile screen is different than what you are used to. To change your profile name and password from the defaults, select the fields and change them.
+9. Select "Login" to log in (if it says "Connection failed" the first time, keep trying).
+10. Enjoy!
 
 ### PS2
 [Not Tested] [Rough outline] [Run at your own risk]
