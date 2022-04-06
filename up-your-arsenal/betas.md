@@ -21,7 +21,9 @@ Supported versions:
 5. Once the Command Prompt window disappears, check the "date modified" for the ISO beta file. If the patch tool worked correctly, the date/time should have changed to the latest time.
 6. Now you can open the ISO in PCSX2 as you would normally.
 7. Set the DNS to the UYA Test server DNS. You can find this in the [Horizon Discord](https://discord.gg/horizonps).
-8. Login and play! (If you see an error pop up, reset PCSX2. If no error pops up, just keep trying to login).
+8. Connect as you normally would. If your game freezes on "Looking up lobby server", reset PCSX2 and try again.
+9. You will notice the profile screen is different than what you are used to. To change your profile name and password from the defaults, select the fields and change them.
+10. Select "Login" to log in (if it says "Connection failed" the first time, keep trying). Enjoy!
 
 ### PS2
 [Not Tested] [Rough outline] [Run at your own risk]
