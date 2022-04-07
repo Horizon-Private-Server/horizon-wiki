@@ -29,3 +29,5 @@ Supported versions:
 [Not Tested] [Rough outline] [Run at your own risk]
 - You need Freemcboot
 - Burn the patched ISO file from the PCSX2 steps to a DVD-R
+- OPL also works for these beta builds
+- Use the #tech-support channel in Horizon and we will do our best to help
