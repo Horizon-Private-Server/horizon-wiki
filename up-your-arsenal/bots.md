@@ -16,10 +16,7 @@ Bots can be invited using the normal "Invite Player" menu within the game (they 
 | cpug  | [**EPILEPSY WARNING**] [**WARNING: CAN CRASH YOUR PS2 IF MULTIPLE OF THESE BOTS JOIN**] God mode CPU that has 1000 health and no limits on weapon firing and has aimhack |
 
 ## Maps Supported:
-- Marcadia Palace
-- Blackwater Docks
-- Aquatos Sewers
-- Command Center
+All
 
 ## Weapons
 Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava gun, N60, Rockets
