@@ -2,7 +2,7 @@
 
 This is a guide on how to connect Horizon using PCSX2.
 
-_This guide is by DeathBySnowman, last revised 2 April 2022._
+_This guide is by DeathBySnowman, last revised 16 May 2022._
 
 Contents:
 
