@@ -1,1 +1,8 @@
-test
+# Using PCSX2 1.7.X (latest Nightly Build from PCSX2 website)
+
+This is a guide on how to configure the the latest PCSX2 "nightly build" as of 16 May 2022 (build v1.7.2755). It is not the responsibility of Horizon Staff to keep up with the changes in functionality afforded by each PCSX2 nightly build release. However, it has come to our attention that the process may have changed significantly since our other 1.7.0 guides were written.
+
+Set up as follows:
+
+1. Download the latest Nightly Build from [the PCSX2 website.](https://pcsx2.net/downloads/#nightly-anchor)
+2. 
