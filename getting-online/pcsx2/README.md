@@ -37,22 +37,14 @@ Read on for step-by-step written guides on how to set up each version of PCSX2.
 ## PCSX2 1.7 Nightly Build
 
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
-- [Click here for a guide by DeathBySnowman](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
-- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord)
+- [Click here for a guide by DeathBySnowman.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
+- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT.](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord)
 
 ## PCSX2 1.7 Other Builds
 
 Besides the nightly builds, Atomic83 also created a special 1.7.0 build for Ratchet and Clank online in fall 2021.
-- [Click here for a guide by DeathBySnowman](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
+- [Click here for a guide by DeathBySnowman.](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
 
 ## PCSX2 1.6
-To get online with PCSX2 1.6:
-
-1. Follow the video tutorial: [https://www.youtube.com/watch?v=bE66gzgi6mk&t=79s](https://www.youtube.com/watch?v=bE66gzgi6mk&t=79s)
-2. In addition to the steps shown in the video, we recommend enabling the "EE Timing Hack" setting using the steps listed below:
-
-In PCSX2 navigate to Config, then Emulation Settings. Then go to the Game Fixes section. Un-check the "Preset" box. Check the "Enable manual game fixes" box. Check the "EE timing hack" box to enable the setting. 
-
-![img](/assets/pcsx2/emulation_settings.png)
-
-3. This last step ONLY applies if you are using a PAL or NTSC-J ISO/disc. You will need to also download the file linked below and save it into the Cheats folder of your PCSX2 installation. Then open PCSX2 and select "Enable Cheats" from the System menu. Also, when setting up your profile choose "Europe" for the server setting. Again, this last step is not necessary if you are using an NTSC-U/C ISO/disc. You can download the cheat [here](/assets/cheats/17125698.pnach). (right click, "Save As")
+PCSX2 1.6 is the most recent "stable" release of PCSX2.
+- [Click here for a guide by DeathBySnowman, which leans heavily on a video guide from Joey Hall - famous for 'The War for UYA'!](/getting-online/pcsx2/1.6.md)
