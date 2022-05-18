@@ -15,7 +15,7 @@ Contents:
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
-If possible, we recommend playing both titles on a PS2 for the smoothest gameplay experience (instructions for connecting on a PS2 are available [here](/getting-online/ps2). However, we realize that PS2s are 20+ year old technology, so you may not still have one lying around or wish to invest in one. This overview guide is meant for those who cannot or choose not to get a PS2, and would therefore like to play on emulator.
+If possible, we recommend playing both titles on a PS2 for the smoothest gameplay experience (instructions for connecting on a PS2 are available [here](/getting-online/ps2)). However, we realize that PS2s are 20+ year old technology, so you may not still have one lying around or wish to invest in one. This overview guide is meant for those who cannot or choose not to get a PS2, and would therefore like to play on emulator.
 
 The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It can be used on a Windows, Mac, or Linux computer. To play any PS2 game on PCSX2, you need the following:
 
@@ -38,7 +38,7 @@ Read on for step-by-step written guides on how to set up each version of PCSX2.
 
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 - [Click here for a guide by DeathBySnowman.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
-- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT.](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord)
+- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord)
 
 ## PCSX2 1.7 Other Builds
 
