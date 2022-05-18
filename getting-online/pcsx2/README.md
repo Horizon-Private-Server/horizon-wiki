@@ -2,7 +2,8 @@
 
 This is a guide on how to connect Horizon using PCSX2.
 
-_This guide is by DeathBySnowman, last revised 16 May 2022. Thanks to Skunk for providing feedback on this page._
+_This guide is by DeathBySnowman, last revised 16 May 2022.
+Special thanks to Skunk for providing feedback on this page._
 
 Contents:
 
@@ -34,19 +35,19 @@ Setting up any version of PCSX2 requires you to have administrative, write-level
 
 Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If the settings shown in one of the guides aren't working well for you, you may want to try the settings shown in one of the other guides.
 
-Read on for step-by-step written guides on how to set up each version of PCSX2.
+Read on for step-by-step written guides on how to set up each version of PCSX2. If you have any trouble following these directions, please don't hesitate to ask in the #tech-support channel in the [Horizon Discord server](/https://discord.gg/horizonps).
 
 ## PCSX2 1.7 Nightly Build
 
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 - [Click here for a guide to a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
-- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord)
+- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord).
 
 ## PCSX2 1.7 Other Builds
 
-Nightly builds aside, Atomic83 also created a special 1.7.0 build for Up Your Arsenal/R&C 3 and Deadlocked in fall 2021.
+Nightly builds aside, Atomic83 also created a special PCSX2 1.7.0 build for Up Your Arsenal/R&C 3 and Deadlocked in fall 2021.
 - [Click here for a guide to this build.](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
 
 ## PCSX2 1.6
-PCSX2 1.6 is the most recent "stable" release of PCSX2.
+PCSX2 1.6 is the most recent "official" release of PCSX2.
 - [Click here for a guide to PCSX2 1.6, which leans heavily on a tutorial video from Joey Hall - famous for 'The War for UYA'!](/getting-online/pcsx2/1.6.md)
