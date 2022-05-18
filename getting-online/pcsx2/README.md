@@ -35,7 +35,7 @@ Setting up any version of PCSX2 requires you to have administrative, write-level
 
 Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If the settings shown in one of the guides aren't working well for you, you may want to try the settings shown in one of the other guides.
 
-Read on for step-by-step written guides on how to set up each version of PCSX2. If you have any trouble following these directions, please don't hesitate to ask in the #tech-support channel in the [Horizon Discord server](/https://discord.gg/horizonps).
+Read on for step-by-step written guides on how to set up each version of PCSX2. If you have any trouble following these directions, please don't hesitate to ask in the #tech-support channel in the [Horizon Discord server](https://discord.gg/horizonps).
 
 ## PCSX2 1.7 Nightly Build
 
