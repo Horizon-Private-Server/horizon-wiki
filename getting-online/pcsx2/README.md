@@ -17,7 +17,7 @@ Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratc
 
 If possible, we recommend playing both titles on a PS2 for the smoothest gameplay experience (instructions for connecting on a PS2 are available [here](/getting-online/ps2)). However, we realize that PS2s are 20+ year old technology, so you may not still have one lying around or wish to invest in one. This overview guide is meant for those who cannot or choose not to get a PS2, and would therefore like to play on emulator.
 
-The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It can be used on a Windows, Mac, or Linux computer. To play any PS2 game on PCSX2, you need the following:
+The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is free and can be used on a Windows, Mac, or Linux computer. To play any PS2 game on PCSX2, you need the following:
 
 - A BIOS file from a PS2.
 - An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore:
@@ -26,9 +26,9 @@ The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It can b
 
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
 
-Like most programs, PCSX2 is upgraded over time and has different versions available for download. We generally recommend using [PCSX2 1.7](https://pcsx2.net/downloads/#nightly-anchor), which is technically in beta still. The reason we recommend PCSX2 1.7 is because the gameplay experience is smoother, and the CLR DEV9 plugin is not needed.
+Like most programs, PCSX2 is upgraded over time and has different versions available for download. We usually recommend using [PCSX2 1.7](https://pcsx2.net/downloads/#nightly-anchor), which is technically in beta still. The reason we recommend PCSX2 1.7 is because the gameplay experience is smoother, and the CLR DEV9 plugin is not needed.
 
-If you aren't comfortable with PCSX2 1.7, you may be able to achieve satisfactory results using [PCSX2 1.6](https://pcsx2.net/downloads/#stable-anchor).
+If you aren't comfortable with PCSX2 1.7, you may be able to achieve satisfactory results using [PCSX2 1.6](https://pcsx2.net/downloads/#stable-anchor). We do NOT recommend using any versions of PCSX2 earlier than 1.6.
 
 Setting up any version of PCSX2 requires you to have administrative, write-level access to the folder that you install PCSX2 into. You also must have enough tech-savviness to move files around between specific folders on your computer.
 
