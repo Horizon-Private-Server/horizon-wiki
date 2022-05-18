@@ -10,7 +10,7 @@ Set up as follows:
 
 1. Download the beta build zip file from: [this link](https://drive.google.com/file/d/1YySqp8dklkwmEIqz1L81FjNsWhAP_cvB/view).
 2. Unzip the folder and move it into the directory you would like to run it from e.g. Program Files (this build does not have an installer file).
-3. Install Nmap using the “nmap-7.91-setup.exe” file in the folder, or get the latest version from [this link](https://nmap.org/download) - find the "Latest stable release self-installer: nmap-X.XX-setup.exe" and download it. This has to be done to allow for online play.
+3. Install Nmap using the “nmap-7.91-setup.exe” file in the folder, or get the latest version from [this link](https://nmap.org/download) (find the "Latest stable release self-installer: nmap-X.XX-setup.exe" and download it). This has to be done to allow for online play.
 
 ![img](/assets/pcsx2/windows_explorer.png)
 
