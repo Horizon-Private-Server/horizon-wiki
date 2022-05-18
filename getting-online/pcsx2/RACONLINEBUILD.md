@@ -1,14 +1,10 @@
 # Using PCSX2 1.7.0 (R&C Online Build)
 
-This is a guide on how to configure atomic83's PCSX2 build created specifically for Ratchet Online.
+This is a guide on how to configure atomic83's PCSX2 1.7.0 build created specifically for Ratchet Online.
 
-_This guide is by DeathBySnowman, last revised 2 April 2022._
+_This guide is by DeathBySnowman, last revised 17 May 2022._
 
-Results using any version of PCSX2 will depend greatly on your processor, graphics card, network connection, and other factors.
-
-That said, if purchasing a PS2 is not an option for you and you would like to attempt to optimize online game performance/minimize lag/etc., you may want to try this beta build of PCSX2 1.7.0 that was created specifically for Ratchet and Clank Online.
-
-The screenshots below are from my Windows 10 PC. I am not a PCSX2 expert, so please let me know if anything below is incorrect or doesn’t make sense. Thank you!
+If you would like to attempt to optimize online game performance/minimize lag/etc., you may want to try this beta build of PCSX2 1.7.0 that was created specifically for Ratchet and Clank Online.
 
 Set up as follows:
 
