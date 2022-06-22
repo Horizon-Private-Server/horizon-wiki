@@ -7,8 +7,8 @@ _This guide is by DeathBySnowman, last revised 2 April 2022._
 Contents:
 
 - [Introduction](/getting-online/ps2/README.md#introduction)
-- [NTSC PS2](/getting-online/ps2/README.md#NTSC)
-- [PAL PS2](/getting-online/ps2/README.md#PAL)
+- [NTSC-U/C PS2](/getting-online/ps2/README.md#NTSC-U/C)
+- [PAL or NTSC-J PS2](/getting-online/ps2/README.md#PAL-or-NTSC-J)
 
 ## Introduction
 
@@ -23,8 +23,16 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 - USB stick (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
 - Free McBoot memory card (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
 
+_PLEASE NOTE - Regardless of platform, the following versions of the game are currently playable online:_
+- Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3):
+  - NTSC-U/C (North America)
+  - PAL (Europe)
+  - NTSC-J (Korean Only - Japanese release not supported)
+- Ratchet: Deadlocked (Ratchet Gladiator):
+  - NTSC-U/C (North America) only
 
-## NTSC
+
+## NTSC-U/C
 
 If you have an NTSC-U/C PS2 and game disc (United States/Canada), congratulations! You have the easiest setup of anyone.
 
@@ -44,7 +52,7 @@ Steps are as follows:
 If you prefer, [this video](https://www.youtube.com/watch?v=bE66gzgi6mk&t=671s) (external link) walks through the same steps. The video uses Cristian's DNS.
 
 
-## PAL
+## PAL or NTSC-J
 
 If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). Unfortunately, Gladiator is not supported at this time.
 
