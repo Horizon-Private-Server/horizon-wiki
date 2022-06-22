@@ -7,7 +7,7 @@ _This guide is by DeathBySnowman, last revised 2 April 2022._
 Contents:
 
 - [Introduction](/getting-online/ps2/README.md#introduction)
-- [NTSC-U/C PS2](/getting-online/ps2/README.md#NTSC-U/C)
+- [NTSC-U/C PS2](/getting-online/ps2/README.md#NTSC-UC)
 - [PAL or NTSC-J PS2](/getting-online/ps2/README.md#PAL-or-NTSC-J)
 
 ## Introduction
