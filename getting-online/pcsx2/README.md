@@ -22,7 +22,7 @@ The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is fr
 
 - A BIOS file from a PS2.
 - An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore:
-  - The ISO version must be either NTSC-U/C (North America), PAL (Europe), or NTSC-J (Korean only - the Japanese ISO *cannot* be used).
+  - For UYA/Ratchet and Clank 3, the ISO version must be either NTSC-U/C (North America), PAL (Europe), or NTSC-J (Korean only - the Japanese ISO *cannot* be used). For Deadlocked/Gladiator, the ISO version must be NTSC-U/C (North America) only.
   - The ISO version must match the BIOS version. For example, if you have an NTSC-U/C BIOS you will also need an NTSC-U/C ISO.
 
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
