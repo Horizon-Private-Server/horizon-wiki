@@ -6,11 +6,11 @@ Select the link below based on your platform!
 
 _PLEASE NOTE - Regardless of platform, the following versions of the game are currently playable online:_
 - Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3):
-  - NTSC-U (North America)
+  - NTSC-U/C (North America)
   - PAL (Europe)
   - NTSC-J (Korean Only - Japanese release not supported)
 - Ratchet: Deadlocked (Ratchet Gladiator):
-  - NTSC-U (North America) only
+  - NTSC-U/C (North America) only
 
 ## Guides
 
