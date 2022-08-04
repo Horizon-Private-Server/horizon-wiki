@@ -16,5 +16,5 @@ Currently, Horizon supports the following PS2 games:
 # Quick Links
 
 > ## Deadlocked Custom Maps
-> * [PS2 Custom Maps](https://rac-horizon.com/downloads/dl_custom_maps_ps2.zip)
-> * [PCSX2 Custom Maps](https://rac-horizon.com/downloads/dl_custom_maps_pcsx2.zip)
+> * [PS2 Custom Maps](https://drive.google.com/file/d/145WPUabWJgDUlujdsA6ia9jMUJhSyd5g/view?usp=sharing)
+> * [PCSX2 Custom Maps](https://drive.google.com/file/d/1L2TEUXG4PqaJgmmuFrldDSrb6LMNop_u/view?usp=sharing)
