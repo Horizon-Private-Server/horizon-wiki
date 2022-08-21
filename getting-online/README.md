@@ -9,8 +9,9 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
   - NTSC-U/C (North America)
   - PAL (Europe)
   - NTSC-J (Korean only - Japanese release not supported)
-- Ratchet: Deadlocked (Ratchet Gladiator):
-  - NTSC-U/C (North America) only
+- Ratchet: Deadlocked (Ratchet: Gladiator):
+  - NTSC-U/C (North America)
+  - PAL (Europe)
 
 ## Guides
 

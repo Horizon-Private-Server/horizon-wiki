@@ -57,6 +57,6 @@ Set up as follows:
 
 12. Click OK to save all of the Graphics Settings changes.
 13. Obtain your ISO for UYA or DL if you have not already done so, or insert the game disc.
-**NOTE:** If you have a PAL or NTSC-J version of the game, download the file [here](/assets/cheats/17125698.pnach) (right click, "Save As") and place it into the cheats folder of your PCSX2 installation. Then, in the PCSX2 system menu navigate to System -> Game Settings -> Enable Cheats (If you have an NTSC-U/C version of the game, you can ignore this extra step).
+**NOTE:** If you have a PAL or NTSC-J version of the game, download the files [here (R&C3)](/assets/cheats/17125698.pnach) and [here (Gladiator)](/assets/cheats/D697D204.pnach) (right click, "Save As") and place it into the cheats folder of your PCSX2 installation. Then, in the PCSX2 system menu navigate to System -> Game Settings -> Enable Cheats (If you have an NTSC-U/C version of the game, you can ignore this extra step).
 14. Navigate to Online Play and run the network setup tool. Create a new config and enter the correct DNS (visit the Discord server to get this). Save the config as "horizon" or whatever name you want.
 15. That’s it! If you have any questions, please use the #tech-support channel in the Discord server.

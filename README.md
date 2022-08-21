@@ -5,7 +5,7 @@ This is the Wiki for the Horizon Private Server. This wiki will hold all the inf
 Currently, Horizon supports the following PS2 games:
 
 - Ratchet & Clank: Up Your Arsenal (R&C 3) [PAL & NTSC]
-- Ratchet: Deadlocked (Gladiator) [NTSC]
+- Ratchet: Deadlocked (Gladiator) [PAL & NTSC]
 
 # Table of Contents
 

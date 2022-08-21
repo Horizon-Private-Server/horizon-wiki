@@ -1,0 +1,7 @@
+gametitle=Ratchet: Gladiator [D697D204]
+
+# DNAS Skip
+patch=1,EE,D05118E4,extended,00000006
+patch=1,EE,005118D8,extended,00000000
+patch=1,EE,D05118E4,extended,00000006
+patch=1,EE,005118E4,extended,00000005
