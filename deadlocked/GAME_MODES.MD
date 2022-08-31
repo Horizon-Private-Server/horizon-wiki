@@ -247,6 +247,8 @@ There will be more than one occurence of some weapons sometimes, use this to you
 Thus far, each map contains 3 health crates and 2 special pickups (__Quad Damage__ and __Allied Shield__).
 
 ## Recommended Settings
+> Settings surrounded by \*asteriks\* must be set for the game to count towards your [Stats](#stats).
+
 - General
   - Game Type - __Deathmatch__
   - Radar Blips - __On/Short__
@@ -254,10 +256,10 @@ Thus far, each map contains 3 health crates and 2 special pickups (__Quad Damage
   - Charge Boots - __Always__
     > Internal Playtesting has indicated that starting without chargeboots has low impact on overall difficult while also slowing down the first wave(s).
   - Autospawn Weapons - __Off__
-  - Unlimited Ammo - __Off__
+  - Unlimited Ammo - __\*Off\*__
   - Team Play - __On__
     > Survival also supports a competitve mode (team-based and free-for-all [FFA]). More information on this game mode variant will be coming soon!
-  - Survivor - __On__
+  - Survivor - __\*On\*__
     > Survivor can be disabled if you want to play a more casual version of zombies. In this mode, death won't end the game, but instead cost you all of your weapon upgrades.
 - Custom
   - Health Bars - __On__
@@ -302,3 +304,28 @@ As you reach higher waves, different types of more dangerous zombies will start 
 | Exploding Zombie | 7              |  5.0%        |             |            |             |
 | Freeze Zombie    | 9              |  7.0%        |             |            |             |
 | Acid Zombie      | 11             |  7.0%        |             |            |             |
+
+## Stats
+
+Survival supports stat tracking and leaderboards for the following stats. Stats are automatically uploaded to the server at the end of the game.
+
+> __NOTE:__ Stats are only tracked for games with the correct settings. Please view the [Recommended Settings](#recommended-settings-5) for a list of required game settings.
+
+| Stat           | Description |
+|------------------|----------------|
+| Rank            | This is your overall survival rank.             |
+| Experience      | This is the total gained XP. XP is directly proportional to the number of bolts you've gained and the difficulty of the match.             |
+| Games Played    | Total number of survival games played.             |
+| Time Played     | Total number of hours of survival played.             |
+| Kills           | Total number of zombie kills.             |
+| Deaths          | Total number of deaths.             |
+| Revives         | Total number of times you revived a teammate.             |
+| Times Revived   | Total number of times you've been revived.             |
+| High Score      | The highest round you've achieved, per difficulty.             |
+| Weapon Kills    | Total number of zombie kills, per weapon.             |
+
+### Viewing Stats
+
+To view stats you must join the Horizon Discord and use the following slash command. Replace `ACCOUNTNAME` with your account name.
+
+    /deadlocked stats Survival ACCOUNTNAME
