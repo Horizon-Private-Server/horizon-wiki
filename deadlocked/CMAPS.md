@@ -14,8 +14,8 @@ Additional custom map documentation and credits can be found [here](./CMAPS_DETA
 
 ## Download
 
-- [PS2 Maps Download](https://drive.google.com/file/d/1MZj6KdnnNYNzEWsm11pox5AmYgQIWx1R/view?usp=sharing)
-- [PCSX2 Maps Download](https://drive.google.com/file/d/1vH53Jajxfvx59664YRLbAEJuYpTA7Q6Z/view?usp=sharing)
+- [PS2 Maps Download](https://drive.google.com/file/d/145WPUabWJgDUlujdsA6ia9jMUJhSyd5g/view?usp=sharing)
+- [PCSX2 Maps Download](https://drive.google.com/file/d/1L2TEUXG4PqaJgmmuFrldDSrb6LMNop_u/view?usp=sharing)
 
 ## Setup
 
