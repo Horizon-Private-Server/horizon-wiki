@@ -13,7 +13,7 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
   - NTSC-U/C (North America)
   - PAL (Europe)
 
-_Unfortunately, there is no crossplay between the PS2 and PS3 versions of the games.
+Unfortunately, there is no crossplay between the PS2 and PS3 versions of the games.
 
 ## Guides
 
