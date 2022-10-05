@@ -2,7 +2,7 @@
 
 This is a guide on how to connect Horizon using a PS2.
 
-Prefer a video? [Click here for video instructions.](https://www.youtube.com/watch?v=hC7s5P9KKLE). Note that:
+Prefer a video? [Click here for video instructions](https://www.youtube.com/watch?v=hC7s5P9KKLE). Note that:
 - The video uses Horizon's DNS. You can also use Cristian's DNS or 1UP/K3rber0s' DNS to connect.
 - The video shows Deadlocked (Gladiator), but the process is the same for UYA (Ratchet and Clank 3).
 
