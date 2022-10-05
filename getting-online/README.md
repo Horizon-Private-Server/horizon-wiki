@@ -15,7 +15,7 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
 
 Unfortunately, there is no crossplay between the PS2 and PS3 versions of the games.
 
-*Note: Deadlocked custom maps currently work on NTSC-U/C only.
+_Note: Deadlocked custom maps currently work on NTSC-U/C only.
 
 ## Guides
 
