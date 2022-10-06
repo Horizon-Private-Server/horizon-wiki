@@ -4,10 +4,10 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 
 ## Table of contents
 
-- [Multiplayer bots](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bots.md)
-- [Stat tracker website](https://www.uyatracker.net/)
+- [Multiplayer Bots](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bots.md)
+- [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/)
 - [UYA Beta and Prototype Online Servers](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/betas.md)
-- [Big Al Discord bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bigal.md)
+- [Big Al Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bigal.md)
 - [Custom Skins](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md)
 - [Colored Clan Tags](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/clantags.md)
 - [Other Custom Features](https://github.com/jtjanecek/robo/blob/master/docs/features.md)
