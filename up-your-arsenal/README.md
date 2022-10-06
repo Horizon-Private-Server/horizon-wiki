@@ -10,6 +10,8 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [Big Al Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bigal.md)
 - [Custom Skins](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md)
 - [Colored Clan Tags](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/clantags.md)
-- [Other Custom Features](https://github.com/jtjanecek/robo/blob/master/docs/features.md)
+- [Upgrades to "Cities" Area](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/cities.md)
 - Mods - coming soon!
-- Custom Maps - coming soon
+- Custom Maps - coming soon!
+
+
