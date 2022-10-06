@@ -1,5 +1,7 @@
 # Multiplayer Bots
 
+For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
+
 Multiplayer bots have been created to play alongside or against other bots and players. Currently the bots only play **Team Deathmatch** and will not play Siege/CTF. Support for those modes will come later. [Source code](https://github.com/Horizon-Private-Server/horizon-uya-bot)
 
 **IMPORTANT**: Only invite bots after all normal players have joined the game.
