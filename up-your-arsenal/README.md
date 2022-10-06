@@ -10,3 +10,4 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - Custom Maps - coming soon!
 - [Multiplayer bots](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bots.md)
 - [Betas and Prototypes](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/betas.md#uya-betas--prototypes)
+- [Big Al Discord bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bigal.md)
