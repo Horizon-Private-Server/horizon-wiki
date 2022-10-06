@@ -11,4 +11,4 @@ In the #bot-commands channel of the Horizon Discord, type one of the following c
 - `!uyaTeams 0` -- generate balanced UYA teams based on a machine learning model that is trained on game history, maps, player stats, and game mode
 - `!uyaElo [username]` -- get a user's UYA ELO rank for all game modes
 
-For complete Big Al documentation, see: (https://github.com/badger41/big-al-discord-bot)
+For complete Big Al documentation, [click here](https://github.com/badger41/big-al-discord-bot).
