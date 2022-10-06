@@ -5,6 +5,7 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 ## Table of contents
 
 - [Custom Features](https://github.com/jtjanecek/robo/blob/master/docs/features.md)
+- [Custom Skins](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md)
 - Mods - coming soon!
 - Custom Maps - coming soon!
 - [Multiplayer bots](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/bots.md)
