@@ -1,6 +1,6 @@
-# Custom Skins
+# Unlockable Skins
 
-This page explains how to unlock custom skins. It applies to both Up Your Arsenal (Ratchet & Clank 3) and Deadlocked (Gladiator). The process is also the same whether you are using PS2 or emulator.
+This page explains how to unlock extra skins. It applies to both Up Your Arsenal (Ratchet & Clank 3) and Deadlocked (Gladiator). The process is also the same whether you are using PS2 or emulator.
 
 You may know that in the past you had to use a special user name to unlock the skins. _This is no longer needed!_ Just follow the steps below.
 
