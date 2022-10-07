@@ -28,6 +28,7 @@ All
 
 ## Weapons
 Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava gun, N60, Rockets
+
 Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 
 
