@@ -18,3 +18,6 @@ Currently, Horizon supports the following PS2 games:
 > ## Deadlocked Custom Maps
 > * [PS2 Custom Maps](https://drive.google.com/file/d/145WPUabWJgDUlujdsA6ia9jMUJhSyd5g/view?usp=sharing)
 > * [PCSX2 Custom Maps](https://drive.google.com/file/d/1L2TEUXG4PqaJgmmuFrldDSrb6LMNop_u/view?usp=sharing)
+
+# Why "Horizon"?
+We chose the name "Horizon" because we wanted to get away from the Ratchet and Clank Online branding, and avoid any potential confusion around the R & C name in general. For example if we named the server "Ratchet and Clank: Horizon" some might have thought it was an upcoming game from Insomniac.
