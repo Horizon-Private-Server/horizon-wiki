@@ -6,9 +6,9 @@ For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
 
 
 ## Maps and Modes Bots can Play:
-Team Deathmatch: All Maps (the Teams setting must be set to Yes).
+Team Deathmatch: Bots can play on all maps (the Teams setting must be set to Yes).
 
-CTF: Marcadia Palace, Aquatos Sewers, Blackwater Docks, Command Center. Note that for CTF, bots only seek and destroy and do not play objectives (e.g. they do not pick up the flag).
+CTF: Bots can play on Marcadia Palace, Aquatos Sewers, Blackwater Docks, and Command Center. _Note that for CTF, bots only seek and destroy and do not play objectives (e.g. they do not pick up the flag)._
 
 Siege: No support yet - coming soon!
 
