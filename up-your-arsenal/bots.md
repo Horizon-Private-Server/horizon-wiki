@@ -1,12 +1,12 @@
 # Multiplayer Bots
 
-For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
-
 Multiplayer bots have been created to play alongside or against other bots and players.
 
 IMPORTANT NOTES:
 - Currently the bots only play **Team Deathmatch** and will not play Siege/CTF. Support for those modes will come later.
 - Only invite bots after all human players have joined the game.
+
+For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
 
 ## Inviting Bots
 Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game.
