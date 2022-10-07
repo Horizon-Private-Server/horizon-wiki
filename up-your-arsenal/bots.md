@@ -2,14 +2,23 @@
 
 Multiplayer bots have been created to play alongside or against other bots and players.
 
-IMPORTANT NOTES:
-- Currently the bots only play **Team Deathmatch** and will not play Siege/CTF. Support for those modes will come later.
-- Only invite bots after all human players have joined the game.
-
 For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
 
+
+## Maps and Modes That Bots can Play:
+Team Deathmatch: All Maps (the Teams setting must be set to Yes)
+CTF: Marcadia Palace, Aquatos Sewers, Blackwater Docks, Command Center. Note that for CTF, bots only seek and destroy and do not play objectives (e.g. they do not pick up the flag).
+Siege: No support yet - coming soon!
+
+
+## Weapons Supported:
+Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava gun, N60, Rockets
+
+Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
+
+
 ## Inviting Bots
-Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game.
+IMPORTANT: Bots should only be invited after all human players have joined the game. Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game.
 Below is a table of the bot names to invite:
 
 | Bot name  | Description |
@@ -22,16 +31,6 @@ Below is a table of the bot names to invite:
 | cpug  | [**EPILEPSY WARNING**] [**WARNING: CAN CRASH YOUR PS2 IF MULTIPLE OF THESE BOTS JOIN**] God mode CPU that has 1000 health and no limits on weapon firing and has aimhack. See the bottom of this page for the CPUG challenge! |
 
 
-## Maps Supported:
-All
-
-
-## Weapons
-Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava gun, N60, Rockets
-
-Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
-
-
 ## FAQ
 1. How many bots can I invite?
 - You can invite as many bots as there are slots.
@@ -40,7 +39,7 @@ Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 - To make them change colors, you can use the "request team change" in staging.
 
 3. Why did the bot leave the game?
-- By default, the CPUs will only stay in the game for 15 minutes once they enter staging (to prevent abuse). However, you can have the bots stay longer by adding the number of hours with a dash in the invite. For example, cpu4-5 would be inviting a cpu4 for 5 hours of gameplay.
+- By default, the CPUs will only stay in the game for 2 hours once they enter staging. However, you can have the bots stay longer by adding the number of hours with a dash in the invite. For example, cpu4-5 would be inviting a cpu4 for 5 hours of gameplay.
 
 4. It takes a long time to kick a bot from a game!
 - Yeah - it typically takes about 45 seconds.
