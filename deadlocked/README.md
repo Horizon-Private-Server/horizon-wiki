@@ -1,6 +1,6 @@
 # Deadlocked [PS2]
 
-This is the Horizon documentation for the original, PS2 release of Ratchet: Deadlocked. This documentation is relevant to both PS2 console and PCSX2 emulator players.
+This is the Horizon documentation for the original, PS2 release of Ratchet: Deadlocked (Ratchet: Gladiator). This documentation is relevant to both PS2 console and PCSX2 emulator players, and both NTSC and PAL versions of the game.
 
 ## Table of contents
 
