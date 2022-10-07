@@ -40,9 +40,7 @@ NOTE: OPL USB users must install maps on a **separate** USB drive.
 
 ### PCSX2 Guide
 
-Guide to install custom maps on PCSX2.
-
-For a video tutorial, [click here](https://www.youtube.com/watch?v=ATjxkg8dw4k). Thanks to Mercy for the video!
+Guide to install custom maps on PCSX2 (for a video tutorial, [click here](https://www.youtube.com/watch?v=ATjxkg8dw4k) - thanks to Mercy for the video!)
 
 #### Requirements
 
