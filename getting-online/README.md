@@ -18,5 +18,5 @@ _Note: Deadlocked custom maps currently work on NTSC-U/C only._
 
 ## Guides
 
-- [PCSX2](/getting-online/pcsx2/README.md)
 - [PS2](/getting-online/ps2/README.md)
+- [PCSX2](/getting-online/pcsx2/README.md)
