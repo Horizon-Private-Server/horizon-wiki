@@ -21,7 +21,7 @@ Additional custom map documentation and credits can be found [here](./CMAPS_DETA
 
 ### PS2 Guide
 
-Guide to install custom maps on PS2.
+Guide to install custom maps on PS2 (for a video tutorial, [click here](https://www.youtube.com/watch?v=cVRJg_k0Wj0)).
 
 NOTE: OPL USB users must install maps on a **separate** USB drive.
 
