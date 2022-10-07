@@ -61,6 +61,7 @@ To challenge the bot, create a game with the following settings:
 - Frag Limit >= 10
 - Teams = On (remember, bots only play Team Deathmatch mode at this time). However, you must 1v1 the bot. You cannot defeat it alongside other players.
 - Weapons: Either Blitz/Flux/Gravity or Flux Only
+
 Once you create the lobby, invite the bot per instructions above.
 
 No cheats or hacks are allowed. You also must record the game. A smartphone, etc. recording is fine if you do not have a capture card. Send Fourbolt or DeathBySnowman a video recording (publicly or privately) of the entire game. They will verify that the win is legitimate, then award you the Godlike role!
