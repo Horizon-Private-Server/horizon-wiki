@@ -9,3 +9,4 @@ This is the Horizon documentation for the original, PS2 release of Ratchet: Dead
 - [Custom Maps](./CMAPS.md)
 - [Custom Game Modes](./GAME_MODES.MD)
 - [Chat Commands](./CHATCOMMANDS.MD)
+- [Custom Skins](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md)
