@@ -46,7 +46,7 @@ Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 - Yeah - it typically takes about 45 seconds.
 
 5. I think I found a bug!
-- Please post in the #uya-crash-logs channel on our Discord.
+- Please post in the `#uya-crash-logs` channel on our Discord.
 
 6. Where can I find the source code for multiplayer bots?
 - Right over [here](https://github.com/Horizon-Private-Server/horizon-uya-bot).
