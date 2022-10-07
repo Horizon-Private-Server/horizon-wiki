@@ -35,13 +35,13 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
 
 If you have an NTSC-U/C PS2 and game disc (United States/Canada), congratulations! You have the easiest setup of anyone.
 
-### Video Guide
+### NTSC-U/C Video Guide
 [Click here for a video tutorial showing how to play on an NTSC-U/C PS2](https://www.youtube.com/watch?v=hC7s5P9KKLE). Note that:
 - The video uses Horizon's DNS. You can also use Cristian's DNS or 1UP/K3rber0s' DNS to connect. They will all get you to the same place.
 - The video shows Deadlocked (Gladiator), but the process is the same for UYA (Ratchet and Clank 3).
 
 
-#### Written Guide
+### NTSC-U/C Written Guide
 
 Steps are as follows:
 1. Navigate to the Multiplayer area of the game you want to play and select Online Play.
@@ -61,10 +61,10 @@ Steps are as follows:
 
 If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). If you want to player Ratchet: Gladiator, good news! You can play Gladiator online as well on the dedicated Gladiator server. Deadlocked (NTSC-U) player will be able to play with you on the Gladiator server.
 
-### Video Guide
+### PAL/NTSC-J Video Guide
 [Click here for a video tutorial showing how to play on a PAL PS2](https://www.youtube.com/watch?v=X0FfF9xWgMk) - Thanks to CreepNT for this!
 
-### Written Guides
+### PAL/NTSC-J Written Guides
 Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on a PAL or NTSC-J PS2. These links are external to our wiki - if there are any issues with them please let us know on Discord!
 - [English - thanks to Skunk](https://docs.google.com/document/d/1jAF87A5NoRKrZr333MPjoB4VhHVBlVZUVFXnsSf8wkw/view)
 - [Español - gracias a TaxEvasionIsFun](https://docs.google.com/document/d/1-Nn91KYuJ2cDUKOhCcN-2zBaem1v-PUNPSyupaaHa1g/view)
