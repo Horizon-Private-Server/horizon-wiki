@@ -55,7 +55,7 @@ Bots can be invited using the normal "Invite Player" menu within the game. Once 
 
 
 ## CPUG Challenge
-Beat the CPU God and earn the Godlike role on our Discord server! This role will be highlighted in the list of online players, and your name will show up in a special color.
+Beat the CPU God and earn the Godlike role on our Discord server! This role will be highlighted in the list of online users, and your name will show up in a special color.
 
 To challenge the bot, create a game with the following settings:
 - Map = Marcadia Palace
