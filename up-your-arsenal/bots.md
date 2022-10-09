@@ -20,8 +20,9 @@ Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 
 
 ## Inviting Bots
-IMPORTANT: Bots should only be invited after all human players have joined the game. Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game.
-Below is a table of the bot names to invite:
+_IMPORTANT: Bots should only be invited after all human players have joined the game._
+
+Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game. Below is a table of the bot names to invite:
 
 | Bot name  | Description |
 | ------------- | ------------- |
