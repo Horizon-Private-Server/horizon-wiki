@@ -14,7 +14,7 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
   - PAL (Europe)*
 - Unfortunately, there is _NOT_ crossplay between the PS2 and PS3 versions of either game. However, the PS3 version online servers are also playable. Check the #other-servers channel in our Discord for details.
 
-_Note: Deadlocked custom maps currently work on NTSC-U/C only._
+_*Note: Deadlocked custom maps currently work on NTSC-U/C only._
 
 ## Guides
 
