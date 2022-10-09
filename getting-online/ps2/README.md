@@ -59,7 +59,7 @@ Steps are as follows:
 
 ## PAL or NTSC-J
 
-If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). If you want to player Ratchet: Gladiator, good news! You can play Gladiator online as well on the dedicated Gladiator server. Deadlocked (NTSC-U) player will be able to play with you on the Gladiator server.
+If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). If you want to play Ratchet: Gladiator, good news! You can play Gladiator online as well using the dedicated Gladiator server. Deadlocked (NTSC-U/C) players will be able to play with you on the Gladiator server.
 
 ### PAL/NTSC-J Video Guide
 [Click here for a video tutorial showing how to play on a PAL PS2](https://www.youtube.com/watch?v=X0FfF9xWgMk) - Thanks to CreepNT for this!
