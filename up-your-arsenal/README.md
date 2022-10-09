@@ -5,7 +5,7 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 ## Table of contents
 
 - [Multiplayer Bots](./bots.md)
-- [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/)
+- [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/) - Thanks to Nick#1!
 - [UYA Beta and Prototype Online Servers](./betas.md)
 - [Big Al Discord Bot](./bigal.md)
 - [Unlockable Skins](./skins.md)
