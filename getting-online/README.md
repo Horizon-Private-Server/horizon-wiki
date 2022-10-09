@@ -2,7 +2,7 @@
 
 This section is a guide on how to connect to Horizon and play online. 
 
-Select the link below based on your platform!
+Select the link at the bottom of this page based on your platform!
 
 _PLEASE NOTE - Regardless of platform, the following versions of the game are currently playable online:_
 - Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3):
