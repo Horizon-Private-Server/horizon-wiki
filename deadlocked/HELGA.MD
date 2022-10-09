@@ -2,7 +2,8 @@
 
 Helga is a Discord bot that is a great resource for several DL-related tasks, as follows!
 
-Helga tracks stats for various Deadlocked game modes. To see your stats, type the following command in the `#bot-commands` channel in our Discord: `/deadlocked stats Survival ACCOUNTNAME` (where ACCOUNTNAME is your exact profile name as shown on the DL profile edit page).
+Helga tracks stats for various Deadlocked game modes.
+- To see your stats for the Survival game mode, type the following command in the `#bot-commands` channel in our Discord: `/deadlocked stats Survival ACCOUNTNAME` (where ACCOUNTNAME is your exact profile name as shown on the DL profile edit page).
 
 Helga also:
 - Tracks who is currently online on DL. To see a list of who is currently online, check the `#dl-players-online` channel in our Discord.
