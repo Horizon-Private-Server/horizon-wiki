@@ -15,9 +15,9 @@ Currently, Horizon supports the following PS2 games:
 
 # Quick Links
 
-## Discord Server Invite: https://discord.gg/horizonps
+### Discord Server Invite: https://discord.gg/horizonps
 
-## Deadlocked Custom Map Downloads: [PS2 Maps](https://drive.google.com/file/d/145WPUabWJgDUlujdsA6ia9jMUJhSyd5g/view?usp=sharing) | [PCSX2 Maps](https://drive.google.com/file/d/1L2TEUXG4PqaJgmmuFrldDSrb6LMNop_u/view?usp=sharing)
+### Deadlocked Custom Map Downloads: [PS2 Maps](https://drive.google.com/file/d/145WPUabWJgDUlujdsA6ia9jMUJhSyd5g/view?usp=sharing) | [PCSX2 Maps](https://drive.google.com/file/d/1L2TEUXG4PqaJgmmuFrldDSrb6LMNop_u/view?usp=sharing)
 
 # How can I help support Horizon?
 There are multiple ways to support the community:
