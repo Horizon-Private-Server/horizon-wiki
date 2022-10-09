@@ -12,7 +12,7 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
 - Ratchet: Deadlocked (Ratchet: Gladiator):
   - NTSC-U/C (North America)
   - PAL (Europe)*
-- Unfortunately, there is _NOT_ crossplay between the PS2 and PS3 versions of either game. However, the PS3 version online servers are also playable. Check the #other-servers channel in our Discord for details.
+- Unfortunately, there is _NOT_ crossplay between the PS2 and PS3 versions of either game. However, the PS3 version online servers are also playable. Check the `#other-servers` channel in our Discord for details. Also, if you have a backward compatible PS3 you can play the PS2 games online.
 
 _*Note: Deadlocked custom maps currently work on NTSC-U/C only._
 
