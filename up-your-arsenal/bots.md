@@ -6,7 +6,7 @@ For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
 
 
 ## Maps and Modes Bots can Play:
-Team Deathmatch: Bots can play on all maps (the Teams setting must be set to Yes).
+_Team_ Deathmatch: Bots can play on all maps (the Teams setting must be set to Yes).
 
 CTF: Bots can play on Marcadia Palace, Aquatos Sewers, Blackwater Docks, and Command Center. _Note that for CTF, bots only seek and destroy and do not play objectives (e.g. they do not pick up the flag)._
 
@@ -61,7 +61,7 @@ To challenge the bot, create a game with the following settings:
 - Map = Marcadia Palace
 - Mode = Deathmatch
 - Frag Limit >= 10
-- Teams = On (remember, bots only play Team Deathmatch mode at this time). However, you must 1v1 the bot. You cannot defeat it alongside other players.
+- Teams = On (remember, bots only play _Team_ Deathmatch mode at this time). However, you must 1v1 the bot. You cannot defeat it alongside other players.
 - Weapons: Either Blitz/Flux/Gravity or Flux Only
 
 Once you create the lobby, invite the bot per instructions above.
