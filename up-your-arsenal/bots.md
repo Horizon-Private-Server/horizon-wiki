@@ -26,11 +26,11 @@ Bots can be invited using the normal "Invite Player" menu within the game. Once 
 
 | Bot name  | Description |
 | ------------- | ------------- |
-| cpu0  | Basic CPU that will just follow around other players. Does not fire any weapons  |
-| cpu1  | CPU that will fight but has low accuracy |
-| cpu2  | CPU that will fight but has better accuracy than cpu1 |
-| cpu3  | CPU that will fight but has better accuracy than cpu2 |
-| cpu4  | CPU that will fight but has better accuracy than cpu3. Can cycle weapons |
+| cpu0  | Basic CPU that will just follow around other players. Does not fire any weapons.  |
+| cpu1  | CPU that will fight but has low accuracy. |
+| cpu2  | CPU that will fight but has better accuracy than cpu1. |
+| cpu3  | CPU that will fight but has better accuracy than cpu2. |
+| cpu4  | CPU that will fight but has better accuracy than cpu3. Can cycle weapons. |
 | cpug  | [**EPILEPSY WARNING**] [**WARNING: CAN CRASH YOUR PS2 IF MULTIPLE OF THESE BOTS JOIN**] God mode CPU that has 1000 health and no limits on weapon firing and has aimhack. See the bottom of this page for the CPUG challenge! |
 
 
