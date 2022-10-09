@@ -14,7 +14,7 @@ Siege: No support yet - coming soon!
 
 
 ## Weapons Supported:
-Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava gun, N60, Rockets
+Weapons that work against bots: Gravity Bomb, Blitz, Flux, Lava Gun, N60, Rockets
 
 Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 
