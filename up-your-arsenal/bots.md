@@ -66,4 +66,4 @@ To challenge the bot, create a game with the following settings:
 
 Once you create the lobby, invite the bot per instructions above.
 
-No cheats or hacks are allowed. You also must record the game. A smartphone, etc. recording is fine if you do not have a capture card. Send Fourbolt or DeathBySnowman a video recording (publicly or privately) of the entire game. They will verify that the win is legitimate, then award you the Godlike role!
+No cheats or hacks are allowed. You also must record the game. A smartphone, etc. recording is fine if you do not have a capture card. Send Fourbolt or DeathBySnowman the video recording (publicly or privately) of the entire game. They will verify that the win is legitimate, then award you the Godlike role!
