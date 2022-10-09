@@ -3,7 +3,7 @@
 Big Al is a Discord bot that is a great resource for several UYA-related tasks, as follows!
 
 In the `#bot-commands` channel of the Horizon Discord, type one of the following commands exactly as shown on the left side of the "--", and the bot will reply with the action shown on the right side.
-- `!skins [username]` -- get cheat codes to obtain secret skins for UYA and DL
+- `!skins [username]` -- get cheat codes to obtain [secret skins for UYA and DL](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md)
 - `!uyaStats [username]` -- get some user's UYA stats
 - `!uyaAdvStats [username]` -- get some user's more advanced UYA stats
 - `!uyaAlt [username]` -- get all accounts associated with a UYA user. NOTE: If the user name uses the character "#", type "%23" instead of "#" in your message.
