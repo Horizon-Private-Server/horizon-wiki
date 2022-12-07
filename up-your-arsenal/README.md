@@ -7,11 +7,11 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [Multiplayer Bots](./bots.md)
 - [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/) - Thanks to Nick#1!
 - [UYA Beta and Prototype Online Servers](./betas.md)
-- [Big Al Discord Bot](./bigal.md)
+- [Helga Discord Bot](./helga.md)
 - [Unlockable Skins](./skins.md)
 - [Colored Clan Tags](./clantags.md)
 - [Upgrades to "Cities" Area](./cities.md)
 - Mods - coming soon!
-- Custom Maps - coming soon!
+- Custom Maps - The first custom map for UYA (Maraxus Prison from DL) is currently in beta testing! Check out our Discord server for more info.
 
 
