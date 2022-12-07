@@ -12,6 +12,6 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [Colored Clan Tags](./clantags.md)
 - [Upgrades to "Cities" Area](./cities.md)
 - Mods - coming soon!
-- Custom Maps - The first custom map for UYA (Maraxus Prison from DL) is currently in beta testing! Check out our Discord server for more info.
+- Custom Maps - The first custom map for UYA (Maraxus Prison from DL) is currently in beta testing! Check out our Discord for more info.
 
 
