@@ -38,7 +38,7 @@ Contents:
 
 
 ## Other
-Helga also has several other functions within the Horizon Discord server, including
+Helga also has several other functions within the Horizon Discord server, including:
 - Displaying who is currently online for both UYA (`#uya-players-online`) and DL (`#dl-players-online`).
 - Automatically assigning and unassigning roles based on Discord user reactions in the `#roles` channel.
 - Shares new videos uploaded to the Horizon Youtube channel, and posts whenever someone is streaming UYA or DL online. All of this can be found in the `#media` channel.
