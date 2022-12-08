@@ -8,6 +8,7 @@ You may know that in the past you had to use a special user name to unlock the s
 2. The Helga Discord bot will reply to your message and show a list of cheat codes for all unlockable skins.
 3. In UYA or DL, go to the profile edit page of the profile that you want to use the custom skin with.
 4. Hold down the L2 button. While holding down L2, enter the cheat code from step 2 using your D-pad.
-5. A message will pop up similar to what is shown below for UYA, indicating that you have unlocked the desired skin. Press circle to save your profile.
+5. A message will pop up similar to what is shown below for UYA, indicating that you have unlocked the desired skin. Press OK.
+6. Press circle to save your profile.
 
 ![img](/assets/uya/uya_skin_unlock.png)
