@@ -6,7 +6,7 @@ All commands can be typed in the `#bot-commands` channel of the Horizon Discord.
 Contents:
 - [UYA (R&C 3)](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD#UYA)
 - [Deadlocked (Gladiator)](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD#DL)
-- [Other](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD#Documentation)
+- [Other](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD#Other)
 
 
 ## UYA
