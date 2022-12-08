@@ -33,7 +33,7 @@ Contents:
 - `/deadlocked leaderboard survival [stat]` -- See the top 5 in any [Survival](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#survival) stat.
 - `/deadlocked leaderboard weapons [stat]` -- See the top 5 in any Weapons stat.
 - `/deadlocked skins [DL username]` -- Get cheat codes to obtain [secret skins for DL](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md).
-- `/deadlocked stats [DL username]` -- Get all stats for a specific user account.
+- `/deadlocked stats [stat] [DL username]` -- Get all stats in a certain category for a specific user account.
 
 
 ## Other
