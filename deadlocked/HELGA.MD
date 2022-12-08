@@ -1,6 +1,6 @@
 # Helga Discord Bot
 
-Helga is a Discord bot that is a great resource for many UYA and DL-related tasks.
+Helga is a Discord bot that is a great resource for many tasks related to both UYA and DL.
 
 All commands listed here can be typed in the `#bot-commands` channel of the Horizon Discord. Be sure to type commands exactly as shown, including the slash and the space before the username/clan name/etc.
 
