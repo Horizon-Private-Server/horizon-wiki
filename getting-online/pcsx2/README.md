@@ -39,7 +39,7 @@ Read on for step-by-step written guides on how to set up each version of PCSX2. 
 
 ## PCSX2 1.7 Nightly Build
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
-- [Click here for a guide to a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
+- [Click here for a guide to set up for online play using a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
 - If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord).
 - [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked].
 
