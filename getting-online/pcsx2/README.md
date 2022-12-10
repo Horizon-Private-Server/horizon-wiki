@@ -6,6 +6,7 @@ Contents:
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
 - [PCSX2 1.7 Nightly Build](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
+- [PCSX2 1.7 Older Nightly Builds](/getting-online/pcsx2/README.md#pcsx2-17-older-nightly-builds)
 - [PCSX2 1.7 Other Builds](/getting-online/pcsx2/README.md#pcsx2-17-other-builds)
 - [PCSX2 1.6](/getting-online/pcsx2/README.md#pcsx2-16)
 
@@ -35,15 +36,19 @@ Due to the wide variety of computer specs available, PCSX2 optimization and even
 
 Read on for step-by-step written guides on how to set up each version of PCSX2. If you have any trouble following these directions, please don't hesitate to ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
 
-## PCSX2 1.7 Nightly Build
 
+## PCSX2 1.7 Nightly Build
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 - [Click here for a guide to a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
 - If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord).
 - [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked].
 
-## PCSX2 1.7 Other Builds
 
+## PCSX2 1.7 Older Nightly Builds
+If your version of PCSX2 is a few months old, [you might find this guide most helpful.](/getting-online/pcsx2/1.7NIGHTLYBUILDOLDER.md)
+
+
+## PCSX2 1.7 Other Builds
 Nightly builds aside, Atomic83 also created a special PCSX2 1.7.0 build for Up Your Arsenal/R&C 3 and Deadlocked in fall 2021.
 - [Click here for a guide to this build.](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
 
