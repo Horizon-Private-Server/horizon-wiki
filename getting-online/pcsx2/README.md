@@ -40,7 +40,7 @@ Read on for step-by-step written guides on how to set up each version of PCSX2. 
 ## PCSX2 1.7 Nightly Build
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
-Note that we recommend using wxWidgets builds for now, as Qt builds do not yet have USB support (last checked December 2022). USB support is required to play on the custom maps for Deadlocked, and will be required once custom maps are released on UYA. If you do not care about custom maps, feel free to use a Qt build. We have some Qt build settings pinned in the `#tech-support` channel of our Discord server.
+Note that we recommend using wxWidgets builds for now, as Qt builds do not yet have USB support (last checked December 2022). USB support is required to play on custom maps. If you do not care about custom maps, feel free to use a Qt build. We have some Qt build settings pinned in the `#tech-support` channel of our Discord server.
 
 Once you select your build:
 - [Click here for a guide to set up for online play using a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
