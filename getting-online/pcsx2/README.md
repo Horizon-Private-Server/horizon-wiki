@@ -45,7 +45,7 @@ PCSX2 development progresses rapidly enough that new "nightly builds" are often 
 
 
 ## PCSX2 1.7 Older Nightly Builds
-If your version of PCSX2 is a few months old, [you might find this older guide from May 2022 to be the most accurate.](/getting-online/pcsx2/1.7NIGHTLYBUILDOLDER.md)
+If your build of PCSX2 1.7 is a few months old, [you might find this older guide from May 2022 to be the most accurate.](/getting-online/pcsx2/1.7NIGHTLYBUILDOLDER.md)
 
 
 ## PCSX2 1.7 Other Builds
