@@ -21,8 +21,8 @@ Currently, Horizon supports the following PS2 games:
 
 # How can I help support Horizon?
 There are multiple ways to support the community:
-1. Boost the Discord server.
-2. Donate to our Patreon - please DM a staff member or moderator for the link.
+1. Boost the Discord server (using the menu at the top of the server). Boosting unlocks Discord features in the server such as better streaming and audio quality, more custom emojis, and other fun perks.
+2. Subscribe to the Discord server (using the button near the top of the server, under the event list). Subscription funds go directly towards hosting our private servers. Any additional funds will be saved for either future hosting costs or for community tournaments.
 3. If you cannot or do not wish to contribute financially, there are other ways to help out as well! Some possible examples of this could be hosting regular events on UYA and/or DL to get people online, or answering questions from other community members in the `#tech-support` Discord channel. Staff members will award VIP status (Horizon VIP role) to those who consistently help out.
 
 # Why "Horizon"?
