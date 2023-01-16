@@ -19,20 +19,21 @@ Contents:
 
 ## DL
 *For all commands using the `[stat]` argument, see the live help when typing the command for all stat options.*
-- `/deadlocked leaderboard climber [stat]` -- See the top 5 in any [Infinite Climber](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#infinite-climber) stat.
-- `/deadlocked leaderboard cq [stat]` -- See the top 5 in any Conquest stat.
-- `/deadlocked leaderboard ctf [stat]` -- See the top 5 in any CTF stat.
-- `/deadlocked leaderboard dm [stat]` -- See the top 5 in any Deathmatch stat.
-- `/deadlocked leaderboard gungame [stat]` -- See the top 5 in any [Gun Game](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#gun-game) stat.
-- `/deadlocked leaderboard infected [stat]` -- See the top 5 in any [Infected](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#infected) stat.
-- `/deadlocked leaderboard juggernaut [stat]` -- See the top 5 in any Juggernaut stat.
-- `/deadlocked leaderboard koth [stat]` -- See the top 5 in any King of the Hill stat.
-- `/deadlocked leaderboard overall [stat]` -- See the top 5 in any Overall stat.
-- `/deadlocked leaderboard payload [stat]` -- See the top 5 in any Payload stat.
-- `/deadlocked leaderboard snd [stat]` -- See the top 5 in any [Search and Destroy](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#search-and-destroy-snd) stat.
-- `/deadlocked leaderboard spleef [stat]` -- See the top 5 in any [Spleef](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#spleef) stat.
-- `/deadlocked leaderboard survival [stat]` -- See the top 5 in any [Survival](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#survival) stat.
-- `/deadlocked leaderboard weapons [stat]` -- See the top 5 in any Weapons stat.
+- `/deadlocked-leaderboard climber [stat]` -- See the top 5 in any [Infinite Climber](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#infinite-climber) stat.
+- `/deadlocked-leaderboard cq [stat]` -- See the top 5 in any Conquest stat.
+- `/deadlocked-leaderboard ctf [stat]` -- See the top 5 in any CTF stat.
+- `/deadlocked-leaderboard dm [stat]` -- See the top 5 in any Deathmatch stat.
+- `/deadlocked-leaderboard gungame [stat]` -- See the top 5 in any [Gun Game](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#gun-game) stat.
+- `/deadlocked-leaderboard infected [stat]` -- See the top 5 in any [Infected](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#infected) stat.
+- `/deadlocked-leaderboard juggernaut [stat]` -- See the top 5 in any Juggernaut stat.
+- `/deadlocked-leaderboard koth [stat]` -- See the top 5 in any King of the Hill stat.
+- `/deadlocked-leaderboard overall [stat]` -- See the top 5 in any Overall stat.
+- `/deadlocked-leaderboard payload [stat]` -- See the top 5 in any Payload stat.
+- `/deadlocked-leaderboard snd [stat]` -- See the top 5 in any [Search and Destroy](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#search-and-destroy-snd) stat.
+- `/deadlocked-leaderboard spleef [stat]` -- See the top 5 in any [Spleef](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#spleef) stat.
+- `/deadlocked-leaderboard survival [stat]` -- See the top 5 in any [Survival](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#survival) stat.
+- `/deadlocked-leaderboard training [stat]` -- See the top 5 in any [Training](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/GAME_MODES.MD#training) stat.
+- `/deadlocked-leaderboard weapons [stat]` -- See the top 5 in any Weapons stat.
 - `/deadlocked skins [DL username]` -- Get cheat codes to obtain [secret skins for DL](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md).
 - `/deadlocked stats [stat] [DL username]` -- Get all stats in a certain category for a specific user account.
 

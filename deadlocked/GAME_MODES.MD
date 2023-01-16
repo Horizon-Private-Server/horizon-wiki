@@ -7,17 +7,16 @@ All game modes except for Search and Destory do not contribute towards your stat
 ## Table of Contents
 - [Custom Game Modes](#custom-game-modes)
   - [Table of Contents](#table-of-contents)
-- [Infected](#infected)
-    - [Recommended Settings](#recommended-settings)
 - [Gun Game](#gun-game)
   - [Recommended Settings](#recommended-settings-1)
-- [Spleef](#spleef)
-  - [Recommended Settings](#recommended-settings-2)
+- [Infected](#infected)
+    - [Recommended Settings](#recommended-settings)
 - [Infinite Climber](#infinite-climber)
   - [Recommended Settings](#recommended-settings-3)
 - [Search and Destroy (SND)](#search-and-destroy-snd)
   - [Recommended Settings](#recommended-settings-4)
-- [Duck Hunt](#duck-hunt)
+- [Spleef](#spleef)
+  - [Recommended Settings](#recommended-settings-2)
 - [Survival](#survival)
   - [Bolts, Weapons & Mods](#bolts-weapons--mods)
   - [Weapon Tweaks](#weapon-tweaks)
@@ -27,6 +26,9 @@ All game modes except for Search and Destory do not contribute towards your stat
   - [AI Difficulty](#ai-difficulty)
   - [Zombie Spawns](#zombie-spawns)
     - [Zombie Types](#zombie-types)
+ - [Training](#training)
+  - [Recommended Settings](#recommended-settings-6)
+  - [Fusion (Sniper) Training](#fusion-sniper-training)
 
 # Infected
 
@@ -174,10 +176,6 @@ Additionally, a common community rule has been that players mute themselves in D
     >In order to guarantee a completely fair game, it is recommended that a maximum of 3 weapons are used so every player spawns with the same weapons.
 - Custom
   - Health Crates - __Off__
-
-# Duck Hunt
-
-TBD! More info coming soon!
 
 # Survival
 
@@ -329,3 +327,27 @@ Survival supports stat tracking and leaderboards for the following stats. Stats 
 To view stats you must join the [Horizon Discord](https://discord.gg/horizonps) and use the following slash command. Replace `ACCOUNTNAME` with your account name.
 
     /deadlocked stats Survival ACCOUNTNAME
+
+# Training
+
+A game mode designed to help players practice combat on simple bots.
+
+Training supports the following training modes:
+ - [Fusion Rifle (Sniper) Training](#fusion-sniper-training)
+
+### Recommended Settings
+
+- General
+  - Game Type - __Deathmatch__
+  
+### Fusion (Sniper) Training
+
+In this mode you are given only a Fusion Rifle. You have 5 minutes to kill as many bots as you can. You are rewarded points for killing the bots. Points are based on the following rules:
+
+  - Minimum 250 points per kill
+  - Additional 5 points per unit of distance between the player and the killed bot
+  - Up to 4x point multiplier for long distance shots
+  - 1.5x point multiplier for jump snipes
+  - 2x point multiplier for double jump snipes
+  - Consecutive kills (combos) add an additional .1x to the point multiplier
+  - Additional points are rewarded for kills made in quick succession
