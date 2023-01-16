@@ -26,9 +26,9 @@ All game modes except for Search and Destory do not contribute towards your stat
   - [AI Difficulty](#ai-difficulty)
   - [Zombie Spawns](#zombie-spawns)
     - [Zombie Types](#zombie-types)
- - [Training](#training)
-  - [Recommended Settings](#recommended-settings-6)
-  - [Fusion (Sniper) Training](#fusion-sniper-training)
+- [Training](#training)
+    - [Recommended Settings](#recommended-settings-6)
+    - [Fusion (Sniper) Training](#fusion-sniper-training)
 
 # Infected
 
