@@ -16,10 +16,10 @@ Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratc
 
 If possible, we recommend playing both titles on a PS2 for the smoothest gameplay experience (instructions for connecting on a PS2 are available [here](/getting-online/ps2)). However, we realize that PS2s are 20+ year old technology, so you may not still have one lying around or wish to invest in one. This overview guide is meant for those who cannot or choose not to get a PS2, and would therefore like to play on emulator.
 
-The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is free and can be used on a Windows, Mac, or Linux computer. To play any PS2 game on PCSX2, you need the following:
+The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is free and versions exist for Windows, Mac, and Linux operating systems. To play any PS2 game on PCSX2, you need the following:
 
 - A BIOS file from a PS2.
-- An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, the ISO file must be for a version of the game that we support (as listed [here](/getting-online#how-to-play--getting-online)). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
+- An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, to play UYA or DL online the ISO file must be for a version of the game that we support (as listed [here](/getting-online#how-to-play--getting-online)). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
 
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
 
@@ -33,8 +33,7 @@ Due to the wide variety of computer specs available, PCSX2 optimization and even
 ## PCSX2 1.7 Nightly Build
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
-Once you select your build:
-- [Click here for a guide to set up for online play using a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
+- [Click here for a guide to set up for online play using a recent (December 2022) nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
 - [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) _This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked]._
 
 
