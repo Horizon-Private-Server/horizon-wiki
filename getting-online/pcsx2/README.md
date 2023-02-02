@@ -1,7 +1,7 @@
 # Connecting to Horizon with PCSX2
 
-This is a guide on how to connect Horizon using PCSX2. _Special thanks to community members Skunk and Bubblegum3390 for providing feedback on this page._
-Last updated: February 2023
+This is a guide on how to connect Horizon using PCSX2. Last updated: February 2023
+_Special thanks to community members Skunk and Bubblegum3390 for providing feedback on this page._
 
 Contents:
 
