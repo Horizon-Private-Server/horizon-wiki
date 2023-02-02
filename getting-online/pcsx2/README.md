@@ -34,7 +34,7 @@ Due to the wide variety of computer specs available, PCSX2 optimization and even
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
 - [Click here for a guide to set up for online play using a recent (December 2022) nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
-- [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) _This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked]._
+- [Video setup guide in French language as of November 2022](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) _This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked]._
 
 
 ## Older PCSX2 Setup Guides
