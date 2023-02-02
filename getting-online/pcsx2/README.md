@@ -1,14 +1,13 @@
 # Connecting to Horizon with PCSX2
 
-This is a guide on how to connect Horizon using PCSX2. _Special thanks to community member Skunk for providing feedback on this page._
+This is a guide on how to connect Horizon using PCSX2. _Special thanks to community members Skunk and Bubblegum3390 for providing feedback on this page._
+Last updated: February 2023
 
 Contents:
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
 - [PCSX2 1.7 Nightly Build](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
-- [PCSX2 1.7 Older Nightly Builds](/getting-online/pcsx2/README.md#pcsx2-17-older-nightly-builds)
-- [PCSX2 1.7 Other Builds](/getting-online/pcsx2/README.md#pcsx2-17-other-builds)
-- [PCSX2 1.6](/getting-online/pcsx2/README.md#pcsx2-16)
+- [Older PCSX2 Setup Guides](/getting-online/pcsx2/README.md#older-pcsx2-setup-guides)
 
 ## Introduction
 
@@ -19,43 +18,28 @@ If possible, we recommend playing both titles on a PS2 for the smoothest gamepla
 The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is free and can be used on a Windows, Mac, or Linux computer. To play any PS2 game on PCSX2, you need the following:
 
 - A BIOS file from a PS2.
-- An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore:
-  - For UYA/Ratchet and Clank 3, the ISO version must be either NTSC-U/C (North America), PAL (Europe), or NTSC-J (Korean only - the Japanese ISO *cannot* be used). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
-  - For Deadlocked/Gladiator, the ISO version must be NTSC-U/C (North America) or PAL (Europe).
-  - The ISO version must match the BIOS version. For example, if you have an NTSC-U/C BIOS you will also need an NTSC-U/C ISO.
+- An ISO file for each game you wish to play, OR both the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, the ISO file must be for a version of the game that we support (as listed [here](/getting-online#how-to-play--getting-online)). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
 
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
 
-Like most programs, PCSX2 is upgraded over time and has different versions available for download. We usually recommend using [PCSX2 1.7](https://pcsx2.net/downloads/#nightly-anchor), which is technically in beta still. The reason we recommend PCSX2 1.7 is because the gameplay experience is smoother, and the CLR DEV9 plugin is not needed.
-
-If you aren't comfortable with PCSX2 1.7, you may be able to achieve satisfactory results using [PCSX2 1.6](https://pcsx2.net/downloads/#stable-anchor). We do NOT recommend using any versions of PCSX2 earlier than 1.6.
+Like most programs, PCSX2 is upgraded over time and has different versions available for download. We recommend using the "Latest Nightly" build of [PCSX2 1.7](https://pcsx2.net/downloads/), and NOT the "Latest Stable" release (PCSX2 1.6). The reason we recommend PCSX2 1.7 is because the online gameplay experience is smoother, and the CLR DEV9 plugin is not needed.
 
 Setting up any version of PCSX2 requires you to have administrative, write-level access to the folder that you install PCSX2 into. You also must have enough tech-savviness to move files around between specific folders on your computer.
 
-Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If the settings shown in one of the guides aren't working well for you, you may want to try the settings shown in one of the other guides.
-
-Read on for step-by-step written guides on how to set up each version of PCSX2. If you have any trouble following these directions, please don't hesitate to ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
+Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If you have any questions or issues regarding PCSX2 setup, ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
 
 
 ## PCSX2 1.7 Nightly Build
 PCSX2 development progresses rapidly enough that new "nightly builds" are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
-Note that we recommend using wxWidgets builds for now, as Qt builds do not yet have USB support (last checked December 2022). USB support is required to play on custom maps. If you do not care about custom maps, feel free to use a Qt build. We have some Qt build settings pinned in the `#tech-support` channel of our Discord server.
-
 Once you select your build:
 - [Click here for a guide to set up for online play using a recent nightly build.](/getting-online/pcsx2/1.7NIGHTLYBUILD.md)
-- If the settings in the above guide aren't working well for you, [click here for an alternate guide by TheBananaTarT](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) (link is external to our wiki, if there are any issues with it please let us know on Discord).
-- [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked].
+- [French language PCSX2 1.7 setup video](https://youtu.be/QLflmex8tA0) (Thanks to Kairada for this video!) _This video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked [Cette vidéo montre Ratchet and Clank 3 (Up Your Arsenal), mais le processus de configuration est le même pour Gladiator/Deadlocked]._
 
 
-## PCSX2 1.7 Older Nightly Builds
-If your build of PCSX2 1.7 is a few months old, [you might find this older guide from May 2022 to be the most accurate.](/getting-online/pcsx2/1.7NIGHTLYBUILDOLDER.md)
-
-
-## PCSX2 1.7 Other Builds
-Nightly builds aside, Atomic83 also created a special PCSX2 1.7.0 build for Up Your Arsenal/R&C 3 and Deadlocked in fall 2021.
-- [Click here for a guide to this build.](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
-
-## PCSX2 1.6
-PCSX2 1.6 is the most recent "official" release of PCSX2.
-- [Click here for a guide to PCSX2 1.6, which leans heavily on a tutorial video from Joey Hall - famous for 'The War for UYA'!](/getting-online/pcsx2/1.6.md)
+## Older PCSX2 Setup Guides
+Again, we recommend using the latest nightly build of PCSX2. However, we are keeping links to these older guides available here in case they are useful.
+- [PCSX2 Nightly Build - May 2022](/getting-online/pcsx2/1.7NIGHTLYBUILDOLDER.md)
+- [PCSX2 Nightly Build - early 2022](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) - Thanks to TheBananaTarT for this guide!
+- [PCSX2 UYA/DL Specific Build by Atomic83 - Fall 2021](/getting-online/pcsx2/RACONLINEBUILD.md#using-pcsx2-170-dbs-horizon-build)
+- [PCSX2 1.6 - 2021](/getting-online/pcsx2/1.6.md)
