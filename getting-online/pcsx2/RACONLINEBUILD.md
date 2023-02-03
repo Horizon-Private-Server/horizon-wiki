@@ -1,10 +1,6 @@
 # Using PCSX2 1.7.0 (R&C Online Build)
 
-This is a guide on how to configure atomic83's PCSX2 1.7.0 build created specifically for Ratchet Online.
-
-_This guide is by DeathBySnowman, last revised 17 May 2022._
-
-If you would like to attempt to optimize online game performance/minimize lag/etc., you may want to try this beta build of PCSX2 1.7.0 that was created specifically for Ratchet and Clank Online.
+This is a guide on how to configure Atomic83's PCSX2 1.7.0 build created in fall 2021 specifically for Ratchet Online.
 
 Set up as follows:
 
@@ -59,4 +55,4 @@ Set up as follows:
 13. Obtain your ISO for UYA or DL if you have not already done so, or insert the game disc.
 _**NOTE:** If you have a PAL or NTSC-J version of the game, download the files [here (R&C3)](/assets/cheats/17125698.pnach) and [here (Gladiator)](/assets/cheats/D697D204.pnach) (right click, "Save As") and place it into the cheats folder of your PCSX2 installation. Then, in the PCSX2 system menu navigate to System -> Game Settings -> Enable Cheats (If you have an NTSC-U/C version of the game, you can ignore this extra step)._
 14. Navigate to Online Play and run the network setup tool. Create a new config and enter the correct DNS (visit the Information section of the Horizon Discord server to get this). Save the config as "horizon" or whatever name you want.
-15. That’s it! If you have any questions, please use the `#tech-support` channel in the Discord server.
+15. That’s it! [FAQ - step right over here.](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq)
