@@ -21,14 +21,7 @@ Connecting with a PS2 is also much simpler than connecting with PCSX2. You only 
 - USB stick (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
 - Free McBoot memory card (only needed if you have a PAL or NTSC-J PS2 and game disc). See details below.
 
-_PLEASE NOTE - Regardless of platform, the following versions of the game are currently playable online:_
-- Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3):
-  - NTSC-U/C (North America)
-  - PAL (Europe)
-  - NTSC-J (Korean Only - Japanese release not supported)
-- Ratchet: Deadlocked (Ratchet: Gladiator):
-  - NTSC-U/C (North America)
-  - PAL (Europe)
+PLEASE NOTE - Before investing in a PS2 and games, double check that you are purchasing one of the [versions of the game that we support](/getting-online#how-to-play--getting-online)!
 
 
 ## NTSC-U/C
