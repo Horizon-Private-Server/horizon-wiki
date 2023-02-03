@@ -31,6 +31,7 @@ Due to the wide variety of computer specs available, PCSX2 optimization and even
 We recommend using the "Latest Nightly" build of [PCSX2 1.7](https://pcsx2.net/downloads/). There are several reasons why we recommend PCSX2 1.7 and NOT the "Latest Stable" release (PCSX2 1.6):
 - The online gameplay experience is smoother.
 - The CLR DEV9 plugin is not needed.
+- 64bit support.
 - The software is capable of updating itself - new builds are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
 ### Latest Written Setup Guide
