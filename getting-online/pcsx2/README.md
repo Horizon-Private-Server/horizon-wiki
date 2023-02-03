@@ -18,7 +18,7 @@ If possible, we recommend playing both titles on a PS2 for the smoothest gamepla
 The PS2 emulator is PCSX2 ( [https://pcsx2.net/](https://pcsx2.net/) ). It is free and versions exist for Windows, Mac, and Linux operating systems. To play any PS2 game on PCSX2, you need the following:
 
 - A BIOS file from a PS2.
-- An ISO file for each game you wish to play, OR the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, to play UYA or DL online the ISO file must be for a version of the game that we support (as listed [here](/getting-online#how-to-play--getting-online)). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
+- An ISO file for each game you wish to play, OR the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, to play UYA or DL online the ISO file must be for a version of the game that we support (as listed [here](/getting-online)). We recommend using an NTSC-U/C ISO if possible, because there are fewer steps needed to play online and more people in our community use that version (so more people will be able to help you if you have issues setting it up).
 
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
 
