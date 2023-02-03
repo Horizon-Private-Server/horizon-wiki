@@ -39,8 +39,8 @@ PCSX2 development progresses rapidly enough that new "nightly builds" are often 
 
 ## Older PCSX2 Setup Guides
 Again, we recommend using the latest nightly build of PCSX2. However, we are keeping links to these older guides available here in case they are useful.
-- [PCSX2 Nightly Build - December 2022](/getting-online/pcsx2/1.7Nightly-Dec2022.md)
-- [PCSX2 Nightly Build - May 2022](/getting-online/pcsx2/1.7Nightly-May2022.md)
-- [PCSX2 Nightly Build - early 2022](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) - Thanks to TheBananaTarT for this guide!
-- [PCSX2 UYA/DL Specific Build by Atomic83 - Fall 2021](/getting-online/pcsx2/RACONLINEBUILD.md)
+- [PCSX2 1.7 Nightly Build - December 2022](/getting-online/pcsx2/1.7Nightly-Dec2022.md)
+- [PCSX2 1.7 Nightly Build - May 2022](/getting-online/pcsx2/1.7Nightly-May2022.md)
+- [PCSX2 1.7 Nightly Build - early 2022](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) - Thanks to TheBananaTarT for this guide!
+- [PCSX2 1.7 UYA/DL Specific Build by Atomic83 - Fall 2021](/getting-online/pcsx2/RACONLINEBUILD.md)
 - [PCSX2 1.6 - 2021](/getting-online/pcsx2/1.6.md)
