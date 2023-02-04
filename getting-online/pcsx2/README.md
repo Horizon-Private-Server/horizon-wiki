@@ -36,6 +36,7 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 
 ### Latest Written Setup Guide
 [PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly-Feb2023.md) - last updated February 2023
+
 [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq) - last updated February 2023
 
 ### French Language Video Guide
