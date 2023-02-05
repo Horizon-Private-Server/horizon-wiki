@@ -27,11 +27,15 @@ This page is dedicated to documenting all custom maps for Ratchet: Deadlocked (G
     - [Marcadia Palace](#marcadia-palace)
     - [Metropolis Multiplayer (MP)](#metropolis-multiplayer-mp)
     - [Tyhrranosis](#tyhrranosis)
+  - [Going Commando (R&C 2) Maps](#going-commando-rc-2-maps)
+    - [Snivelak](#snivelak)
   - [Custom Maps](#custom-maps)
+    - [Ace Hardlight's Suite](#ace-hardlights-suite)
     - [Duck Hunt](#duck-hunt)
     - [Hoverbike Race](#hoverbike-race)
     - [Shipment](#shipment)
     - [Spleef](#spleef)
+    - [Torval Lost Factory](#torval-lost-factory)
 
 ## Deadlocked (Gladiator) Maps
 
@@ -249,7 +253,30 @@ This map is exported from the equivalent UYA single player map.
 
 - [x] SND Support
 
+## Going Commando (R&C 2) Maps
+
+### Snivelak
+
+This map is exported from the equivalent GC single player map.
+
+[]()
+
+> Author: [@Badger](https://github.com/badger41)
+> 
+> Latest Version: TBD
+
 ## Custom Maps
+
+### Ace Hardlight's Suite
+
+A Custom Map variation for Battledome. Ace Hardlight's Suite is a fan-made custom map designed specially for small, fast-paced Multiplayer CTF games.
+
+[]()
+
+> Author: [@Badger](https://github.com/badger41)
+> Author: [@Dnawrkshp](https://github.com/dnawrkshp)
+> Latest Version: TBD
+
 
 ### Duck Hunt
 
@@ -282,6 +309,17 @@ This map features frantic gameplay and plenty of cover to weave in and out of.
 ### Spleef
 
 A Custom Map built to coincide with the eponymous custom game mode.
+
+[]()
+
+> Author: [@Badger](https://github.com/badger41)
+> Author: [@Dnawrkshp](https://github.com/dnawrkshp)
+> Latest Version: TBD
+
+
+### Torval Lost Factory
+
+A brand new, first-of-its-kind map variation for Torval. Torval Lost Factory is a fan-made custom map designed specially for Multiplayer CTF with reused assets from Torval.
 
 []()
 
