@@ -28,6 +28,7 @@ This page is dedicated to documenting all custom maps for Ratchet: Deadlocked (G
     - [Metropolis Multiplayer (MP)](#metropolis-multiplayer-mp)
     - [Tyhrranosis](#tyhrranosis)
   - [Going Commando (R&C 2) Maps](#going-commando-rc-2-maps)
+    - [Canal City](#canal-city)
     - [Snivelak](#snivelak)
   - [Custom Maps](#custom-maps)
     - [Ace Hardlight's Suite](#ace-hardlights-suite)
@@ -254,6 +255,16 @@ This map is exported from the equivalent UYA single player map.
 - [x] SND Support
 
 ## Going Commando (R&C 2) Maps
+
+### Canal City
+
+This map is exported from the equivalent GC single player map.
+
+[]()
+
+> Author: [@Badger](https://github.com/badger41)
+> 
+> Latest Version: TBD
 
 ### Snivelak
 
