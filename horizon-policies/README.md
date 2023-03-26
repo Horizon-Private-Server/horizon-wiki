@@ -60,9 +60,9 @@ While we encourage community members to try both UYA/R & C 3 and DL/Gladiator, w
 
 ## Horizon Staff Expectations
 You can expect Horizon staff members to try their best to:  
-- Treat all community members equally.  
+- Treat all community members equally and with respect.  
 - Resolve any and all disputes democratically.  If you have an issue, please tag the Moderators role to get our attention.  
-- Be transparent and honest with community members.  
-- Take feedback into account as much as possible.
+- Be transparent and honest with community members at all times.  
+- Take community feedback into account as much as possible.  
 
-You can always contact us on Discord with any concerns. Thank you for being a part of the Horizon community! - Horizon Staff
+Thank you for being a part of the Horizon community!
