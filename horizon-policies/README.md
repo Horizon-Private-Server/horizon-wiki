@@ -1,11 +1,11 @@
 # Horizon Private Server Rules and Policies
 
-This section contains important rules and policies that the Horizon staff has put in place.
-Unless otherwise noted, all rules on this page apply to all of the following:
+This section contains important rules and policies that the Horizon staff has put in place.  
+Unless otherwise noted, all rules on this page apply in all of the following places:  
 - The Horizon Discord server.  
 - The Ratchet and Clank: Up Your Arsenal/Ratchet and Clank 3 game server that Horizon runs.  
 - The Ratchet: Deadlocked/Ratchet: Gladiator game servers that Horizon runs.  
-- All test game servers that Horizon runs.
+- All test game servers that Horizon runs.  
 
 
 ## Horizon Rules
@@ -24,13 +24,13 @@ This section outlines the Horizon Disciplinary Policy.
 ### Warnings, Mutes, and Bans
 If a user violates the rules above, Horizon staff will generally follow the three-step disciplinary policy outlined here.  
 
-The first time that a user violates the rules:  
+The first time that a user violates the rules ("Warned Once" level):  
 - The user will receive a message from a Horizon staff member explaining the warning.  
 - The user will be muted for one hour.  
 - The user will be given the "Warned Once" role.  
 - The warning will expire in 3 months if there are no addiitonal violations.  
 
-The second time that a user violates the rules:  
+The second time that a user violates the rules ("Warned Twice" level):  
 - The user will receive a message from a Horizon staff member explaining the warning.  
 - The user will be muted for one day.  
 - The user will be blocked from all voice chat channels.  
@@ -42,6 +42,11 @@ The third time that a user violates the rules:
 - At the discretion of the UYA Staff, the user may be banned from the UYA/R&C 3 game server.  
 - At the discretion of the DL Staff, the user may be banned from the DL/Gladiator game servers.  
 - The ban will expire in 9 months.  
+
+### Ban Expiration
+Horizon has a universal 9 month "ban expiration" policy in place. This means that 9 months after the date a user is banned, he/she will be unbanned from the Discord server (and any game servers, as applicable). Horizon staff will not reach out to users to remind them of their "unban date", but the information is available upon request. If you believe that over 9 months have passed and you have not been unbanned, you may contact a Horizon staff member via direct message on Discord for assistance. Plesae keep in mind that unbanning is a manual process that requires time and effort from Horizon staff.  
+
+Horizon staff expects that all community members will treat any previously banned members who choose to rejoin the community with respect, and give them the same new chance to be a part of the community that we (the staff) are giving them. Of course, Horizon satff will also be keeping a close eye on previously banned members. All previously banned members will be started at the "Warned Once" level explained above. The 3 month and 6 month warning expirations also do not apply to previously banned members (i.e. warnings never expire for previously banned users).  
 
 ### Exceptions
 A couple of exceptions to the above process should be noted:  
@@ -61,4 +66,4 @@ You can expect Horizon staff members to try their best to:
 - Take feedback into account as much as possible.
 
 
-Thank you for being a part of the Horizon community
+Thank you for being a part of the Horizon community!
