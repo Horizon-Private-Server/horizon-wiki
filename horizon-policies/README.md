@@ -28,7 +28,7 @@ The first time that a user violates the rules ("Warned Once" level):
 - The user will receive a message from a Horizon staff member explaining the warning.  
 - The user will be muted for one hour.  
 - The user will be given the "Warned Once" role.  
-- The warning will expire in 3 months if there are no addiitonal violations.  
+- The warning will expire in 3 months if there are no additional violations.  
 
 The second time that a user violates the rules ("Warned Twice" level):  
 - The user will receive a message from a Horizon staff member explaining the warning.  
@@ -44,13 +44,13 @@ The third time that a user violates the rules:
 - The ban will expire in 9 months.  
 
 ### Ban Expiration
-Horizon has a universal 9 month "ban expiration" policy in place. This means that 9 months after the date a user is banned, he/she will be unbanned (from the Discord server, and any game servers as applicable). Horizon staff will not reach out to users to remind them of their "unban date", but the date is documented by staff and available upon request. If you believe that over 9 months have passed and you have not been unbanned, you may contact a Horizon staff member via direct message on Discord for assistance. Plesae keep in mind that unbanning is a manual process that requires time and effort from Horizon staff.  
+Horizon has a universal 9 month "ban expiration" policy in place. This means that 9 months after the date a user is banned, he/she will be unbanned (from the Discord server, and any game servers as applicable). Horizon staff will not reach out to users to remind them of their "unban date", but the date is documented by staff and available upon request. If you believe that over 9 months have passed and you have not been unbanned, you may contact a Horizon staff member via direct message on Discord for assistance. Please keep in mind that unbanning is a manual process that requires time and effort from Horizon staff.  
 
 Horizon staff expects that all community members will treat any previously banned users who choose to rejoin with respect, and give them the same new chance to be a part of the community that we (the staff) are giving them. Of course, Horizon staff will also be keeping a close eye on previously banned members. All previously banned members will be started at the "Warned Once" level outlined above. The 3 month and 6 month warning expirations also do not apply to previously banned members (i.e. warnings never expire for previously banned users).  
 
 ### Exceptions
 A couple of exceptions to the above process should be noted:  
-- Horizon staff may also issue informal warnings that do not carry the above consequences (e.g. to first-time offenders and those whose violaions are considered mild). Horizon staff will clarify whether warnings are informal or not.  
+- Horizon staff may also issue informal warnings that do not carry the above consequences (e.g. to first-time offenders and those whose violations are considered mild). Horizon staff will clarify whether warnings are informal or not.  
 - For severe offenses, Horizon staff may also skip steps above. For example, as stated in rule #5 death/assault threats are strictly prohibited so breaking this rule may result in an immediate ban.  
 - Discord now officially supports account switching, but we discourage the use of multiple Discord accounts because of the confusion it causes for other community members. Any disciplinary steps applied to one of your Discord accounts will also be applied to all of your other Discord accounts that we are aware of. For example, if your main account receives a first formal warning and we know that you also have a second account, that second account would also have the warning applied to it.
 
