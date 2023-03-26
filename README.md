@@ -9,7 +9,7 @@ Currently, Horizon supports the following PS2 games:
 
 # Table of Contents
 
-- [Horizon Rules and Policies](/horizon-policies/README.md)
+- [Horizon Detailed Rules and Policies](/horizon-policies/README.md)
 - [How to Play & Connect to Horizon](/getting-online/README.md)
 - [Up Your Arsenal (PS2) - Info, Features & More](/up-your-arsenal/README.md)
 - [Deadlocked (PS2) - Info, Features & More](/deadlocked/README.md)
