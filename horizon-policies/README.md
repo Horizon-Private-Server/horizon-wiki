@@ -1,7 +1,7 @@
 # Horizon Private Server Rules and Policies
 
 This section contains important rules and policies that the Horizon staff has put in place.  
-Unless otherwise noted, all rules on this page apply in all of the following places:  
+Unless otherwise noted, everything on this page applies in all of the following places:  
 - The Horizon Discord server.  
 - The Ratchet and Clank: Up Your Arsenal/Ratchet and Clank 3 game server that Horizon runs.  
 - The Ratchet: Deadlocked/Ratchet: Gladiator game servers that Horizon runs.  
@@ -66,4 +66,4 @@ You can expect Horizon staff members to try their best to:
 - Take feedback into account as much as possible.
 
 
-Thank you for being a part of the Horizon community!
+Thank you for being a part of the Horizon community
