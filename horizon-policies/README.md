@@ -65,5 +65,4 @@ You can expect Horizon staff members to try their best to:
 - Be transparent and honest with community members.  
 - Take feedback into account as much as possible.
 
-You can always contact us on Discord with any concerns. Thank you for being a part of the Horizon community!
-- Horizon Staff
+You can always contact us on Discord with any concerns. Thank you for being a part of the Horizon community! - Horizon Staff
