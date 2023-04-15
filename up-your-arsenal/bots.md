@@ -55,6 +55,7 @@ Bots can be invited using the normal "Invite Player" menu within the game. Once 
 
 
 ## CPUG Challenge
+_Challenge requirements updated April 2023 based on feedback from community members!_
 Beat the CPU God and earn the Godlike role on our Discord server! This role will be highlighted in the list of online users, and your name will show up in a special color.
 
 To challenge the bot, create a game with the following settings:
@@ -66,4 +67,11 @@ To challenge the bot, create a game with the following settings:
 
 Once you create the lobby, invite the bot per instructions above.
 
-No cheats or hacks are allowed. You also must record the game. A smartphone, etc. recording is fine if you do not have a capture card. Send Fourbolt or DeathBySnowman the video recording (publicly or privately) of the entire game. They will verify that the win is legitimate, then award you the Godlike role!
+Use of the following tactics in this challenge are NOT allowed:  
+- Holo shield gloves.  
+- Ledge sniping.  
+- Other cheats and hacks.
+
+Grabbing health is acceptable.
+
+You also must record the game. A smartphone, etc. recording is fine if you do not have a capture card. Send Fourbolt or DeathBySnowman the video recording of the entire game (we recommend sending privately so that others cannot see how you managed to defeat the bot!) Fourbolt or DBS will verify that the win is legitimate, then award you the Godlike role!
