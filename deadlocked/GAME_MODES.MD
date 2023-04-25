@@ -185,9 +185,7 @@ The difficulty increases with each wave (both in terms of the number of zomnies,
 
 > __COMPATIBILITY:__
 > Survival currently supports the following custom maps only.
->   * Mining Facility
->   * Marcadia Palace
->   * Veldin
+>   * Orxon
 > 
 >__SURVIVAL REQUIRES THE LATEST [CUSTOM MAPS](./CMAPS.md)__!
 
