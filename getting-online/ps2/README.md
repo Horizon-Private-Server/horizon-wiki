@@ -58,6 +58,6 @@ If you have a PAL or NTSC-J PS2 and are looking to play Ratchet and Clank 3, you
 [Click here for a video tutorial showing how to play on a PAL PS2](https://www.youtube.com/watch?v=X0FfF9xWgMk) - Thanks to CreepNT for this!
 
 ### PAL/NTSC-J Written Guides
-Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on a PAL or NTSC-J PS2. These links are external to our wiki - if there are any issues with them please let us know on Discord!
+Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on a PAL or NTSC-J PS2. These links are external to our wiki - if there are any issues with them please let us know on Discord! **One note not covered in these guides: When creating your profile, choose the "Europe" region.**
 - [English - thanks to Skunk](https://docs.google.com/document/d/1jAF87A5NoRKrZr333MPjoB4VhHVBlVZUVFXnsSf8wkw/view)
 - [Español - gracias a TaxEvasionIsFun](https://docs.google.com/document/d/1-Nn91KYuJ2cDUKOhCcN-2zBaem1v-PUNPSyupaaHa1g/view)
