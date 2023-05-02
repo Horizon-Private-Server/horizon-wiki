@@ -26,16 +26,16 @@ If a user violates the rules above, Horizon staff will generally follow the thre
 
 The first time that a user violates the rules ("Warned Once" level):  
 - The user will receive a message from a Horizon staff member explaining the warning.  
-- The user will be muted for one hour.  
+- The user will be muted for one hour (meaning that he/she will not be able to send messages in text channels or join voice chat channels).  
 - The user will be given the "Warned Once" role.  
-- The warning will expire in 3 months if there are no additional violations.  
+- The warning will expire in 3 months (the role will be removed) if there are no additional violations.  
 
 The second time that a user violates the rules ("Warned Twice" level):  
 - The user will receive a message from a Horizon staff member explaining the warning.  
-- The user will be muted for one day.  
-- The user will be blocked from all voice chat channels.  
+- The user will be muted for one day (meaning that he/she will not be able to send messages in text channels or join voice chat channels).  
+- The user will be blocked from all voice chat channels for 6 months.  
 - The user will be given the "Warned Twice" role.  
-- The warning will expire in 6 months if there are no additional violations.  
+- The warning will expire in 6 months (the role will be removed) if there are no additional violations. The warning will be removed completely at that time (not downgraded to "Warned Once").  
 
 The third time that a user violates the rules:  
 - The user will be banned from the Horizon Discord server.  
