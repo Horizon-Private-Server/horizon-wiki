@@ -50,7 +50,8 @@ Horizon staff expects that all community members will treat any previously banne
 
 ### Exceptions
 A couple of exceptions to the above process should be noted:  
-- Horizon staff may also issue informal warnings that do not carry the above consequences (e.g. to first-time offenders and those whose violations are considered mild). Horizon staff will clarify whether warnings are informal or not.  
+- Horizon staff may also issue informal warnings that do not carry the above consequences (e.g. to first-time offenders and those whose violations are considered mild). Horizon staff and moderators will clearly state if a warning is formal.  
+- On Discord, moderators and staff members may time you out if they feel you are being out of line. This will not in itself be considered a formal warning, but could lead to one once the moderators and staff have had a chance to discuss the situation. Horizon staff and moderators will clearly state if a warning is formal.  
 - For severe offenses, Horizon staff may also skip steps above. For example, as stated in rule #5 death/assault threats are strictly prohibited - so users who break this rule may be banned immediately even if they have not been previously warned.  
 - Discord now officially supports account switching, but we discourage the use of multiple Discord accounts because of the confusion it causes for other community members. Any disciplinary steps applied to one of your Discord accounts will also be applied to all of your other Discord accounts that we are aware of. For example, if your main account receives a first formal warning and we know that you also have a second account, that second account would also have the warning applied to it.  
 
