@@ -14,8 +14,8 @@ Additional custom map documentation and credits can be found [here](./CMAPS_DETA
 
 ## Download
 
-- [PS2 Maps Download](https://drive.google.com/file/d/1MZj6KdnnNYNzEWsm11pox5AmYgQIWx1R/view?usp=share_link)
-- [PCSX2 Maps Download](https://drive.google.com/file/d/1vH53Jajxfvx59664YRLbAEJuYpTA7Q6Z/view?usp=share_link)
+- [PS2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_ps2.zip)
+- [PCSX2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_pcsx2.zip)
 
 ## Setup
 
