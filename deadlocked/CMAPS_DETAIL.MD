@@ -10,10 +10,8 @@ This page is dedicated to documenting all custom maps for Ratchet: Deadlocked (G
     - [Battledome Singleplayer (SP)](#battledome-singleplayer-sp)
     - [Containment Suite](#containment-suite)
     - [Dark Cathedral Interior](#dark-cathedral-interior)
-    - [Desert Prison (Maraxus Prison Singleplayer)](#desert-prison-maraxus-prison-singleplayer)
     - [Ghost Ship](#ghost-ship)
     - [Mining Facility Singleplayer (SP)](#mining-facility-singleplayer-sp)
-    - [Sarathos Swamp Singleplayer (SP)](#sarathos-swamp-singleplayer-sp)
     - [Temple of Shaar Singleplayer (SP) (Meteor Temple)](#temple-of-shaar-singleplayer-sp-meteor-temple)
     - [Torval Singleplayer (SP)](#torval-singleplayer-sp)
   - [Up Your Arsenal (R&C 3) Maps](#up-your-arsenal-rc-3-maps)
@@ -32,9 +30,7 @@ This page is dedicated to documenting all custom maps for Ratchet: Deadlocked (G
     - [Snivelak](#snivelak)
   - [Custom Maps](#custom-maps)
     - [Ace Hardlight's Suite](#ace-hardlights-suite)
-    - [Duck Hunt](#duck-hunt)
-    - [Hoverbike Race](#hoverbike-race)
-    - [Shipment](#shipment)
+    - [Ghost Hangar](#ghost-hangar)
     - [Spleef](#spleef)
     - [Torval Lost Factory](#torval-lost-factory)
 
@@ -75,18 +71,6 @@ The four quadrants and upper area are accessible.
 > 
 > Latest Version: TBD
 
-### Desert Prison (Maraxus Prison Singleplayer)
-
-This map is the full single player versions of Maraxus Prison, optimized for better vertical movement required in competitive online games.
-
-[]()
-
-> Author: [@Badger](https://github.com/badger41)
-> 
-> Latest Version: TBD
-
-- [x] SND Support
-
 ### Ghost Ship
 
 This map is Ghost Station interior from Deadlocked single player (third mission at Ghost Station).
@@ -102,19 +86,6 @@ The map makes use of tight hallways, choke points and teleporters.
 
 This map is the full version of the Deadlocked single player Mining Facility.
 This expanded map includes the acid pits for additional movement tech in the form of acid jumps.
-
-[]()
-
-> Author: [@Badger](https://github.com/badger41)
-> 
-> Latest Version: TBD
-
-- [x] SND Support
-
-### Sarathos Swamp Singleplayer (SP)
-
-This map is full version of the Deadlocked single player Sarathos Swamp.
-This map features all 3 islands from the multiplayer map, the Swamp path and the King Leviathan's Lair.
 
 []()
 
@@ -288,34 +259,15 @@ A Custom Map variation for Battledome. Ace Hardlight's Suite is a fan-made custo
 > Author: [@Dnawrkshp](https://github.com/dnawrkshp)
 > Latest Version: TBD
 
+### Ghost Hangar
 
-### Duck Hunt
-
-> TBD, More Info Coming Soon!
-
-### Hoverbike Race
-
-A Custom Map which adds a Racetrack to Sarathos Swamp.
-There is currently not a coinciding game mode.
+A brand new, fan-made, close-quarters map based inside one of the Ghost Station ships.
 
 []()
 
 > Author: [@Badger](https://github.com/badger41)
-> Author: [@Dnawrkshp](https://github.com/dnawrkshp)
+> 
 > Latest Version: TBD
-
-### Shipment
-
-This map is a handbuilt recreation of the Call of Duty 4: Modern Warfare classic map, Shipment.
-This map features frantic gameplay and plenty of cover to weave in and out of.
-
-[]()
-
-> Author: [@Badger](https://github.com/badger41)
-> Author: [@Dnawrkshp](https://github.com/dnawrkshp)
-> Latest Version: TBD
-
-> Known Bugs: It is possible for some players to reapawn in one of the shipping containers and be stuck unless a player on the opposite team kills them.
 
 ### Spleef
 
