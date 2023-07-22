@@ -10,8 +10,6 @@ Important notes:
 
 ## Usage
 
-Note that some settings are per player, meaning that players can configure them differently in the same game. Other settings are for the entire game lobby and can only be changed by the game host.
-
 1. Create or join a game as you would normally.
 
 2. From the staging screen, press the Start button to bring up the mod menu.
