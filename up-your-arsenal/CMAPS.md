@@ -9,6 +9,7 @@ Some initial set up is required to play on custom maps. Refer to the [setup guid
 - [Download Links](#download)
 - [Setup Guide](#setup)
 - [Usage](#usage)
+- [Map List](#map-list)
 
 ## Download
 
@@ -92,3 +93,10 @@ This can be done from the main "Online Play" screen or any later screen. It must
 ![select custom map](/assets/uya/select_custom_map.png)
 
 4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed per the steps above will not be able to "ready up" or play on them.
+
+## Map List
+### Maraxus Prison
+Note: [Bots](/up-your-arsenal/bots.md) do not yet work on this map.
+
+### Sarathos Swamp
+Coming soon!
