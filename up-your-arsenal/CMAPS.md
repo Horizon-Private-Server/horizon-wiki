@@ -67,7 +67,7 @@ To play on a custom map is simple.
 
 ### Enabling Custom Maps
 
-This can be done from the main "Online Play" screen or any later screen. It must be done each time you log in.
+This can be done from the main "Online Play" screen or any later screen. It must be done each time you log in, unless you set the "Enable Custom Maps on Login" mod menu setting.
 
 1. Press the Start button to bring up the mod menu. In the "Custom Maps" tab, select "Install Custom Map Modules" to install the maps.
 
