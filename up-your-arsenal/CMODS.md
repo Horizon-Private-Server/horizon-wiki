@@ -4,6 +4,10 @@ The Horizon server enables users to play with various custom mods. For UYA, we o
 
 Unlike custom maps, no extra setup is required to use custom mods!
 
+Important notes:
+- Some settings are per player (meaning that different players can configure them differently in the same game), while others are for the entire game lobby and can only be changed by the game host.
+- Certain game rules will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)
+
 ## Usage
 
 Note that some settings are per player, meaning that players can configure them differently in the same game. Other settings are for the entire game lobby and can only be changed by the game host.
@@ -20,13 +24,14 @@ Note that some settings are per player, meaning that players can configure them 
 
 ## List of Available Mods
 
-Full list Coming soon - for now, check out the "Game Settings" tab in game for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
-
-Partial list:
-- Auto Respawn - Option to force players to respawn when the respawn timer hits zero.
-- Camera Shake - 
+This list may be incopmlete. Check out the "Game Settings" tab in game for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
+- Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
+- Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
+- Gatling Health [Siege/CTF only] - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
 - Health boxes - Option to turn off health boxes.
 - Infinite Chargeboots - Chargeboot till you drop!
+- Progressive Scan - Option to toggle progressive scan on from the mod menu, in case you forgot when booting up the game.
+- Survivor Mode - Option to prevent players from respawning on death.
 - Vampire Healing - Gain health from killing your opponents.
 - V2s - Select from normal behavior, no V2s, or always V2s.
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
