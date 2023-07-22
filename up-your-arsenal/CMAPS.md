@@ -81,14 +81,14 @@ This can be done from the main "Online Play" screen or any later screen. It must
 
 ![patch game settings](/assets/uya/install_map_modules_success.png)
 
-4. Close the patch menu to save the new game settings.
-
 ### Hosting a Game on Custom Maps
 
 1. Create a game as you would normally.
 
 2. From the staging screen, press the Start button to bring up the mod menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map.
 
+3. Close the patch menu to save the new game settings.
+
 ![select custom map](/assets/uya/select_custom_map.png)
 
-3. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed per the steps above will not be able to "ready up" or play on them.
+4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed per the steps above will not be able to "ready up" or play on them.
