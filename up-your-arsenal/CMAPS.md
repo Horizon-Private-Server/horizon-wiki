@@ -1,10 +1,8 @@
 # Up Your Arsenal (Ratchet & Clank 3) Custom Maps
 
-The Horizon server enables users to play on custom maps. _Please note: custom maps currently work for the NTSC-U/C (North American) version of the game only._
+The Horizon server enables users to play on custom maps. For UYA, we offer both NTSC-U/C and PAL support for custom maps.
 
 Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) for how to play.
-
-Additional custom map documentation and credits can be found [here](./CMAPS_DETAIL.MD).
 
 ## Table of Contents
 
@@ -14,14 +12,19 @@ Additional custom map documentation and credits can be found [here](./CMAPS_DETA
 
 ## Download
 
-- [PS2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_ps2.zip)
-- [PCSX2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_pcsx2.zip)
+### NTSC-U/C
+- [PS2 Maps Download](https://drive.google.com/file/d/1mJkk8BqaAE6R-GrpdZ0YG26bwa06NSyz/view?usp=drive_link)
+- [PCSX2 Maps Download](https://drive.google.com/file/d/1gCrS7O02e1HHYoBv0APqhZH4LIrz5-v_/view?usp=drive_link)
+
+### PAL
+- [PS2 Maps Download](https://drive.google.com/file/d/14zlaAJ8XEkU_LLANtq80q2K3zi6l3tpm/view?usp=drive_link)
+- [PCSX2 Maps Download](https://drive.google.com/file/d/1ccsDKMa101iSxHN_qk_-xWwmU6Zu7l62/view?usp=drive_link)
 
 ## Setup
 
 ### PS2 Guide
 
-Guide to install custom maps on PS2 (for a video tutorial, [click here](https://www.youtube.com/watch?v=cVRJg_k0Wj0)).
+Guide to install custom maps on PS2 (for a video tutorial showing the same process but for Deadlocked, [click here](https://www.youtube.com/watch?v=cVRJg_k0Wj0)).
 
 NOTE: OPL USB users must install maps on a **separate** USB drive.
 
@@ -33,14 +36,14 @@ NOTE: OPL USB users must install maps on a **separate** USB drive.
 #### Steps
 
 1. Download the maps for the PS2 [here](#download).
-2. Insert the usb drive into your computer
+2. Insert the USB drive into your computer.
 3. Extract the contents of the downloaded zip file into the root of your usb drive.
-4. Verify that the usb drive has a folder called "dl" and inside of it are a bunch of files.
+4. Verify that the usb drive has a folder called "uya" and inside of it are a bunch of files.
 5. Safely eject and insert the drive into your PS2.
 
 ### PCSX2 Guide
 
-Guide to install custom maps on PCSX2 (for a video tutorial, [click here](https://www.youtube.com/watch?v=ATjxkg8dw4k) - thanks to Mercy for the video!)
+Guide to install custom maps on PCSX2 (for a video tutorial showing the same process but for Deadlocked, [click here](https://www.youtube.com/watch?v=ATjxkg8dw4k) - thanks to Mercy for the video!)
 
 #### Requirements
 
@@ -60,7 +63,7 @@ Guide to install custom maps on PCSX2 (for a video tutorial, [click here](https:
 ![usb path](/assets/dl/pcsx2/usbmasspath.png)
 
 ## Usage
-
+(UNDER CONSTRUCTION)
 To play on a custom map is simple.
 
 1. After you log in, make a game as you would normally.
