@@ -20,6 +20,8 @@ Currently, Horizon supports the following PS2 games:
 
 ### [Deadlocked Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/CMAPS.md#download)
 
+### [UYA Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/CMAPS.md#download)
+
 # How can I help support Horizon?
 There are multiple ways to support the community:
 1. Boost the Discord server (using the menu at the top of the server). Boosting unlocks Discord features in the server such as better streaming and audio quality, more custom emojis, and other fun perks.
