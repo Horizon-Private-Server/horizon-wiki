@@ -5,7 +5,8 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 ## Table of contents
 
 - [Multiplayer Bots](./bots.md)
-- [Custom Maps and Mods](./CMAPS.md)
+- [Custom Maps](./CMAPS.md) - New July 2023!
+- [Custom Mods](./CMODS.md) - New July 2023!
 - [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/) - Thanks to Nick#1!
 - [UYA Beta and Prototype Online Servers](./betas.md)
 - [Helga Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD)
