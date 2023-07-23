@@ -22,7 +22,7 @@ Important notes:
 
 ## List of Available Mods
 
-We do our best to keep this list up to date, but it may be incomplete. Check out the "Game Settings" tab in game for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
+We do our best to keep this list up to date, but it may be incomplete. Check out the "General" and "Game Settings" tabs of the in-game mod menu for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
 
 ### General Mods
 These mods are located on the "General" tab.
