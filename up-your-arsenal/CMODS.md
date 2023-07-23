@@ -22,14 +22,24 @@ Important notes:
 
 ## List of Available Mods
 
-This list may be incopmlete. Check out the "Game Settings" tab in game for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
-- Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
-- Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
-- Gatling Health [Siege/CTF only] - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
-- Health boxes - Option to turn off health boxes.
-- Infinite Chargeboots - Chargeboot till you drop!
+We do our best to keep this list up to date, but it may be incomplete. Check out the "Game Settings" tab in game for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
+
+### General Mods
+These mods are located on the "General" tab.
+- Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
 - Progressive Scan - Option to toggle progressive scan on from the mod menu, in case you forgot when booting up the game.
-- Survivor Mode - Option to prevent players from respawning on death.
-- Vampire Healing - Gain health from killing your opponents.
-- V2s - Select from normal behavior, no V2s, or always V2s.
+- Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
+
+### Game Rules Mods
+These mods are located on the "Game Settings" tab, when applicable.
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
+- V2s - Select from normal behavior, no V2s, or always V2s.
+- Vampire Healing - Gain health from killing your opponents. Select from Off, Quarter Heal, Half Heal, and Full Heal.
+- Health boxes - Option to turn off health boxes.
+- Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
+- Gatling Turret Health [Siege/CTF only] - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
+
+### Party Rules Mods
+These mods are located on the "Game Settings" tab, when applicable.
+- Survivor [Deathmatch only] - Option to prevent players from respawning on death.
+- Chargeboot Forever - Chargeboot till you drop!
