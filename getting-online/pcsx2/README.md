@@ -35,7 +35,7 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 - The software is capable of updating itself - new builds are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
 
 ### Latest Written Setup Guide
-[PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly-Feb2023.md) - last updated February 2023
+[PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly-Feb2023.md)
 
 [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq) - last updated February 2023
 
