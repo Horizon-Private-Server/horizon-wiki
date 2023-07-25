@@ -8,7 +8,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
   - [Upcoming Tournaments](#upcoming-tournaments)
   - [Outline](#outline)
   - [Rules](#rules)
-    - [Discord](#discord)
+    - [Horizon Discord](#horizon-discord)
     - [Start and End Dates](#start-and-end-dates)
     - [2 Players](#2-players)
     - [Submissions](#submissions)
@@ -30,7 +30,7 @@ Our Survival Tournament pits teams of two against one another. Over the duration
 
 In order to qualify for our Survival Tournaments, there are a few rules you must follow to keep it fair.
 
-### Discord
+### Horizon Discord
 
 You must join our [discord](https://discord.gg/horizonps) to be able to participate! All communication and submissions go through our discord so please join if you are interested in participating.
 
