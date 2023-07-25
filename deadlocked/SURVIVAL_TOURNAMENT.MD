@@ -10,6 +10,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
   - [Rules](#rules)
     - [Start and End Dates](#start-and-end-dates)
     - [2 Players](#2-players)
+    - [One Map](#one-map)
     - [Submissions](#submissions)
     - [Number of Submissions per Player](#number-of-submissions-per-player)
   - [Past Tournaments](#past-tournaments)
@@ -37,6 +38,10 @@ If you start before the start date or after the end date, it will not count.
 ### 2 Players
 
 You must begin the game with exactly 2 players. Local players are not allowed. You must play with another person.
+
+### One Map
+
+Each tournament will specify which survival map you must play on. If you play on any other map, your run will not be accepted.
 
 ### Submissions
 
