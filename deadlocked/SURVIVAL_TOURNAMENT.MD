@@ -6,6 +6,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 - [Survival Tournament](#survival-tournament)
   - [Table of Contents](#table-of-contents)
   - [Upcoming Tournaments](#upcoming-tournaments)
+    - [August 12th and 13th - Orxon Survival Tournament](#august-12th-and-13th---orxon-survival-tournament)
   - [Outline](#outline)
   - [Rules](#rules)
     - [Horizon Discord](#horizon-discord)
