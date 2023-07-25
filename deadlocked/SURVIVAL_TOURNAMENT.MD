@@ -19,7 +19,19 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 
 ## Upcoming Tournaments
 
-No upcoming tournaments (yet).
+### August 12th and 13th - Orxon Survival Tournament
+
+**Tournament begins on August 12th at 12:00 AM PST and ends on August 13th at 11:59 PM PST!!**<br>
+All survival runs must be made during the tournament to be accepted!<br>
+Submissions deadline is August 16th at 11:59 PM PST!
+
+#### Prize Distribution
+
+| Placement | Prize |
+| --- | ----------- |
+| 1st | $50 |
+| 2nd | $30 |
+| 3rd | $20 |
 
 ## Outline
 
