@@ -24,7 +24,6 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 
 **Tournament begins on August 5th at 12:00 AM PST and ends on August 6th at 11:59 PM PST!!**<br>
 All survival runs must be made during the tournament to be accepted!<br>
-Submissions deadline is August 9th at 11:59 PM PST!
 
 #### Prize Distribution
 
@@ -33,6 +32,13 @@ Submissions deadline is August 9th at 11:59 PM PST!
 | 1st | $50 |
 | 2nd | $30 |
 | 3rd | $20 |
+
+#### Submissions
+
+Please submit your run to [our google form](https://docs.google.com/forms/d/e/1FAIpQLSdcAHA_lZvVwg0-6rz6jEdwB1H-RwLHyOy1Iao4Fc33EqSD8A/viewform?usp=sf_link).
+
+Submissions will open right after the event.<br>
+The deadline for all submissions is August 9th at 11:59 PM PST!
 
 ## Outline
 
