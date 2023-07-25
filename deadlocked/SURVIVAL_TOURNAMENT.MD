@@ -6,7 +6,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 - [Survival Tournament](#survival-tournament)
   - [Table of Contents](#table-of-contents)
   - [Upcoming Tournaments](#upcoming-tournaments)
-    - [August 12th and 13th - Orxon Survival Tournament](#august-12th-and-13th---orxon-survival-tournament)
+    - [August 5th and 6th - Orxon Survival Tournament](#august-5th-and-6th---orxon-survival-tournament)
   - [Outline](#outline)
   - [Rules](#rules)
     - [Horizon Discord](#horizon-discord)
@@ -20,11 +20,11 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 
 ## Upcoming Tournaments
 
-### August 12th and 13th - Orxon Survival Tournament
+### August 5th and 6th - Orxon Survival Tournament
 
-**Tournament begins on August 12th at 12:00 AM PST and ends on August 13th at 11:59 PM PST!!**<br>
+**Tournament begins on August 5th at 12:00 AM PST and ends on August 6th at 11:59 PM PST!!**<br>
 All survival runs must be made during the tournament to be accepted!<br>
-Submissions deadline is August 16th at 11:59 PM PST!
+Submissions deadline is August 9th at 11:59 PM PST!
 
 #### Prize Distribution
 
