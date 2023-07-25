@@ -23,7 +23,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 ### August 5th and 6th - Orxon Survival Tournament
 
 **Tournament begins on August 5th at 12:00 AM PST and ends on August 6th at 11:59 PM PST!!**<br>
-All survival runs must be made during the tournament to be accepted!<br>
+All survival runs must have occured during the event to be accepted!<br>
 
 #### Prize Distribution
 
