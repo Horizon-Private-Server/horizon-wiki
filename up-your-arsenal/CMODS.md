@@ -32,6 +32,8 @@ These mods are located on the "General" tab.
 
 ### Game Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
+- Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds.
+- Penalty Timers [CTF/Siege only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
 - V2s - Select from normal behavior, no V2s, or always V2s.
 - Vampire Healing - Gain health from killing your opponents. Select from Off, Quarter Heal, Half Heal, and Full Heal.
