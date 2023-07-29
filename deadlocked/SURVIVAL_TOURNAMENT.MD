@@ -8,6 +8,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
   - [Upcoming Tournaments](#upcoming-tournaments)
     - [August 5th and 6th - Orxon Survival Tournament](#august-5th-and-6th---orxon-survival-tournament)
   - [Outline](#outline)
+  - [How to Play](#how-to-play)
   - [Rules](#rules)
     - [Horizon Discord](#horizon-discord)
     - [Start and End Dates](#start-and-end-dates)
@@ -45,6 +46,19 @@ The deadline for all submissions is August 9th at 11:59 PM PST!
 [Survival](./GAME_MODES.MD#survival) is a custom, multiplayer PvE game mode for Ratchet: Deadlocked Online. Players must survive increasingly difficult waves of enemies by upgrading, unlocking, and fighting for their lives.
 
 Our Survival Tournament pits teams of two against one another. Over the duration of the event, duos may play as many games of Survival as they want. The duo with the longest run (most rounds survived) win a prize. Prizes also are provided to the second and third runner ups.
+
+## How to Play
+
+Survival requires the latest custom maps and a copy of Deadlocked NTSC. Gladiator is not supported.
+
+![setup gif](../assets/dl/game/survivalsetup.gif)
+
+1. Login to the Deadlocked server
+2. Create a Deathmatch
+3. Set the Deathmatch Override in the patch menu to Survival
+4. Set the map
+5. Close the patch menu
+6. Start the game
 
 ## Rules
 
