@@ -16,6 +16,7 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
     - [One Map](#one-map)
     - [Submissions](#submissions)
     - [Number of Submissions per Player](#number-of-submissions-per-player)
+    - [Cheating](#cheating)
   - [Prizes](#prizes)
   - [Past Tournaments](#past-tournaments)
 
@@ -91,6 +92,15 @@ Only one player on each team is required to submit their run!
 ### Number of Submissions per Player
 
 You may play with as many different partners as you'd like, but you may only submit one run with your name on it. Even if you get the first and second highest score, each with different partners, only one will count. This is to prevent the same person from winning multiple times.
+
+### Cheating
+
+Cheating is not allowed. Any cheating will immediately invalidate your run. Do not cheat.
+
+Cheating includes but is not limited to:
+* Use of cheat codes
+* Submitting multiple runs as a different person
+* Participating on multiple teams disguised as a different person
 
 ## Prizes
 
