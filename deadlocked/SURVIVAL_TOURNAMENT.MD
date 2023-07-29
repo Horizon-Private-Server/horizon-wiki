@@ -49,7 +49,7 @@ Our Survival Tournament pits teams of two against one another. Over the duration
 
 ## How to Play
 
-Survival requires the latest custom maps and a copy of Deadlocked NTSC. Gladiator is not supported.
+Survival requires the [latest custom maps](./CMAPS.md) and a copy of Deadlocked NTSC. Gladiator is not supported.
 
 ![setup gif](../assets/dl/game/survivalsetup.gif)
 
