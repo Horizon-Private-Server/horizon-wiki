@@ -86,6 +86,8 @@ Each tournament will specify which survival map you must play on. If you play on
 
 You must submit a link to a VOD (Twitch/YouTube) showing the entire run, start to finish. This submission must occur before the final submission date (usually 3 days after the end of the tournament).
 
+Only one player on each team is required to submit their run!
+
 ### Number of Submissions per Player
 
 You may play with as many different partners as you'd like, but you may only submit one run with your name on it. Even if you get the first and second highest score, each with different partners, only one will count. This is to prevent the same person from winning multiple times.
