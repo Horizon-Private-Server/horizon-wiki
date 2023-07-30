@@ -44,7 +44,7 @@ The deadline for all submissions is August 9th at 11:59 PM PST!
 
 ## Outline
 
-[Survival](./GAME_MODES.MD#survival) is a custom, multiplayer PvE game mode for Ratchet: Deadlocked Online. Players must survive increasingly difficult waves of enemies by upgrading, unlocking, and fighting for their lives.
+[Survival](https://rac-horizon.com/survival/overview) is a custom, multiplayer PvE game mode for Ratchet: Deadlocked Online. Players must survive increasingly difficult waves of enemies by upgrading, unlocking, and fighting for their lives.
 
 Our Survival Tournament pits teams of two against one another. Over the duration of the event, duos may play as many games of Survival as they want. The duo with the longest run (most rounds survived) win a prize. Prizes also are provided to the second and third runner ups.
 
