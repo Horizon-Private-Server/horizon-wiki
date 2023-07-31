@@ -2,7 +2,8 @@
 
 Multiplayer bots have been created to play alongside or against other bots and players.
 
-For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg). NOTE: Since this tutorial was recorded, the server response when inviting a bot has changed. It will now say "cpu NOT FOUND". Don't worry, the bot should still join the game in 1-3 minutes.
+For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).  
+- *NOTE: Since this tutorial was recorded, the server response when inviting a bot has changed. It will now say "cpu_ NOT FOUND". Don't worry, the bot should still join the game in 1-3 minutes.*
 
 
 ## Maps and Modes Bots can Play:
@@ -22,7 +23,9 @@ Weapons that bots can use: Gravity Bomb, Flux, N60, Rockets
 ## Inviting Bots
 _IMPORTANT: Bots should only be invited after all human players have joined the game._
 
-Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the bot can take up to 3 minutes to join the game. Below is a table of the bot names to invite:
+Bots can be invited using the normal "Invite Player" menu within the game. Once you send the invite, the server will send an intial response "cpu_ NOT FOUND". This is normal so just press OK. After that, the bot can take up to 3 minutes to join the game.  
+
+Below is a table of the bot names to invite:
 
 | Bot name  | Description |
 | ------------- | ------------- |
@@ -35,7 +38,7 @@ Bots can be invited using the normal "Invite Player" menu within the game. Once 
 
 
 ## FAQ
-1. I tried to invite the bot and it says "cpu NOT FOUND"!
+1. I tried to invite the bot and it says "cpu_ NOT FOUND"!
 - This is normal. Just wait for 1-3 minutes and the bot should join.
 
 2. How many bots can I invite?
