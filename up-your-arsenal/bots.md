@@ -2,7 +2,7 @@
 
 Multiplayer bots have been created to play alongside or against other bots and players.
 
-For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg). NOTE: Since this tutorial was recorded, the server response for inviting a bot has changed. It will now say "cpu NOT FOUND". Don't worry, the bot should still join the game in 1-3 minutes.
+For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg). NOTE: Since this tutorial was recorded, the server response when inviting a bot has changed. It will now say "cpu NOT FOUND". Don't worry, the bot should still join the game in 1-3 minutes.
 
 
 ## Maps and Modes Bots can Play:
