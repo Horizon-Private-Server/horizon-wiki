@@ -2,7 +2,7 @@
 
 Multiplayer bots have been created to play alongside or against other bots and players.
 
-For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg).
+For a video tutorial, [click here](https://www.youtube.com/watch?v=kq6FEfRyoZg). NOTE: Since this tutorial was recorded, the server response for inviting a bot has changed. It will now say "cpu NOT FOUND". Don't worry, the bot should still join the game in 1-3 minutes.
 
 
 ## Maps and Modes Bots can Play:
@@ -35,22 +35,25 @@ Bots can be invited using the normal "Invite Player" menu within the game. Once 
 
 
 ## FAQ
-1. How many bots can I invite?
+1. I tried to invite the bot and it says "cpu NOT FOUND"!
+- This is normal. Just wait for 1-3 minutes and the bot should join.
+
+2. How many bots can I invite?
 - You can invite as many bots as there are slots.
 
-2. How do I make the bot change teams?
+3. How do I make the bot change teams?
 - To make them change colors, you can use the "request team change" in staging.
 
-3. Why did the bot leave the game?
+4. Why did the bot leave the game?
 - By default, the CPUs will only stay in the game for 2 hours once they enter staging. However, you can have the bots stay longer by adding the number of hours with a dash in the invite. For example, cpu4-5 would be inviting a cpu4 for 5 hours of gameplay.
 
-4. It takes a long time to kick a bot from a game!
+5. It takes a long time to kick a bot from a game!
 - Yeah - it typically takes about 45 seconds.
 
-5. I think I found a bug!
+6. I think I found a bug!
 - Please post in the `#uya-crash-logs` channel on our Discord.
 
-6. Where can I find the source code for multiplayer bots?
+7. Where can I find the source code for multiplayer bots?
 - Right over [here](https://github.com/Horizon-Private-Server/horizon-uya-bot).
 
 
