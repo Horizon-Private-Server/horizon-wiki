@@ -1,12 +1,12 @@
 # Connecting to Horizon with PCSX2
 
-This is a guide on how to connect Horizon using PCSX2.
+This is a guide on how to connect to the Horizon servers using PCSX2.
 
 Contents:
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
-- [PCSX2 1.7 Nightly Build](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
-- [Older PCSX2 Setup Guides](/getting-online/pcsx2/README.md#older-pcsx2-setup-guides)
+- [PCSX2 1.7 Nightly Build Setup Guide](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
+- [Other PCSX2 Setup Guides](/getting-online/pcsx2/README.md#other-pcsx2-setup-guides)
 - [Credits](/getting-online/pcsx2/README.md#credits)
 
 ## Introduction
@@ -29,28 +29,21 @@ Due to the wide variety of computer specs available, PCSX2 optimization and even
 
 ## PCSX2 1.7 Nightly Build
 We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net/downloads/). There are several reasons why we recommend PCSX2 1.7 and NOT the "Latest Stable" release (PCSX2 1.6):
-- The online gameplay experience is smoother.
+- The online gameplay experience is smoother. Significant improvements have been made since the time that PCSX2 1.6 was current.
 - The CLR DEV9 plugin is not needed.
 - 64bit support.
-- The software is capable of updating itself - new builds are often released on (you guessed it) a nightly basis. If you want to be on the cutting edge of 20-year-old technology emulation, these nightly builds are for you.
+- The software is capable of updating itself at the click of a button - new builds are often released on (you guessed it) a nightly basis.  
 
-### Latest Written Setup Guide
-[PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly-Feb2023.md)
+### Written Setup Guide
+[PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly-Feb2023.md)  
+[Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq)  
 
-[Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq) - last updated February 2023
+### Video Setup Guides
+[English](https://youtu.be/fjEykSzbP7s) - last updated July 2023.
+[French](https://youtu.be/QLflmex8tA0) - last updated November 2022. Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).  
 
-### French Language Video Guide
-[PCSX2 1.7 Nightly Build Video Setup Guide with French language commentary](https://youtu.be/QLflmex8tA0) - last updated November 2022
-- Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).
-
-
-## Older PCSX2 Setup Guides
-Again, we recommend using the latest nightly build of PCSX2. However, we are keeping links to these older guides available here in case they are useful.
-- [Older PCSX2 1.7 Nightly Build - December 2022](/getting-online/pcsx2/1.7Nightly-Dec2022.md)
-- [Older PCSX2 1.7 Nightly Build - May 2022](/getting-online/pcsx2/1.7Nightly-May2022.md)
-- [Older PCSX2 1.7 Nightly Build - early 2022](https://docs.google.com/document/d/1ny3bBQMO2Pdun6I1Khp5gwuIgfJ3QOVtpi3q7cH_27c/) - external link
-- [Older PCSX2 1.7 UYA/DL Specific Build by Atomic83 - Fall 2021](/getting-online/pcsx2/RACONLINEBUILD.md)
-- [Older PCSX2 1.6 - 2021](/getting-online/pcsx2/1.6.md)
+## Other PCSX2 Setup Guides
+Again, we recommend using the latest nightly build (PCSX2 1.7). However, in case you need to use PCSX2 1.6 for some reason, [here is a guide for that version dating to 2021](/getting-online/pcsx2/1.6.md).  
 
 ## Credits
 The Horizon staff would like to give a special thanks to several community members who have assisted with creating, updating, and providing feedback on these guides:
