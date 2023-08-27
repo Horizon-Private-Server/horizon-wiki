@@ -27,19 +27,27 @@ We do our best to keep this list up to date, but it may be incomplete. Check out
 ### General Mods
 These mods are located on the "General" tab.
 - Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
-- Progressive Scan - Option to toggle progressive scan on from the mod menu, in case you forgot when booting up the game.
+- Level of Detail - Option to change the displayed level of detail.
 - Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
 
 ### Game Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
+- Map Override - Choose a custom map to play on.
 - Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds.
 - Penalty Timers [CTF/Siege only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
 - V2s - Select from normal behavior, no V2s, or always V2s.
 - Vampire Healing - Gain health from killing your opponents. Select from Off, Quarter Heal, Half Heal, and Full Heal.
 - Health boxes - Option to turn off health boxes.
+- Allow Drones - Option to prevent drones from spawning on the map.
 - Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
+
+### Base/Node Modifications
+These mods are located on the "Game Settings" tab, when applicable.
 - Gatling Turret Health [Siege/CTF only] - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
+- Health/Ammo Pads Always Active [Siege/CTF only] - Option to keep the health and ammo pads inside the base active even when the Gatling turrets are destroyed.
+- Bots [Troopers, Ball Bots, etc.] [Siege/CTF only] - Option to turn the base troopers and ball bots on or off.
+- Small Turrets [Siege/CTF only] - Option to turn the small auto turrets at the base on or off.
 
 ### Party Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
