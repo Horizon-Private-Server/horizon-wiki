@@ -53,3 +53,13 @@ These mods are located on the "Game Settings" tab, when applicable.
 These mods are located on the "Game Settings" tab, when applicable.
 - Survivor [Deathmatch only] - Option to prevent players from respawning on death.
 - Chargeboot Forever - Chargeboot till you drop!
+
+### Permanent Mods
+The Horizon server also features some patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA servers.
+- No Dead Jumping/Crouching - Players are no longer able to "dead jump" (continue hopping around the map after they reach 0 HP).
+- No Dead Shooting - Players are no longer able to shoot and damage other players after they reach 0 HP.
+- No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
+- Fix Weapon Shot Lag - Shots are much more likely to "count" on the screen of the shooting player.
+- No Flux Niking - FLux rifle shots are much less likely to "nik" (deal 20 damage instead of the full 87 [or 100 for V2s]).
+- No Flux Wall Sniping - Flux rifle shots will not count as often if the shooting player is hanging on a ledge.
+- Persistent Weapon Ordering - In lobbies where 3 or fewer weapons are enabled, the weapons will remain in the same order when the player respawns.
