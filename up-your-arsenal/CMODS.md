@@ -27,6 +27,7 @@ We do our best to keep this list up to date, but it may be incomplete. Check out
 ### General Mods
 These mods are located on the "General" tab.
 - Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
+- Progressive Scan - Option to enable progressive scan, in case you forgot to when booting up the game.
 - Level of Detail - Option to change the displayed level of detail.
 - Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
 
@@ -34,20 +35,20 @@ These mods are located on the "General" tab.
 These mods are located on the "Game Settings" tab, when applicable.
 - Map Override - Choose a custom map to play on.
 - Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds.
-- Penalty Timers [CTF/Siege only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
+- Penalty Timers [Siege/CTF only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
 - V2s - Select from normal behavior, no V2s, or always V2s.
-- Vampire Healing - Gain health from killing your opponents. Select from Off, Quarter Heal, Half Heal, and Full Heal.
+- Damage Cooldown - Option to enable/disable damage cooldown (the delay between registering a hit on an opposing player, and being able to hit them again).
+- Fix Wallsniping - Option for flux rifle shots to not count as often if the shooting player is hanging on a ledge.
+- Fix Flux Niking - Option to dramatically reduce the possibility of fLux rifle shots "niking" (deal 20 damage instead of the full 87 [or 100 for V2s]).
 - Health boxes - Option to turn off health boxes.
-- Allow Drones - Option to prevent drones from spawning on the map.
 - Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
 
 ### Base/Node Modifications
-These mods are located on the "Game Settings" tab, when applicable.
-- Gatling Turret Health [Siege/CTF only] - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
-- Health/Ammo Pads Always Active [Siege/CTF only] - Option to keep the health and ammo pads inside the base active even when the Gatling turrets are destroyed.
-- Bots [Troopers, Ball Bots, etc.] [Siege/CTF only] - Option to turn the base troopers and ball bots on or off.
-- Small Turrets [Siege/CTF only] - Option to turn the small auto turrets at the base on or off.
+These mods are located on the "Game Settings" tab, when applicable (i.e. for Siege/CTF only, and if the Base Defenses setting in the standard game setup menu is also set to Yes).
+- Gatling Turret Health - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
+- Bots [Troopers, Ball Bots, etc.] - Option to turn the base troopers and ball bots on or off.
+- Small Turrets - Option to turn the small auto turrets at the base on or off.
 
 ### Party Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
@@ -60,6 +61,4 @@ The Horizon server also features some patches that are always active. This means
 - No Dead Shooting - Players are no longer able to shoot and damage other players after they reach 0 HP.
 - No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
 - Fix Weapon Shot Lag - Shots are much more likely to "count" on the screen of the shooting player.
-- No Flux Niking - FLux rifle shots are much less likely to "nik" (deal 20 damage instead of the full 87 [or 100 for V2s]).
-- No Flux Wall Sniping - Flux rifle shots will not count as often if the shooting player is hanging on a ledge.
 - Persistent Weapon Ordering - In lobbies where 3 or fewer weapons are enabled, the weapons will remain in the same order when the player respawns.
