@@ -40,28 +40,27 @@ NOTE: OPL USB users must install maps on a **separate** USB drive.
 
 ### PCSX2 Guide
 
-Guide to install custom maps on PCSX2 (for a video tutorial, [click here](https://www.youtube.com/watch?v=ATjxkg8dw4k) - thanks to Mercy for the video!)
+Guide to install custom maps on PCSX2.
 
 #### Requirements
 
-- PCSX2
-- USBQemu plugin for PCSX2 *or* recent nightly 1.7.0 PCSX2 build.
+- Recent nightly (1.7.X) PCSX2 build.
 
 #### Steps
 
-1. Download the maps for the PCSX2 [here](#download).
+1. Download the maps for PCSX2 [here](#download).
 2. Unzip and copy the extracted .img file to a convenient place.
-3. Configure PCSX2 USB plugin for mass storage device with Device API Port 1 as cstdio:
+3. Open PCSX2 and go to Settings → Controllers.
+4. On the left side of the window, select USB Port 1.
+5. In the drop down menu where it says "Not Connected", change the selection to "Mass Storage Device".
+6. On the right side of the "Image Path" box, click Browse and select the .img file from step 2.
+7. Click Close to exit the settings window. You are now ready to boot up the game.
 
-![usb settings](/assets/dl/pcsx2/usbsettings.png)
-
-4. Configure Port 1 to point to the downloaded .img file.
-
-![usb path](/assets/dl/pcsx2/usbmasspath.png)
+![usb settings](/assets/pcsx2/pcsx2_custom_maps.png)
 
 ## Usage
 
-To play on a custom map is simple.
+To play on a custom map is simple, and works the same whether using PS2 or PCSX2.
 
 1. After you log in, make a game as you would normally.
 
