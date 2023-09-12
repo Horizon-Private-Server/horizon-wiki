@@ -48,7 +48,6 @@ Guide to install custom maps on PCSX2.
 
 #### Requirements
 
-- PCSX2
 - Recent nightly (1.7.X) PCSX2 build.
 
 #### Steps
@@ -64,7 +63,7 @@ Guide to install custom maps on PCSX2.
 ![usb settings](/assets/pcsx2/pcsx2_custom_maps.png)
 
 ## Usage
-To play on a custom map is simple.
+To play on a custom map is simple, and works the same whether using PS2 or PCSX2.
 
 ### Enabling Custom Maps
 
@@ -99,4 +98,4 @@ This can be done from the main "Online Play" screen or any later screen. It must
 Note: [Bots](/up-your-arsenal/bots.md) do not yet work on this map.
 
 ### Sarathos Swamp
-Coming soon!
+Note: [Bots](/up-your-arsenal/bots.md) do not yet work on this map.
