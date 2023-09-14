@@ -25,9 +25,12 @@ Important notes:
 We do our best to keep this list up to date, but it may be incomplete. Check out the "General" and "Game Settings" tabs of the in-game mod menu for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
 
 ### General Mods
-These mods are located on the "General" tab.
+These mods are located on the "General" tab. *Note: The settings on this tab can also be edited in game by pressing the Start button, and then "Patch Config".*
 - Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
+- 16:9 Widescreen - We don't have to explain this one, right?
 - Progressive Scan - Option to enable progressive scan, in case you forgot to when booting up the game.
+- Field of View - Option to increase the default field of view. Larger numbers = wider FoV.
+- FPS Counter - Option to display your current frames per second (FPS) on screen.
 - Level of Detail - Option to change the displayed level of detail.
 - Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
 
