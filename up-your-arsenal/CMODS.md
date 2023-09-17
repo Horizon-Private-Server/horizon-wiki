@@ -46,10 +46,12 @@ These mods are located on the "Game Settings" tab, when applicable.
 - Fix Flux Niking - Option to dramatically reduce the possibility of fLux rifle shots "niking" (deal 20 damage instead of the full 87 [or 100 for V2s]).
 - Health boxes - Option to turn off health boxes.
 - Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
+- Allow Drones - Option to disable drones (on maps that have them).
 
 ### Base/Node Modifications
 These mods are located on the "Game Settings" tab, when applicable (i.e. for Siege/CTF only, and if the Base Defenses setting in the standard game setup menu is also set to Yes).
 - Gatling Turret Health - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
+- Health/Ammo Pads Always Active - Option that keeps the health and ammo refill pads inside bases active when the gatling turrets are destroyed.
 - Bots [Troopers, Ball Bots, etc.] - Option to turn the base troopers and ball bots on or off.
 - Small Turrets - Option to turn the small auto turrets at the base on or off.
 
