@@ -40,7 +40,7 @@ These mods are located on the "Game Settings" tab, when applicable.
 - Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds.
 - Penalty Timers [Siege/CTF only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
-- V2s - Select from normal behavior, no V2s, or always V2s.
+- V2s - Select from normal behavior, no V2s, or always V2s (all weapons are always V2).
 - Damage Cooldown - Option to enable/disable damage cooldown (the delay between registering a hit on an opposing player, and being able to hit them again).
 - Fix Wallsniping - Option for flux rifle shots to not count as often if the shooting player is hanging on a ledge.
 - Fix Flux Niking - Option to dramatically reduce the possibility of fLux rifle shots "niking" (deal 20 damage instead of the full 87 [or 100 for V2s]).
