@@ -29,6 +29,7 @@ These mods are located on the "General" tab. *Note: The settings on this tab can
 - Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
 - 16:9 Widescreen - We don't have to explain this one, right?
 - Progressive Scan - Option to enable progressive scan, in case you forgot to when booting up the game.
+- Always Show Health - Option to always show your health bar (not just when you press L3 or Triangle, or take damage).
 - Field of View - Option to increase the default field of view. Larger numbers = wider FoV.
 - FPS Counter - Option to display your current frames per second (FPS) on screen.
 - Level of Detail - Option to change the displayed level of detail.
@@ -37,7 +38,7 @@ These mods are located on the "General" tab. *Note: The settings on this tab can
 ### Game Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
 - Map Override - Choose a custom map to play on.
-- Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds.
+- Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds. 1.5 seconds is the default (vanilla) setting.
 - Penalty Timers [Siege/CTF only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
 - V2s - Select from normal behavior, no V2s, or always V2s (all weapons are always V2).
@@ -67,3 +68,5 @@ The Horizon server also features some patches that are always active. This means
 - No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
 - Fix Weapon Shot Lag - Shots are much more likely to "count" on the screen of the shooting player.
 - Persistent Weapon Ordering - In lobbies where 3 or fewer weapons are enabled, the weapons will remain in the same order when the player respawns.
+- Kill/Frag Limit Change: When creating games, can now select a frag limit up to 50 (instead of 35).
+- Time Limit Change: When creating games, can now select a time limit up to 120 minutes (instead of 35 minutes).
