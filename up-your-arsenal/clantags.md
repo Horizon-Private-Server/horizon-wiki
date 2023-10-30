@@ -1,3 +1,5 @@
+# NOTE: As of October 2023, the UYA server is no longer offering this functionality. This page is therefore obsolete. It is being kept just in case Horizon staff brings back the functionality in the future.
+
 # Colored Clan Tags
 
 ## Colored Clan Tags
