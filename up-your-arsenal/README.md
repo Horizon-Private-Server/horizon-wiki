@@ -11,7 +11,6 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [UYA Beta and Prototype Online Servers](./betas.md)
 - [Helga Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD)
 - [Unlockable Skins](./skins.md)
-- [Colored Clan Tags](./clantags.md)
 - [Upgrades to "Cities" Area](./cities.md)
 
 
