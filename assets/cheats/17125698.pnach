@@ -1,11 +1,7 @@
-gametitle=rac3 [SCES_524.56] [17125698]
-patch=1,EE,90129240,extended,0C04A438
+gametitle=Ratchet and Clank 3 [SCES_524.56] [17125698]
+
+// DNAS Skip
 patch=1,EE,D04D55E4,extended,24020006
 patch=1,EE,004D55D8,extended,00000000
 patch=1,EE,D04D55E4,extended,24020006
 patch=1,EE,004D55E4,extended,00000005
-patch=1,EE,D178CAF4,extended,24020006
-patch=1,EE,0178CAE8,extended,00000000
-patch=1,EE,D178CAF4,extended,24020006
-patch=1,EE,0178CAF4,extended,00000005
-
