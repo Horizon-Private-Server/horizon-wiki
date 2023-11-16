@@ -11,7 +11,7 @@ Contents:
 
 
 ## UYA
-*Please note that Helga does not support UYA stats. All UYA stats can be found at Nick#1's [Advanced Stats and Live Tracker Website](https://www.uyatracker.net/).*
+*Please note that Helga does not support UYA stats. All UYA stats can be found at Nick#1's [Advanced Stats and Live Tracker Website](http://uyatracker.net/).*
 - `/uya alt [UYA username]` -- Get all accounts associated with a UYA user. NOTE: If the user name uses the character "#", type "%23" instead of "#" in your message.
 - `/uya clan [UYA clan name]` -- Get information about a UYA clan including current stats and membership.
 - `/uya skins [UYA username]` -- Get cheat codes to obtain [secret skins for UYA ](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/skins.md).
