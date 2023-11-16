@@ -6,7 +6,7 @@ Contents:
 
 - [Introduction](/getting-online/ps2/README.md#introduction)
 - [NTSC-U/C Disc](/getting-online/ps2/README.md#NTSC-UC-disc)
-- [PAL or NTSC-J Disc](/getting-online/ps2/README.md#PAL-or-NTSC-J-disc)
+- [PAL Disc](/getting-online/ps2/README.md#PAL-disc)
 - [OPL](/getting-online/ps2/README.md#OPL)
 
 ## Introduction
@@ -49,22 +49,22 @@ Steps are as follows:
 11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network. That's it!
 
 
-## PAL or NTSC-J Disc
+## PAL Disc
 
-If you have a PAL or NTSC-J disc and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). If you want to play Ratchet: Gladiator, good news! You can play Gladiator online as well using the dedicated Gladiator server. Deadlocked (NTSC-U/C) players will be able to play with you on the Gladiator server.
+If you have a PAL disc and are looking to play Ratchet and Clank 3, you can still play online with us! You will be able to play directly with people on Up Your Arsenal (NTSC-U/C version). If you want to play Ratchet: Gladiator, good news! You can play Gladiator online as well using the dedicated Gladiator server. Deadlocked (NTSC-U/C) players will be able to play with you on the Gladiator server.
 
 You will need the following items to connect:
-- The basics: PS2, controller, memory card, and PAL or NTSC-J disc for the game you want to play.
+- The basics: PS2, controller, memory card, and PAL disc for the game you want to play.
 - Network adapter, if you have a "fat" PS2. This is not needed if you have a "slim" PS2, as it is already built-in.
 - Network cable, and ability to connect that network cable to your router.
 - USB stick (see details below).
 - Free McBoot memory card (see details below).
 
-### PAL or NTSC-J Disc - Video Guide
+### PAL Disc - Video Guide
 [Click here for a video tutorial showing how to play on a PAL PS2](https://www.youtube.com/watch?v=X0FfF9xWgMk) - Thanks to CreepNT for this!
 
-### PAL or NTSC-J Disc - Written Guides
-Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on PAL or NTSC-J. These links are external to our wiki - if there are any issues with them please let us know on Discord! **One note not covered in these guides: When creating your profile, choose the "Europe" region.**
+### PAL Disc - Written Guides
+Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on PAL. These links are external to our wiki - if there are any issues with them please let us know on Discord! **One note not covered in these guides: When creating your profile, choose the "Europe" region.**
 - [English - thanks to Skunk](https://docs.google.com/document/d/1jAF87A5NoRKrZr333MPjoB4VhHVBlVZUVFXnsSf8wkw/view)
 - [Español - gracias a TaxEvasionIsFun](https://docs.google.com/document/d/1-Nn91KYuJ2cDUKOhCcN-2zBaem1v-PUNPSyupaaHa1g/view)
 
