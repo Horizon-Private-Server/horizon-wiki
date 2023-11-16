@@ -8,7 +8,6 @@ _PLEASE NOTE - Regardless of platform, the following versions of the game are cu
 - Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3):
   - NTSC-U/C (North America)
   - PAL (Europe)
-  - NTSC-J (Korean only - Japanese release not supported)
 - Ratchet: Deadlocked (Ratchet: Gladiator):
   - NTSC-U/C (North America)
   - PAL (Europe)*
