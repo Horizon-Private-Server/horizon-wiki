@@ -34,10 +34,12 @@ These mods are located on the "General" tab. *Note: The settings on this tab can
 - FPS Counter - Option to display your current frames per second (FPS) on screen.
 - Level of Detail - Option to change the displayed level of detail.
 - Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
+- Toggle Map/Scoreboard Button - Option to change which controller button activates your map. NOTE: This also makes it so that you can see the map and scoreboard in any game mode! Marcadia Palace and Aquatos Sewers do not have maps.
 
 ### Game Rules Mods
 These mods are located on the "Game Settings" tab, when applicable.
 - Map Override - Choose a custom map to play on.
+- Radar Blips - Choose whether other players are visible on the radar.
 - Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds. 1.5 seconds is the default (vanilla) setting.
 - Penalty Timers [Siege/CTF only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
 - Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
