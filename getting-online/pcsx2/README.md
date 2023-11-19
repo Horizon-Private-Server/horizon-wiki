@@ -35,7 +35,7 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 - The software is capable of updating itself at the click of a button - new builds are often released on (you guessed it) a nightly basis.  
 
 ### Written Setup Guide
-- [PCSX2 1.7 Nightly Build Written Setup Guide - November 2023 with Setup Wizard](/getting-online/pcsx2/1.7Nightly-setupwizard.md) - Use this guide for the very latest PCSX2 nightly builds with the setup wizard function.  
+- [PCSX2 1.7 Nightly Build Written Setup Guide - November 2023 with Setup Wizard](/getting-online/pcsx2/1.7nightly-setupwizard.md) - Use this guide for the very latest PCSX2 nightly builds with the setup wizard function.  
 - [PCSX2 1.7 Nightly Build Written Setup Guide - early 2023](/getting-online/pcsx2/1.7Nightly-Feb2023.md) - Use this guide for 1.7 nightly builds released earlier in 2023, before the setup wizard function was implemented.  
 - [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly-Feb2023.md#faq)  
 
