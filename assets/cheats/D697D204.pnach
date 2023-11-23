@@ -5,3 +5,7 @@ patch=1,EE,D05118E4,extended,00000006
 patch=1,EE,005118D8,extended,00000000
 patch=1,EE,D05118E4,extended,00000006
 patch=1,EE,005118E4,extended,00000005
+
+# Disable Framelimiter
+patch=1,EE,D021DFE8,extended,0000001E
+patch=1,EE,2021DFE8,extended,0000003C
