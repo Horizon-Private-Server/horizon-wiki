@@ -14,8 +14,8 @@ Additional custom map documentation and credits can be found [here](./CMAPS_DETA
 
 ## Download
 
-- [PS2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_ps2.zip)
-- [PCSX2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/dl_custom_maps_pcsx2.zip)
+### [NTSC-U/C (PS2 and PCSX2)](https://box.rac-horizon.com/downloads/maps/dl_custom_maps.zip)
+_Please note: For Deadlocked, custom maps currently work for the NTSC-U/C (North American) version of the game only._
 
 ## Setup
 
