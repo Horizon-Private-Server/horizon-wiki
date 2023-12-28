@@ -2,7 +2,7 @@
 
 The Horizon server enables users to play on custom maps. For UYA, we offer both NTSC-U/C and PAL support for custom maps.
 
-Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) for how to play.
+Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) below.
 
 ## Table of Contents
 
@@ -94,8 +94,5 @@ This can be done from the main "Online Play" screen or any later screen. It must
 4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed per the steps above will not be able to "ready up" or play on them.
 
 ## Map List
-### Maraxus Prison
-Note: [Bots](/up-your-arsenal/bots.md) do not yet work on this map.
-
-### Sarathos Swamp
-Note: [Bots](/up-your-arsenal/bots.md) do not yet work on this map.
+More custom maps are being released all the time. As of December 2023, there are over 20 custom maps available.
+Note: [Bots](/up-your-arsenal/bots.md) do not yet work on custom maps.
