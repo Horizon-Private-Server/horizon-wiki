@@ -94,5 +94,5 @@ This can be done from the main "Online Play" screen or any later screen. It must
 4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed per the steps above will not be able to "ready up" or play on them.
 
 ## Map List
-More custom maps are being released all the time. As of December 2023, there are over 20 custom maps available.
+More custom maps are being released all the time. As of December 2023, there are over 20 custom maps available.  
 Note: [Bots](/up-your-arsenal/bots.md) do not yet work on custom maps.
