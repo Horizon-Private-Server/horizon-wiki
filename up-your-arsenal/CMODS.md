@@ -26,7 +26,7 @@ Important notes about Game Settings mods:
 ![select custom map](/assets/uya/select_custom_map.png)
 
 ## Permanent Mods
-Permanent mods are patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA servers.
+Permanent mods are patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA/R&C 3 servers.
 
 Here is a list of permanent mods (this list may not be fully up-to-date):
 - No Dead Jumping/Crouching - Players are no longer able to "dead jump" (continue hopping around the map after they reach 0 HP).
