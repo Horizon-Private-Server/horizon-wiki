@@ -1,6 +1,6 @@
 # Deadlocked Custom Maps
 
-The Horizon server enables users to play on custom maps.
+The Horizon server enables users to play on custom maps. _For Deadlocked, custom maps currently work for the NTSC-U/C (North American) version of the game only._
 
 Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) below.
 
