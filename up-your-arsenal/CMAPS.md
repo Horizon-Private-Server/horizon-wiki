@@ -95,4 +95,4 @@ This can be done from the main "Online Play" screen or any later screen. It must
 
 ## Map List
 More custom maps are being released all the time. As of December 2023, there are over 20 custom maps available.  
-Note: [Bots](/up-your-arsenal/bots.md) do not yet work on custom maps.
+- Note: [Bots](/up-your-arsenal/bots.md) do not yet work on custom maps.
