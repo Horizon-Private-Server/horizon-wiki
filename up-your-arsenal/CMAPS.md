@@ -13,13 +13,9 @@ Some initial set up is required to play on custom maps. Refer to the [setup guid
 
 ## Download
 
-### NTSC-U/C
-- [PS2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/uya_custom_maps_ps2_ntsc.zip)
-- [PCSX2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/uya_custom_maps_pcsx2_ntsc.zip)
+### [NTSC-U/C (PS2 and PCSX2)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_ntsc.zip)
 
-### PAL
-- [PS2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/uya_custom_maps_ps2_pal.zip)
-- [PCSX2 Maps Download](https://box.rac-horizon.com/downloads/cmaps/uya_custom_maps_pcsx2_pal.zip)
+### [PAL(PS2 and PCSX2)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_pal.zip)
 
 ## Setup
 
