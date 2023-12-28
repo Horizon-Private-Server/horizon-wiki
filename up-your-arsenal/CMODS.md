@@ -1,70 +1,34 @@
 # Up Your Arsenal (Ratchet & Clank 3) Custom Mods
 
-The Horizon server enables users to play with various custom mods. For UYA, we offer both NTSC-U/C and PAL support for mods.
+The Horizon server enables users to play with various custom mods. For UYA/R&C 3, we offer both NTSC-U/C and PAL support for mods.
 
-Unlike custom maps, no extra setup is required to use custom mods!
+Unlike custom maps, no extra setup is required to use custom mods! Once online, just press the Start button from any screen to access the mod menu.
 
-Important notes:
-- Some settings are per player (meaning that different players can configure them differently in the same game), while others are for the entire game lobby and can only be changed by the game host.
-- Certain game rules will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)
+New mods are being developed and released frequently. Some mods seen in the menu may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
 
-## Usage
+There are three categories of mods: General, Game Settings, and Permanent. Read on for a brief description of each category.
 
-1. Create or join a game as you would normally.
+## General Mods
+These mods are located on the "General" tab.  
 
-2. From the staging screen, press the Start button to bring up the mod menu.
+Important notes about General mods:  
+- General mods are configurable by each player, meaning that different players within the same lobby may choose different General mod settings.
+- General mod settings can be acccessed by hitting the Start button on any lobby screen.
+- General mods can also be accessed and changed during the game by pressing the Start button, and then selecting "Patch Config".*
 
-3. In the "Game Settings" tab, change the available mod selections as desired.
+## Game Settings Mods
+These mods are located on the "Game Settings" tab, when applicable. Note that certain Game Settings mods will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)  
 
-4. Close the patch menu to save the new game settings.
+Important notes about Game Settings mods:  
+- Game Settings mods are only configurable by the game host.
+- Game Settings mods are only configurable before the game begins (i.e. in the Staging screen). The selected mods will apply for all players in the lobby.
 
 ![select custom map](/assets/uya/select_custom_map.png)
 
-## List of Available Mods
-
-We do our best to keep this list up to date, but it may be incomplete. Check out the "General" and "Game Settings" tabs of the in-game mod menu for all available mods. Some mods may not fully work yet. If you experience issues, please post them in the `#uya-crash-logs` channel of our Discord.
-
-### General Mods
-These mods are located on the "General" tab. *Note: The settings on this tab can also be edited during the game by pressing the Start button, and then "Patch Config".*
-- Install Custom Maps on Login - Option to automatically enable custom maps when you log in.
-- 16:9 Widescreen - We don't have to explain this one, right?
-- Progressive Scan - Option to enable progressive scan, in case you forgot to when booting up the game.
-- Always Show Health - Option to always show your health bar (not just when you press L3 or Triangle, or take damage).
-- Field of View - Option to increase the default field of view. Larger numbers = wider FoV.
-- FPS Counter - Option to display your current frames per second (FPS) on screen.
-- Level of Detail - Option to change the displayed level of detail.
-- Camera Shake - Option to turn off camera shake (e.g. on Gravity Bomb impacts).
-- Toggle Map/Scoreboard Button - Option to change which controller button activates your map. NOTE: This also makes it so that you can see the map and scoreboard in any game mode! Marcadia Palace and Aquatos Sewers do not have maps.
-
-### Game Rules Mods
-These mods are located on the "Game Settings" tab, when applicable.
-- Map Override - Choose a custom map to play on.
-- Radar Blips - Choose whether other players are visible on the radar.
-- Respawn Timer - Set the respawn timer from 0 seconds to 10 seconds. 1.5 seconds is the default (vanilla) setting.
-- Penalty Timers [Siege/CTF only] - Option to turn off the default "penalty timer" (extra respawn time when your team's base is out).
-- Weapon Pack Spawning - Select from normal behavior (spawn on player respawn), spawn on player death, and none.
-- V2s - Select from normal behavior, no V2s, or always V2s (all weapons are always V2).
-- Damage Cooldown - Option to enable/disable damage cooldown (the delay between registering a hit on an opposing player, and being able to hit them again).
-- Fix Wallsniping - Option for flux rifle shots to not count as often if the shooting player is hanging on a ledge.
-- Fix Flux Niking - Option to dramatically reduce the possibility of fLux rifle shots "niking" (deal 20 damage instead of the full 87 [or 100 for V2s]).
-- Health boxes - Option to turn off health boxes.
-- Auto Respawn [Deathmatch only] - Option to force players to respawn when the respawn timer hits zero.
-- Allow Drones - Option to disable drones (on maps that have them).
-
-### Base/Node Modifications
-These mods are located on the "Game Settings" tab, when applicable (i.e. for Siege/CTF only, and if the Base Defenses setting in the standard game setup menu is also set to Yes).
-- Gatling Turret Health - Option to buff the health of Gatling Turrets and the power core in the base up to 400% of their default values.
-- Health/Ammo Pads Always Active - Option that keeps the health and ammo refill pads inside bases active when the gatling turrets are destroyed.
-- Bots [Troopers, Ball Bots, etc.] - Option to turn the base troopers and ball bots on or off.
-- Small Turrets - Option to turn the small auto turrets at the base on or off.
-
-### Party Rules Mods
-These mods are located on the "Game Settings" tab, when applicable.
-- Survivor [Deathmatch only] - Option to prevent players from respawning on death.
-- Chargeboot Forever - Chargeboot till you drop!
-
-### Permanent Mods
+## Permanent Mods
 The Horizon server also features some patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA servers.
+
+Here is a list of permanent mods (this list may not be fully up-to-date):
 - No Dead Jumping/Crouching - Players are no longer able to "dead jump" (continue hopping around the map after they reach 0 HP).
 - No Dead Shooting - Players are no longer able to shoot and damage other players after they reach 0 HP.
 - No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
