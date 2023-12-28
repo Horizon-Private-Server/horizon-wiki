@@ -9,7 +9,7 @@ New mods are being developed and released frequently. Some mods seen in the menu
 There are three categories of mods: General, Game Settings, and Permanent. Read on for a brief description of each category.
 
 ## General Mods
-These mods are located on the "General" tab.  
+These mods are located on the "General" tab of the mod menu.  
 
 Important notes about General mods:  
 - General mods are configurable by each player, meaning that different players within the same lobby may choose different General mod settings.
@@ -17,7 +17,7 @@ Important notes about General mods:
 - General mods can also be accessed and changed during the game by pressing the Start button, and then selecting "Patch Config".*
 
 ## Game Settings Mods
-These mods are located on the "Game Settings" tab, when applicable. Note that certain Game Settings mods will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)  
+These mods are located on the "Game Settings" tab of the mod menu, when applicable. Note that certain Game Settings mods will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)  
 
 Important notes about Game Settings mods:  
 - Game Settings mods are only configurable by the game host.
@@ -26,7 +26,7 @@ Important notes about Game Settings mods:
 ![select custom map](/assets/uya/select_custom_map.png)
 
 ## Permanent Mods
-The Horizon server also features some patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA servers.
+Permanent mods are patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA servers.
 
 Here is a list of permanent mods (this list may not be fully up-to-date):
 - No Dead Jumping/Crouching - Players are no longer able to "dead jump" (continue hopping around the map after they reach 0 HP).
