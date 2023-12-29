@@ -6,6 +6,7 @@
 - [NTSC-U/C Disc](/getting-online/ps2/README.md#NTSC-UC-disc)
 - [PAL Disc](/getting-online/ps2/README.md#PAL-disc)
 - [OPL](/getting-online/ps2/README.md#OPL)
+- [Custom Map Setup](/getting-online/ps2/README.md#Custom-Map-Setup)
 
 
 ## Introduction
@@ -72,3 +73,22 @@ Thanks to some outstanding community members, we have guides in both English and
 It is also possible to use Open PS2 Loader (OPL). For UYA/R&C 3, you must use USB on OPL version 1.1.0. Other versions, as well as HDD and MX4SIO aren't able to play UYA online. For DL/Gladiator, you should use OPL version 0.9.3 as OPL seems to black screen whenever you use two USBs on later versions of OPL.
 
 We plan on adding detailed instructions for connecting via OPL in the future. In the meantime, please inquire in the `#tech-support` channel of the Horizon Discord server if you are having trouble setting up with OPL.
+
+
+## Custom Map Setup
+Our community members often play on the custom maps created by staff members for both [UYA](/up-your-arsenal/CMAPS.md) and [DL](/deadlocked/CMAPS.md). In order to join or create lobbies on custom maps, follow the steps below.
+
+Custom maps work on Ratchet & Clank: Up Your Arsenal (NTSC-U/C), Ratchet & Clank 3 (PAL), and Ratchet: Deadlocked (NTSC-U/C). Unforunately, custom maps are not currently available for Ratchet: Gladiator (PAL).
+
+### Custom Map Setup - Video Guide
+[Click here for a video tutorial showing how to set up custom maps on the PS2](https://youtu.be/ND61nvDr0bM).
+
+### Custom Map Setup - Written Guide
+In order to install and use custom maps, you need access to a computer as well as a FAT32 formatted USB drive.
+1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for the game you want to play and the region of the game that you are using.
+2. Insert the USB drive into your computer.
+3. Extract the contents of the downloaded zip file into the root of your usb drive.
+4. Verify that the usb drive has a folder called "uya" and inside of it are a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps. Check the readme for detailed script instructions.
+5. Safely eject and insert the drive into your PS2. If already online, select Start to navigate to the patch menu and select "Refresh Maps".
+
+NOTE: OPL USB users can follow the same process, but they must install custom maps on a **separate** USB drive.
