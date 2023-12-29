@@ -1,6 +1,6 @@
 # Connecting to Horizon with PCSX2
 
-NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZone Online PC Client](/getting-online/dzo) instead of PCSX2 for an easier setup and better graphics.
+_NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZone Online PC Client](/getting-online/dzo) instead of PCSX2 for an easier setup and better graphics._
 
 ## Contents:
 
