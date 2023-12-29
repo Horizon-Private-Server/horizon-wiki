@@ -15,14 +15,14 @@ NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZon
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
-This overview guide is meant for those who would like to play on the [PCSX2 emulator](https://pcsx2.net/) for PS2. PCSX2 is free and versions exist for Windows, Mac, and Linux operating systems.
+This overview guide is meant for those who would like to play on the [PCSX2 emulator](https://pcsx2.net/) for PS2.
 
 Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If you have any questions or issues regarding PCSX2 setup, ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
 
 
 ## Setup Requirements
 
-To play any PS2 game on PCSX2, you need the following:
+PCSX2 is free and versions exist for Windows, Mac, and Linux operating systems. To play any PS2 game on PCSX2, you need the following:
 
 - A BIOS file from a PS2.
 - An ISO file for each game you wish to play, OR the original PS2 disc for the game AND a disc drive with which to read the disc. Furthermore, to play UYA or DL online the ISO file must be for a [version of the game that we support](/getting-online#how-to-play--getting-online). We recommend using an NTSC-U/C ISO if possible, because:  
