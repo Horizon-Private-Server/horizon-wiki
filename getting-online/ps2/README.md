@@ -45,7 +45,8 @@ Steps are as follows:
 8. For "Set the DNS server address automatically?" select _Manual._
 9. Change the "Primary DNS" to what is shown in the Horizon Discord `#how-to-play` channel. You can use the Horizon DNS, Cristian's DNS, or 1UP/K3rber0s' DNS to access UYA or DL on the Horizon server.
 10. Wait for the connection test to complete, then save the settings. It is recommended, but not required, to change the name of the setting to match that of the DNS that you chose in step 9.
-11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network. That's it!
+11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network.
+12. If you wish to play on custom maps, also complete the steps in that section below.
 
 
 ## PAL Disc
@@ -66,6 +67,8 @@ You will need the following items to connect:
 Thanks to some outstanding community members, we have guides in both English and Spanish for how to access our servers on PAL. These links are external to our wiki - if there are any issues with them please let us know on Discord! **One note not covered in these guides: When creating your profile, choose the "Europe" region.**
 - [English - thanks to Skunk](https://docs.google.com/document/d/1jAF87A5NoRKrZr333MPjoB4VhHVBlVZUVFXnsSf8wkw/view)
 - [Español - gracias a TaxEvasionIsFun](https://docs.google.com/document/d/1-Nn91KYuJ2cDUKOhCcN-2zBaem1v-PUNPSyupaaHa1g/view)
+
+If you wish to play on custom maps, also complete the steps in that section below.
 
 
 ## OPL
