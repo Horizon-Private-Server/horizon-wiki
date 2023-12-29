@@ -19,3 +19,4 @@ _*Note: Deadlocked custom maps currently work on NTSC-U/C only._
 
 - [PS2](/getting-online/ps2/README.md)
 - [PCSX2](/getting-online/pcsx2/README.md)
+- [DZO](/getting-online/dzo/README.md)
