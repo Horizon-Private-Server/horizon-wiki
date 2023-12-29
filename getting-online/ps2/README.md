@@ -2,7 +2,7 @@
 
 This is a guide on how to connect Horizon using a PS2.
 
-# Contents:
+## Contents:
 
 - [Introduction](/getting-online/ps2/README.md#introduction)
 - [NTSC-U/C Disc](/getting-online/ps2/README.md#NTSC-UC-disc)
