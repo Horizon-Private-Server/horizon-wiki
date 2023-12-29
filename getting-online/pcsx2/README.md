@@ -17,8 +17,6 @@ Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratc
 
 This overview guide is meant for those who would like to play on the [PCSX2 emulator](https://pcsx2.net/) for PS2.
 
-Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If you have any questions or issues regarding PCSX2 setup, ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
-
 
 ## Setup Requirements
 
