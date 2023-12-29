@@ -14,7 +14,7 @@ This overview guide is meant for those who would like to play on the DreadZone O
 
 Please note the following:
 - DZO only supports online play. The single player mode of Deadlocked is not available.
-- No equivalent for DZO currently exists for Up Your Arsenal. If you want to play UYA/R&C 3 online without a PS2, use [PCSX2](/getting-online/pcsx2).
+- No equivalent for DZO currently exists for Up Your Arsenal. If you want to play UYA/R&C 3 online on a PC, use [PCSX2](/getting-online/pcsx2).
 
 
 ## Setup Requirements
