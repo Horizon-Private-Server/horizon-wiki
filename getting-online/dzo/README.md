@@ -3,6 +3,7 @@
 ## Contents:
 
 - [Introduction](/getting-online/dzo/README.md#introduction)
+- [Video Guide](/getting-online/dzo/README.md#video-guide)
 
 ## Introduction
 
