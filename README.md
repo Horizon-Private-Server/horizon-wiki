@@ -18,6 +18,8 @@ Currently, Horizon supports the following PS2 games:
 
 ### Discord Server Invite: https://discord.gg/horizonps
 
+### Horizon Website: https://rac-horizon.com/
+
 ### [Deadlocked Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/CMAPS.md#download)
 
 ### [UYA Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/CMAPS.md#download)
