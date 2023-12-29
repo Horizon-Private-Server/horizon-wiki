@@ -2,7 +2,7 @@
 
 This is a guide on how to connect to the Horizon servers using PCSX2.
 
-# Contents:
+## Contents:
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
 - [PCSX2 1.7 Nightly Build Setup Guide](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
