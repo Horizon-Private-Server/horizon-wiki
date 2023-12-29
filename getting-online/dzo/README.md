@@ -3,6 +3,7 @@
 ## Contents:
 
 - [Introduction](/getting-online/dzo/README.md#introduction)
+- [Setup Requirements](/getting-online/dzo/README.md#setup-requirements)
 - [Video Guide](/getting-online/dzo/README.md#video-guide)
 
 ## Introduction
@@ -14,6 +15,9 @@ This overview guide is meant for those who would like to play on the DreadZone O
 Please note the following:
 - DZO only supports online play. The single player mode of Deadlocked is not available.
 - No equivalent for DZO currently exists for Up Your Arsenal. If you want to play UYA/R&C 3 online, use [PCSX2](/getting-online/pcsx2).
+
+
+## Setup Requirements
 
 To use DreadZone Online, you need the following:
 
