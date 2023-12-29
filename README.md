@@ -7,14 +7,14 @@ Currently, Horizon supports the following PS2 games:
 - Ratchet & Clank: Up Your Arsenal (R&C 3) [PAL & NTSC-U/C]
 - Ratchet: Deadlocked (Gladiator) [PAL & NTSC-U/C]
 
-# Table of Contents
+## Table of Contents
 
 - [Horizon Detailed Rules and Policies](/horizon-policies/README.md)
 - [How to Play & Connect to Horizon](/getting-online/README.md)
 - [Up Your Arsenal (PS2) - Info, Features & More](/up-your-arsenal/README.md)
 - [Deadlocked (PS2) - Info, Features & More](/deadlocked/README.md)
 
-# Quick Links
+## Quick Links
 
 ### Discord Server Invite: https://discord.gg/horizonps
 
@@ -24,7 +24,7 @@ Currently, Horizon supports the following PS2 games:
 
 ### [UYA Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/CMAPS.md#download)
 
-# How can I help support Horizon?
+## How can I help support Horizon?
 There are multiple ways to support the community:
 1. Boost the Discord server (using the menu at the top of the server). Boosting unlocks Discord features in the server such as better streaming and audio quality, more custom emojis, and other fun perks.
 2. Subscribe to the Discord server (using the button near the top of the server, under the event list). Subscription funds go directly towards hosting our private servers. Any additional funds will be saved for either future hosting costs or for community tournaments.
