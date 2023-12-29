@@ -1,13 +1,12 @@
 # Connecting to Horizon with PS2
 
-This is a guide on how to connect Horizon using a PS2.
-
 ## Contents:
 
 - [Introduction](/getting-online/ps2/README.md#introduction)
 - [NTSC-U/C Disc](/getting-online/ps2/README.md#NTSC-UC-disc)
 - [PAL Disc](/getting-online/ps2/README.md#PAL-disc)
 - [OPL](/getting-online/ps2/README.md#OPL)
+
 
 ## Introduction
 
