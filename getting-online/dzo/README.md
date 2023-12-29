@@ -10,7 +10,7 @@
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
-This overview guide is meant for those who would like to play on the DreadZone Online PC Client (DZO). DZO is a special emulator for Deadlocked, developed and maintained by Horizon staff. The benefits of using DZO over PCSX2 for Deadlocked Online are an easier setup process, and better graphics.
+This overview guide is meant for those who would like to play on the DreadZone Online PC Client (DZO). DZO is a special emulator for Deadlocked, developed and maintained by Horizon staff. The benefits of using DZO over PCSX2 for Deadlocked Online are an easier setup process, automatic custom map updates, and better graphics.
 
 Please note the following:
 - DZO only supports online play. The single player mode of Deadlocked is not available.
