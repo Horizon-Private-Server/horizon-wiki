@@ -13,11 +13,11 @@ Contents:
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
-Playing both titles on a PS2 is recommended. PS2s will provide the smoothest gameplay experience for both games.
+This overview guide is meant for those who would like to play on the PS2.
 
 On PS2, it is possible to play the "old-fashioned way" using a disc, or by using OPL. Instructions for connecting each way are below.
 
-PLEASE NOTE - Before investing in a PS2 and games, double check that you are purchasing one of the [versions of the game that we support](/getting-online#how-to-play--getting-online)!
+PLEASE NOTE - Before investing in a PS2 and games, double check that you are purchasing a [version of the game that we support](/getting-online#how-to-play--getting-online)!
 
 
 ## NTSC-U/C Disc
