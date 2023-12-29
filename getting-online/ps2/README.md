@@ -33,7 +33,6 @@ If you have an NTSC-U/C game disc (United States/Canada), congratulations! You h
 
 
 ### NTSC-U/C Disc - Written Guide
-
 Steps are as follows:
 1. Navigate to the Multiplayer area of the game you want to play and select Online Play.
 2. Press Square to access Network Setup. Wait for it to load.
@@ -69,6 +68,7 @@ Thanks to some outstanding community members, we have guides in both English and
 
 
 ## OPL
+
 It is also possible to use Open PS2 Loader (OPL). For UYA/R&C 3, you must use USB on OPL version 1.1.0. Other versions, as well as HDD and MX4SIO aren't able to play UYA online. For DL/Gladiator, you should use OPL version 0.9.3 as OPL seems to black screen whenever you use two USBs on later versions of OPL.
 
 We plan on adding detailed instructions for connecting via OPL in the future. In the meantime, please inquire in the `#tech-support` channel of the Horizon Discord server if you are having trouble setting up with OPL.
