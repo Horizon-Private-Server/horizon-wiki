@@ -8,6 +8,7 @@ New mods are being developed and released frequently. Some mods seen in the menu
 
 There are three categories of mods: General, Game Settings, and Permanent. Read on for a brief description of each category.
 
+
 ## General Mods
 These mods are located on the "General" tab of the mod menu.  
 
@@ -16,14 +17,17 @@ Important notes about General mods:
 - General mod settings can be acccessed by hitting the Start button on any lobby screen.
 - General mods can also be accessed and changed during the game by pressing the Start button, and then selecting "Patch Config".*
 
+
 ## Game Settings Mods
-These mods are located on the "Game Settings" tab of the mod menu, when applicable. Note that certain Game Settings mods will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)  
+These mods are located on the "Game Settings" tab of the mod menu, when applicable.
 
 Important notes about Game Settings mods:  
 - Game Settings mods are only configurable by the game host.
 - Game Settings mods are only configurable before the game begins (i.e. in the Staging screen). The selected mods will apply for all players in the lobby.
+- Certain Game Settings mods will only show if you are playing a certain game type (for example, the Auto Respawn setting only shows in Deathmatch games, Gatling Health only shows if Base Defenses are on, etc.)  
 
 ![select custom map](/assets/uya/select_custom_map.png)
+
 
 ## Permanent Mods
 Permanent mods are patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA/R&C 3 servers.
