@@ -20,9 +20,11 @@ Currently, Horizon supports the following PS2 games:
 
 ### Horizon Website: https://rac-horizon.com/
 
-### [Deadlocked Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/CMAPS.md#download)
+### [Deadlocked Custom Maps Download (NTSC-U/C)](https://box.rac-horizon.com/downloads/maps/dl_custom_maps.zip)
 
-### [UYA Custom Map Downloads](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/up-your-arsenal/CMAPS.md#download)
+### [UYA Custom Maps Download (NTSC-U/C)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_ntsc.zip)
+
+### [Ratchet & Clank 3 Custom Maps Download (PAL)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_pal.zip)
 
 ## How can I help support Horizon?
 There are multiple ways to support the community:
