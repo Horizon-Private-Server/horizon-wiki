@@ -28,4 +28,4 @@ Setting up DZO requires you to have administrative, write-level access to the fo
 ## Video Guide
 [Click here for a video tutorial showing how to set up Dreadzone Online](https://www.youtube.com/watch?v=KKeOXb0R4mM).
 
-The client download is available at: https://rac-horizon.com/ .
+The client download is available at: https://rac-horizon.com/.
