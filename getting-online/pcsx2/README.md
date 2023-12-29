@@ -1,19 +1,26 @@
 # Connecting to Horizon with PCSX2
 
-This is a guide on how to connect to the Horizon servers using PCSX2.
+NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZone Online PC Client](/getting-online/dzo) instead of PCSX2 for an easier setup and better graphics.
 
 ## Contents:
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
+- [Setup Requirements](/getting-online/pcsx2/README.md#setup-requirements)
 - [PCSX2 1.7 Nightly Build Setup Guide](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
 - [Other PCSX2 Setup Guides](/getting-online/pcsx2/README.md#other-pcsx2-setup-guides)
 - [Credits](/getting-online/pcsx2/README.md#credits)
+
 
 ## Introduction
 
 Welcome to the Ratchet and Clank: Up Your Arsenal (Ratchet and Clank 3) and Ratchet: Deadlocked (Ratchet: Gladiator) online community.
 
 This overview guide is meant for those who would like to play on the [PCSX2 emulator](https://pcsx2.net/) for PS2. PCSX2 is free and versions exist for Windows, Mac, and Linux operating systems.
+
+Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If you have any questions or issues regarding PCSX2 setup, ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
+
+
+## Setup Requirements
 
 To play any PS2 game on PCSX2, you need the following:
 
@@ -26,8 +33,6 @@ To play any PS2 game on PCSX2, you need the following:
 A quick Internet search will yield detailed guides for how to obtain both BIOS and ISO files, and some websites offer downloads of them. ***Depending on where you live, these downloads may or may not be legal. If using an illegal copy of the BIOS and/or ISO, you agree to completely release the Horizon staff and community from any liability resulting from your actions.***
 
 Setting up PCSX2 requires you to have administrative, write-level access to the folder that you install PCSX2 into. You also must have enough tech-savviness to move files around between specific folders on your computer.
-
-Due to the wide variety of computer specs available, PCSX2 optimization and even configuration are to some extent matters of trial and error. If you have any questions or issues regarding PCSX2 setup, ask in the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps).
 
 
 ## PCSX2 1.7 Nightly Build
