@@ -2,64 +2,17 @@
 
 The Horizon server enables users to play on custom maps. For UYA, we offer both NTSC-U/C and PAL support for custom maps.
 
-Some initial set up is required to play on custom maps. Refer to the [setup guide](#setup) below.
+Some initial set up is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/1.7Nightly-Feb2023.md#custom-map-setup) as needed.
+
 
 ## Table of Contents
 
-- [Download Links](#download)
-- [Setup Guide](#setup)
 - [Usage](#usage)
 - [Map List](#map-list)
 
-## Download
-
-### [NTSC-U/C (PS2 and PCSX2)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_ntsc.zip)
-
-### [PAL(PS2 and PCSX2)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_pal.zip)
-
-## Setup
-
-### PS2 Guide
-
-Guide to install custom maps on PS2 (for a video tutorial showing the same process but for Deadlocked, [click here](https://www.youtube.com/watch?v=cVRJg_k0Wj0)).
-
-NOTE: OPL USB users must install maps on a **separate** USB drive.
-
-#### Requirements
-
-- FAT32 formatted usb drive
-- Access to computer
-
-#### Steps
-
-1. Download the maps for the PS2 [here](#download).
-2. Insert the USB drive into your computer.
-3. Extract the contents of the downloaded zip file into the root of your usb drive.
-4. Verify that the usb drive has a folder called "uya" and inside of it are a bunch of files.
-5. Safely eject and insert the drive into your PS2.
-
-### PCSX2 Guide
-
-Guide to install custom maps on PCSX2.
-
-#### Requirements
-
-- Recent nightly (1.7.X) PCSX2 build.
-
-#### Steps
-
-1. Download the maps for PCSX2 [here](#download).
-2. Unzip and copy the extracted .img file to a convenient place.
-3. Open PCSX2 and go to Settings → Controllers.
-4. On the left side of the window, select USB Port 1.
-5. In the drop down menu where it says "Not Connected", change the selection to "Mass Storage Device".
-6. On the right side of the "Image Path" box, click Browse and select the .img file from step 2.
-7. Click Close to exit the settings window. You are now ready to boot up the game.
-
-![usb settings](/assets/pcsx2/pcsx2_custom_maps.png)
 
 ## Usage
-To play on a custom map is simple, and works the same whether using PS2 or PCSX2.
+To play on a UYA/R&C 3 custom map is simple, and works the same whether using PS2 or PCSX2.
 
 ### Enabling Custom Maps
 
