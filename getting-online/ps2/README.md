@@ -79,7 +79,7 @@ We plan on adding detailed instructions for connecting via OPL in the future. In
 
 
 ## Custom Map Setup
-Our community members often play on the custom maps created by staff members for both [Ratchet & Clank: Up Your Arsenal (NTSC-U/C)/Ratchet & Clank 3 (PAL)](/up-your-arsenal/CMAPS.md) and [Ratchet: Deadlocked (NTSC-U/C)](/deadlocked/CMAPS.md). Unforunately, custom maps are not currently available for Ratchet: Gladiator (PAL).
+Our community members often play on the custom maps created by staff members for both [Ratchet & Clank: Up Your Arsenal (NTSC-U/C)/Ratchet & Clank 3 (PAL)](/up-your-arsenal/CMAPS.md) and [Ratchet: Deadlocked (NTSC-U/C)](/deadlocked/CMAPS.md). Unfortunately, custom maps are not currently available for Ratchet: Gladiator (PAL).
 
 In order to join or create lobbies on custom maps, follow the steps below.
 
