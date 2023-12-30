@@ -91,7 +91,7 @@ In order to install and use custom maps, you need access to a computer as well a
 1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for the game(s) you want to play and the region of the game that you are using.
 2. Insert the USB drive into your computer.
 3. Extract the contents of the downloaded zip file into the root of your usb drive.
-4. Verify that the usb drive has a folder called "uya" and inside of it are a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps. Check the readme for detailed script instructions.
+4. Verify that the usb drive has a folder called "uya" (for UYA/R&C 3) and or "dl" (for DL). Inside of that folder should be a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps. Check the readme for detailed script instructions.
 5. Safely eject and insert the drive into your PS2. If already online, select Start to navigate to the patch menu and select "Refresh Maps".
 
 NOTE: OPL USB users can follow the same process, but they must install custom maps on a **separate** USB drive.
