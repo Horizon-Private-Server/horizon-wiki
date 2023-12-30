@@ -88,9 +88,9 @@ In order to join or create lobbies on custom maps, follow the steps below.
 
 ### Custom Map Setup - Written Guide
 In order to install and use custom maps, you need access to a computer as well as a FAT32 formatted USB drive.
-1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for the game(s) you want to play and the region of the game that you are using.
+1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for your game(s)/region.
 2. Insert the USB drive into your computer.
-3. Extract the contents of the downloaded zip file(s) into the root of your USB drive. Verify that the USB drive has a folder called "uya" (for UYA/R&C 3) and or "dl" (for DL). Inside of those folder(s) should be a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps (check the readme or video guide for detailed update script instructions).
+3. Extract the contents of the downloaded zip file(s) into the root of your USB drive. Verify that the USB drive has a folder called "uya" (for UYA/R&C 3) and/or "dl" (for DL). Inside of those folder(s) should be a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps (check the readme or video guide for detailed update script instructions).
 4. Safely eject and insert the drive into your PS2.
 5. Once online, use the Start button in the staging screen to access the mod menu and select a custom map. See details [here](/up-your-arsenal/CMAPS.md) for UYA/R&C 3 or [here](/deadlocked/CMAPS.md) for DL.
 
