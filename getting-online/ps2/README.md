@@ -88,7 +88,7 @@ In order to join or create lobbies on custom maps, follow the steps below.
 
 ### Custom Map Setup - Written Guide
 In order to install and use custom maps, you need access to a computer as well as a FAT32 formatted USB drive.
-1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for the game you want to play and the region of the game that you are using.
+1. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for the game(s) you want to play and the region of the game that you are using.
 2. Insert the USB drive into your computer.
 3. Extract the contents of the downloaded zip file into the root of your usb drive.
 4. Verify that the usb drive has a folder called "uya" and inside of it are a bunch of map files. In the root folder there will also be a readme .txt file and some scripts that you can use to update the maps. Check the readme for detailed script instructions.
