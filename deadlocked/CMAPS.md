@@ -13,7 +13,7 @@ Some initial set up is required to play on custom maps. Refer to the setup guide
 
 ## Usage
 
-To play on a custom map is simple, and works the same whether using PS2 or PCSX2.
+To play on a DL custom map is simple, and works the same whether using PS2 or PCSX2.
 
 1. After you log in, make a game as you would normally.
 
