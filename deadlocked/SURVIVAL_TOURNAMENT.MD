@@ -6,7 +6,9 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 - [Survival Tournament](#survival-tournament)
   - [Table of Contents](#table-of-contents)
   - [Upcoming Tournaments](#upcoming-tournaments)
-    - [August 5th and 6th - Orxon Survival Tournament](#august-5th-and-6th---orxon-survival-tournament)
+    - [January 6th and 7th - Mountain Pass Survival Tournament](#january-6th-and-7th-2024---mountain-pass-survival-tournament)
+  - [Past Tournaments](#past-tournaments)
+    - [August 5th and 6th - Orxon Survival Tournament](#august-5th-and-6th-2023---orxon-survival-tournament)
   - [Outline](#outline)
   - [How to Play](#how-to-play)
   - [Rules](#rules)
@@ -22,22 +24,24 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 
 ## Upcoming Tournaments
 
-### August 5th and 6th - Orxon Survival Tournament
+### January 6th and 7th 2024 - Mountain Pass Survival Tournament
 
-**Tournament begins on August 5th at 12:00 AM PST and ends on August 6th at 11:59 PM PST!!**<br>
+**Tournament begins on January 6th at 12:00 AM PST and ends on January 7th at 11:59 PM PST!!**<br>
 All survival runs must have occured during the event to be accepted!<br>
 
 #### Prize Distribution
 
 | Placement | Prize |
 | --- | ----------- |
-| 1st | $50 |
-| 2nd | $30 |
-| 3rd | $20 |
+| 1st | $90 |
+| 2nd | $60 |
+| 3rd | $50 |
+| 4th | $30 |
+| 5th | $20 |
 
 #### Submissions
 
-Please submit your run to [our google form](https://docs.google.com/forms/d/e/1FAIpQLSdcAHA_lZvVwg0-6rz6jEdwB1H-RwLHyOy1Iao4Fc33EqSD8A/viewform?usp=sf_link).
+Please submit your run to [our google form](https://forms.gle/9EuGUxcQsKUaTwBa7).
 
 Submissions will open right after the event.<br>
 The deadline for all submissions is August 9th at 11:59 PM PST!
@@ -104,10 +108,14 @@ Cheating includes but is not limited to:
 
 ## Prizes
 
-Cash prizes are distributed to the 1st, 2nd, and 3rd place runs. Amount and distribution can change per tournament.
+Cash prizes are distributed to the longest runs. Number of winners, amount, and distribution can change per tournament.
 
 We can send money via Venmo, Cashapp, or PayPal. If you do not have any of those, or wish to not share them with us, we can also send you a digital gift card to the digital storefront of your choosing.
 
 ## Past Tournaments
 
-No past tournaments (yet).
+### August 5th and 6th 2023 - Orxon Survival Tournament
+
+ - 1st ($50): Coldviper & Skillz [VOD](https://drive.google.com/file/d/1OYJLoZpCAikvb6ZUssOKXA3tcS2cHOT5/view?usp=sharing)
+ - 2nd ($30): Panda & LifeBeezy [VOD](https://www.youtube.com/watch?v=6QkZEYik9rs)
+ - 3rd ($20): Bubblegum & Pavo [VOD](https://www.twitch.tv/videos/1892319833)
