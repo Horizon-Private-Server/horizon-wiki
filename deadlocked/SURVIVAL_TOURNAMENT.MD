@@ -44,7 +44,7 @@ All survival runs must have occured during the event to be accepted!<br>
 Please submit your run to [our google form](https://forms.gle/9EuGUxcQsKUaTwBa7).
 
 Submissions will open right after the event.<br>
-The deadline for all submissions is August 9th at 11:59 PM PST!
+The deadline for all submissions is January 10th at 11:59 PM PST!
 
 ## Outline
 
