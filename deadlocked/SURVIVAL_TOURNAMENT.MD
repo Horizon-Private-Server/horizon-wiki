@@ -105,6 +105,7 @@ Cheating includes but is not limited to:
 * Use of cheat codes
 * Submitting multiple runs as a different person
 * Participating on multiple teams disguised as a different person
+* Exploiting out of bound (OOB) glitches
 
 ## Prizes
 
