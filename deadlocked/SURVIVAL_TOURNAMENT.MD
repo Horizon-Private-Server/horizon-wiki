@@ -27,7 +27,10 @@ This page outlines the rules of Horizon's Survival Tournament, as well as provid
 ### January 6th and 7th 2024 - Mountain Pass Survival Tournament
 
 **Tournament begins on January 6th at 12:00 AM PST and ends on January 7th at 11:59 PM PST!!**<br>
-All survival runs must have occured during the event to be accepted!<br>
+
+All survival runs must **BEGIN** during the event to be accepted!<br>
+
+**YOUR RUN MUST END BY JANUARY 8TH AT 11:59 PM PST!!**<br>
 
 #### Prize Distribution
 
@@ -75,9 +78,9 @@ You must join our [discord](https://discord.gg/horizonps) to be able to particip
 
 ### Start and End Dates
 
-Each Survival Tournament will have a start and end date. Your run must BEGIN within those two dates. If you start before the start date or after the end date, it will not count.
+Each Survival Tournament will have a start and end date. Your run must **BEGIN** within those two dates. If you start before the start date or after the end date, it will not count.
 
-If your run *finishes* after the end date, it will still count.
+If your run **finishes** after the end date, it will still count **as long as** it finishes within 24 hours of the end date.
 
 ### 2 Players
 
