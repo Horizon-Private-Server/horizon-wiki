@@ -45,7 +45,7 @@ __Note: For DZO users, custom maps refresh automatically so the steps above are 
 
 3. Close the patch menu to save the new game settings.
 
-4. Note that each player in the game must install the custom maps separately (not just the host). If any players do not have the chosen map properly installed, the system will send a message indicating this and those player(s) will not be able to "ready up" or play on the map.
+4. Note that each player in the game must install the custom maps separately (not just the host). If any players do not have the chosen map properly installed, the system will send a message indicating this and those player(s) will not be able to "ready up" or play on the map. See second screenshot below for an example.
 
 ![select custom map](/assets/dl/dl_map_select.png)
 
