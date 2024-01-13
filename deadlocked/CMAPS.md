@@ -33,9 +33,9 @@ To refresh:
 
 3. Safely eject your custom maps USB from the computer, and plug it into your PS2 (this step doesn't apply on emulator).
 
-4. In staging for a match, press the Start button to bring up the mod menu. Select the desired custom map from the list.
+4. In staging for a match, the host will select the desired custom map from the patch menu. If no system messages pop up and you can ready up, the refresh worked correctly!
 
-Note: For DZO users, custom maps refresh automatically so the steps above are not needed.
+__Note: For DZO users, custom maps refresh automatically so the steps above are not needed.__
 
 ### Hosting a Game on Custom Maps
 
