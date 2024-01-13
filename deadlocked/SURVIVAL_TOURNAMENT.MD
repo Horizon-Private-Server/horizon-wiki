@@ -59,7 +59,7 @@ Our Survival Tournament pits teams of two against one another. Over the duration
 
 Survival requires the [latest custom maps](./CMAPS.md) and a copy of Deadlocked NTSC-U/C. Gladiator is not supported.
 
-![setup gif](../assets/dl/game/survivalsetup.gif)
+![setup gif](../assets/dl/survivalsetup.gif)
 
 1. Login to the Deadlocked server
 2. Create a Deathmatch
