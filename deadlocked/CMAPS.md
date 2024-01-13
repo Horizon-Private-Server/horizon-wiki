@@ -37,41 +37,19 @@ To refresh:
 
 Note: For DZO users, custom maps refresh automatically so the steps above are not needed.
 
-1. After you log in, make a game as you would normally.
+### Hosting a Game on Custom Maps
 
-![create game](/assets/dl/game/creategame.png)
+1. Create a game as you would normally.
 
-2. Press start to open the patch menu.
+2. From the staging screen, press the Start button to bring up the patch menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map as shown in the first screenshot below.
 
-![patch](/assets/dl/game/patchmenu.png)
+3. Close the patch menu to save the new game settings.
 
-3. Navigate to the Game Settings tab and change the map.
+4. Note that each player in the game must install the custom maps separately (not just the host). If any players do not have the chosen map properly installed, the system will send a message indicating this and those player(s) will not be able to "ready up" or play on the map.
 
-![patch game settings](/assets/dl/game/patchgs.png)
+![select custom map](/assets/dl/dl_map_select.png)
 
-4. Close the patch menu to save the new game settings.
-
-![no modules](/assets/dl/game/nocmapmodules.png)
-
-NOTE: If you receive a message stating you do not have custom maps enabled then you must install the map modules before you can play.
-
-### Installing Map Modules
-
-Each time you boot your PS2/emulator you must install the custom map modules in order to load the custom maps in game.
-
-1. Open the patch menu and navigate to the Custom Maps tab.
-
-![patch cmaps](/assets/dl/game/patchcmaps.png)
-
-2. Install the modules.
-
-![patch cmaps installing](/assets/dl/game/cmapsinstalling.png)
-![patch cmaps installed](/assets/dl/game/cmapsinstalled.png)
-
-NOTE: You may also enable the "Install custom maps on login" toggle in the General tab to automatically install the modules on login.
-
-![patch cmaps installed](/assets/dl/game/cmapsonlogin.png)
-
+![user_no_map](/assets/dl/dl_user_no_map.png)
 
 ## Additional Documentation
 Additional custom map documentation and credits can be found [here](./CMAPS_DETAIL.MD).
