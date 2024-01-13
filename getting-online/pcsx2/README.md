@@ -41,7 +41,7 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 - The software is capable of updating itself at the click of a button - new builds are often released on (you guessed it) a nightly basis.  
 
 ### Written Setup Guide
-- [PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7nightly.md)  
+- [PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly.md)  
 - [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly.md#faq)  
 
 ### Video Setup Guides
