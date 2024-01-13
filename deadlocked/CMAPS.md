@@ -15,6 +15,28 @@ Some initial set up is required to play on custom maps. Refer to the setup guide
 
 To play on a DL custom map is simple, and works the same whether using PS2 or PCSX2.
 
+### Enabling Custom Maps
+Custom maps are detected and enabled automatically. When you first log in to the server, you will see a "Downloading..." message similar to what is shown in the first screenshot below. After a few seconds, the download will complete and a message will pop up stating that the patch is successfully loaded (second screenshot below). Once you see this, you're all set to use the custom mod menu and any custom maps that you have correctly installed.
+
+![patch_downloading](/assets/dl/dl_patch_downloading.png)
+
+![patch_downloaded](/assets/dl/dl_patch_downloaded.png)
+
+### Refreshing Custom Maps
+New custom maps are being added to the game all the time, and sometimes existing ones get revised. If you are already online and need to refresh your custom maps to the latest version, you can do this as long as you are not in the middle of a game. You do NOT need to log out to refresh the maps!  
+
+To refresh:  
+
+1. Unplug your custom maps USB from the PS2, and plug it into your computer (this step doesn't apply on emulator).
+
+2. Use the update application in the custom map download folder, OR simply re-download the latest .zip file from [the Horizon website](https://rac-horizon.com/).
+
+3. Safely eject your custom maps USB from the computer, and plug it into your PS2 (this step doesn't apply on emulator).
+
+4. In staging for a match, press the Start button to bring up the mod menu. Select the desired custom map from the list.
+
+Note: For DZO users, custom maps refresh automatically so the steps above are not needed.
+
 1. After you log in, make a game as you would normally.
 
 ![create game](/assets/dl/game/creategame.png)
