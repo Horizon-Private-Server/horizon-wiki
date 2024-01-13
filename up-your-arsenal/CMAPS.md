@@ -17,9 +17,9 @@ To play on a UYA/R&C 3 custom map is simple, and works the same whether using PS
 ### Enabling Custom Maps
 Custom maps are detected and enabled automatically. When you first log in to the server, you will see a "Downloading..." message similar to what is shown in the first screenshot below. After a few seconds, the download will complete and a message will pop up stating that the patch is successfully loaded (second screenshot below). Once you see this, you're all set to use the custom mod menu and any custom maps that you have correctly installed.
 
-![patch_downloading](/assets/uya/patch_downloading.png)
+![patch_downloading](/assets/uya/uya_patch_downloading.png)
 
-![patch_downloaded](/assets/uya/patch_downloaded.png)
+![patch_downloaded](/assets/uya/uya_patch_downloaded.png)
 
 ### Refreshing Custom Maps
 New custom maps are being added to the game all the time, and sometimes existing ones get revised. If you are already online and need to refresh your custom maps to the latest version, you can do this as long as you are not in the middle of a game. You do NOT need to log out to refresh the maps!  
