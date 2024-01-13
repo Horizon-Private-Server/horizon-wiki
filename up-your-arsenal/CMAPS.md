@@ -15,7 +15,7 @@ Some initial set up is required to play on custom maps. Refer to the setup guide
 To play on a UYA/R&C 3 custom map is simple, and works the same whether using PS2 or PCSX2.  
 
 ### Enabling Custom Maps
-Custom maps are detected and enabled automatically. When you first log in to the server, you will see a "Downloading..." message similar to what is shown in the first screenshot below. After a few seconds, the download will complete and a message will pop up stating that the patch is successfully loaded (second screenshot below). Once you see this, you're all set to use the custom mod menu and any custom maps that you have correctly installed.
+Custom maps are detected and enabled automatically. When you first log in to the server, you will see a "Downloading..." message similar to what is shown in the first screenshot below. After a few seconds, the download will complete and a message will pop up stating that the patch is successfully loaded (second screenshot below). Once you see this, you're all set to use the custom patch (mod) menu and any custom maps that you have correctly installed.
 
 ![patch_downloading](/assets/uya/uya_patch_downloading.png)
 
@@ -34,19 +34,19 @@ To refresh:
 
 4. In game, press the Start button to bring up the mod menu. In the "General" tab, select "Refresh Maps". After a couple seconds, a message like what is shown below will pop up. That's it!
 
-![refresh_custom_maps](/assets/uya/map_refresh.png)
+![refresh_custom_maps](/assets/uya/uya_map_refresh.png)
 
 ### Hosting a Game on Custom Maps
 
 1. Create a game as you would normally.
 
-2. From the staging screen, press the Start button to bring up the mod menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map as shown below.
+2. From the staging screen, press the Start button to bring up the patch menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map as shown below.
 
 3. Close the patch menu to save the new game settings.
 
 4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed will not be able to "ready up" or play on them.
 
-![select custom map](/assets/uya/map_select.png)
+![select custom map](/assets/uya/uya_map_select.png)
 
 ## Map List
 More custom maps are being released all the time. As of December 2023, there are over 20 custom maps available.  
