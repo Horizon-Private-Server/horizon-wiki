@@ -19,6 +19,7 @@ __IMPORTANT: All UYA/R&C 3 texture packs are currently compatible with PCSX2 1.7
 
 ## Setup
 Some set up is required to use the texture packs. There are some initial setup steps that only have to be performed once, and "as-needed" setup to add and remove the chosen textures.  
+
 [Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a video tutorial, or read on for written directions.  
 
 ### First Time Setup
