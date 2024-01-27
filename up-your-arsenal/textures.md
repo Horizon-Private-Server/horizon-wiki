@@ -46,6 +46,7 @@ This section should be done as needed.
 
 ## Texture Downloads
 This section contains links to various texture downloads.  
+
 Notes:  
 - These downloads are external to our wiki - if you find that a link is broken, please let a staff member know!  
 - We also recommend the upscaled UI textures which are linked on the PCSX2 setup page.
