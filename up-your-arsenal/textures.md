@@ -54,9 +54,7 @@ Notes:
 - We also recommend the upscaled UI textures which are linked on the PCSX2 setup page.
 
 ### All UYA Texture Mods
-This include all UYA texture mods made by the Discord users named below. It also includes the original textures broken down into an organized format.
-
-[Google Drive Link](https://drive.google.com/drive/folders/1CG4r_UoOpxVk4NLWz34Q3W6oJCBZoZgy)
+This include all UYA texture mods made by the Discord users named below. [Google Drive Link](https://drive.google.com/drive/folders/1CG4r_UoOpxVk4NLWz34Q3W6oJCBZoZgy)
 
 
 ## Credits and Getting Help
