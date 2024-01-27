@@ -1,6 +1,12 @@
-# Up Your Arsenal (Ratchet & Clank 3) Custom Texture Packs
+# Up Your Arsenal (Ratchet & Clank 3) Custom Textures
 
-We have several community members who have created custom texture packs for UYA. These texture packs give the UYA/R&C 3 maps, skins, and weapons you know and love a brand new look.
+We have several community members who have created custom texture packs for UYA. These texture packs give the UYA/R&C 3 maps, skins, and weapons you know and love a brand new look.  
+
+See these examples of gameplay on various texture-modified maps:  
+- [Mars Hoven Gorge and Outpost X12 Night](https://www.youtube.com/watch?v=CNwz_Zes7kQ)
+- ["Metroxic" Metropolis Mod](https://www.youtube.com/watch?v=upLPPcDtHkE)
+- [Lazertag Marcadia Palace](https://www.youtube.com/watch?v=er6LzNtXjJ4)
+
 
 __IMPORTANT: All UYA/R&C 3 texture packs are currently compatible with PCSX2 1.7 only. We will update this in the future if these mods become available for PS2.__ However, they ARE compatible with both NTSC-U/C (Up Your Arsenal) and PAL (Ratchet & Clank 3).
 
@@ -38,8 +44,17 @@ This section should be done as needed.
 
 
 ## Texture Downloads
+This section contains links to various texture downloads.  
+Notes:  
+- These downloads are external to our wiki - if you find that a link is broken, please let a staff member know!  
+- We also recommend the upscaled UI textures which are linked on the PCSX2 setup page.
 
+### All UYA Texture Mods
+This include all UYA texture mods made by the Discord users named below. It also includes the original textures broken down into an organized format.
+
+[Google Drive Link](https://drive.google.com/drive/folders/1CG4r_UoOpxVk4NLWz34Q3W6oJCBZoZgy)
 
 
 ## Credits and Getting Help
-All textures were created by Discord users Devin (@bizarredistance), !m0 (@i.m0), pavo (@pavo9001), and sanjum2 (@sanjum2). Contacting these users directly via Discord is the best way to get technical support on these texture packs, or learn how to create your own.
+All textures were created by Discord users Devin (@bizarredistance), !m0 (@i.m0), pavo (@pavo9001), and sanjum2 (@sanjum2).  
+Contacting these users directly via Discord is the best way to get technical support on these texture packs, or learn how to create your own.
