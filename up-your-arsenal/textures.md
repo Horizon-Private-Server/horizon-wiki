@@ -8,7 +8,9 @@ See these examples of gameplay on various texture-modified maps:
 - [Lazertag Marcadia Palace](https://www.youtube.com/watch?v=er6LzNtXjJ4)
 
 
-__IMPORTANT: All UYA/R&C 3 texture packs are currently compatible with PCSX2 1.7 only. We will update this in the future if these mods become available for PS2.__ However, they ARE compatible with both NTSC-U/C (Up Your Arsenal) and PAL (Ratchet & Clank 3) on PCSX2.
+__IMPORTANT: All UYA/R&C 3 texture packs are currently compatible with PCSX2 1.7 only. They do not work on PS2.__  
+
+However, they ARE compatible with both NTSC-U/C (Up Your Arsenal) and PAL (Ratchet & Clank 3) on PCSX2.
 
 ## Table of Contents
 
