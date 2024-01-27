@@ -50,7 +50,7 @@ This section should be done as needed.
 This section contains links to various texture downloads.  
 
 Notes:  
-- These downloads are external to our wiki - if you find that a link is broken, please let a staff member know!  
+- These downloads are external to our wiki - if you find that a link is broken, please let a Horizon staff member know on our Discord!  
 - We also recommend the upscaled UI textures which are linked on the PCSX2 setup page.
 
 ### All UYA Texture Mods
