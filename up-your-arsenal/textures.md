@@ -58,5 +58,5 @@ This include all UYA texture mods made by the Discord users named below. It also
 
 
 ## Credits and Getting Help
-All textures were created by Discord users Devin (@bizarredistance), !m0 (@i.m0), pavo (@pavo9001), and sanjum2 (@sanjum2).  
+All textures were created by Discord users BizarreDistance (@bizarredistance), !m0 (@i.m0), pavo (@pavo9001), and sanjum2 (@sanjum2).  
 Contacting these users directly via Discord is the best way to get technical support on these texture packs, or learn how to create your own.
