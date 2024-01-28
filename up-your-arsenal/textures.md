@@ -38,7 +38,7 @@ This section only needs to be done once.
 ### Adding Textures
 This section should be done as needed.  
 1. Download and extract the desired texture files. You may need a tool like 7-zip to extract .rar files.  
-2. Locate the folder that contains the textures you want to use. Copy or move the entire folder into the "replacements" folder that was previously created. In general, copy/move the lowest level folder (the one that has all of the image files directly within it).  
+2. Locate the folder that contains the textures you want to use. Copy or move the entire folder into the "replacements" folder that was previously created. The textures will still work if some of the image files are in subfolders (as they are organized in the download).  
 3. If any existing textures will conflict with the new ones you just copied in, move them out of the "replacements" folder or delete them. The following rules apply for conflicts:  
   a) You can use one mod per map feature. For example, there should only be one mod for Bakisi Isles water in use at a time.  
   b) You can use one mod per weapon.  
@@ -56,7 +56,7 @@ Notes:
 ### All UYA Texture Mods
 [Google Drive Link](https://drive.google.com/drive/folders/1CG4r_UoOpxVk4NLWz34Q3W6oJCBZoZgy)  
 
-This include all UYA texture mods made by the Discord users named below.  
+This includes all UYA texture mods made by the Discord users named below.  
 
 ## Credits and Getting Help
 All textures were created by Discord users BizarreDistance (@bizarredistance), !m0 (@i.m0), pavo (@pavo9001), and sanjum2 (@sanjum2).  
