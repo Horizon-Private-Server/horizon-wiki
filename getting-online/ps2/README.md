@@ -94,6 +94,7 @@ In order to install and use custom maps, you need access to a computer as well a
 4. Safely eject and insert the drive into your PS2.
 5. Once online, use the Start button in the staging screen to access the mod menu and select a custom map. See details [here](/up-your-arsenal/CMAPS.md) for UYA/R&C 3 or [here](/deadlocked/CMAPS.md) for DL.
 
-NOTE: OPL USB users can follow the same process, but they must install custom maps on a **separate** USB drive.
+NOTE: OPL USB users can follow the same process, but they must install custom maps on a **separate** USB drive.  
 
+Rufus settings from step 2 above:
 ![img](/assets/usb_rufus.png)
