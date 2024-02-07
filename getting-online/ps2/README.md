@@ -96,5 +96,5 @@ In order to install and use custom maps, you need access to a computer as well a
 
 NOTE: OPL USB users can follow the same process, but they must install custom maps on a **separate** USB drive.  
 
-Rufus settings from step 2 above:  
+Rufus settings for step 2 above:  
 ![img](/assets/usb_rufus.png)
