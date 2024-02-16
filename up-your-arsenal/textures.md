@@ -20,7 +20,7 @@ However, they ARE compatible with both NTSC-U/C (Up Your Arsenal) and PAL (Ratch
 
 
 ## Setup
-Some set up is required to use the UYA/R & C 3 texture packs. Refer to our [PCSX2 Setup Guide FAQ](/getting-online/pcsx2/1.7Nightly.md#custom-pcsx2-textures) for how to set up these and other custom texture packs!
+Some set up is required to use the UYA/R & C 3 texture packs. Refer to our [PCSX2 Setup Guide FAQ](/getting-online/pcsx2/1.7Nightly.md#custom-pcsx2-textures) for how to set up these and other custom texture packs! Be sure to set the "Mipmapping" setting (in the Graphics tab -> Rendering) to "Basic (Generated Mipmaps)".
 
 ## Texture Downloads
 This section contains links to various texture downloads.  
