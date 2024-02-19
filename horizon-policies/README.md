@@ -15,7 +15,7 @@ As listed in the `#rules` channel of the [Horizon Discord server](https://discor
 2. No toxicity. This includes but is not limited to: repeatedly trying to force others to play the games in a certain way, lack of common sense, or being excessively negative or combative.  
 3. Please try to keep conversations in the appropriate channels here on Discord. Linking to other Discord servers is also prohibited without prior approval from staff.  
 4. Flooding and/or spamming messages is not allowed, nor is any NSFW content.  
-5. Violent threats (both written and verbal) are strictly prohibited. These threats will result in immediate bans from both game servers and this Discord server.  Threats against Horizon servers and staff members are also strictly prohibited.  
+5. Violent threats (both written and verbal) are strictly prohibited. These threats will result in immediate [bans](#bans).  Threats against Horizon servers and staff members are also strictly prohibited.  
 
 
 ## Horizon Disciplinary Policy
