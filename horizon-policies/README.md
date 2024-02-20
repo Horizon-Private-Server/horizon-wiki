@@ -80,7 +80,7 @@ You can expect Horizon staff members to try their best to:
 - Be transparent and honest with community members at all times.  
 - Take community feedback into account as much as possible.
 
-Note that Horizon staff does not DM members unexpectedly unless we personally know you (whether new to the server, or otherwise). All Horizon staff member communication will come from within the Horizon Discord server, unless the user is banned.  
+Note that Horizon staff does not DM members unexpectedly unless we personally know you (whether new to the server, or otherwise). In general, unless the user is banned all Horizon staff member communication will come from within the Horizon Discord server.  
 
 Thank you for being a part of the Horizon community!  
 
