@@ -27,7 +27,7 @@ Horizon staff members make every effort to help users who violate the rules unde
 ### Mutes, Timeouts, and Slowmode
 Horizon staff members may use Discord's muting, timeout, and slowmode functionality as they see fit. For example:  
 - A user may be muted or timed out if the staff member feels that it is necessary. Muting/timing out the user gives the staff time to discuss as a group and determine whether the user's actions are enough to warrant a formal warning. Mutes and timeouts are generally lifted within 24 hours, and often much sooner.  
-- A channel may be put into slowmode if a staff member notices that the conversation is getting very heated.  
+- A channel may be put into slowmode temporarily if a staff member notices that the conversation is getting very heated.  
 
 All of these tools are ways that Horizon staff members prevent rapidly escalating situations from escalating further.  
 
