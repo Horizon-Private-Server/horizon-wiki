@@ -55,7 +55,7 @@ The third time that a user violates the rules (or for severe violations regardle
 - At the discretion of the Horizon staff, the user may be banned from the UYA/R&C 3 and/or DL/Gladiator game servers.  
 - At the discretion of the Horizon staff, the ban may expire in 9 months (see next section).  
 - The ban will be permanently logged by Horizon staff.  
-- The ban will not be explained to the user by default. However, the user may DM a Horizon staff member requesting an explanation for the ban.  
+- The ban will not be explained to the user by default. However, the user may DM a Horizon staff member requesting an explanation.  
 
 ### Ban Expiration
 On a case by case basis, Horizon offers some banned users a 9 month "ban expiration" privilege. This means that 9 months after the date a user is banned, he/she may be unbanned (from the Discord server, and any game servers as applicable). This part of the policy exists because we believe that even some banned users deserve a second chance. However, ban expiration is a priviledge and not a right for the banned user. Unbanning is a manual process that requires time and effort from Horizon staff.  
