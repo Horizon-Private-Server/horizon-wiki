@@ -78,7 +78,8 @@ You can expect Horizon staff members to try their best to:
 - Treat all community members equally and with respect.  
 - Resolve any and all disputes democratically.  If you have an issue, please tag the Moderators role to get our attention.  
 - Be transparent and honest with community members at all times.  
-- Take community feedback into account as much as possible.  
+- Take community feedback into account as much as possible.
+
 Note that Horizon staff does not DM members unexpectedly unless we personally know you (whether new to the server, or otherwise). All Horizon staff member communication will come from within the Horizon Discord server, unless the user is banned.  
 
 Thank you for being a part of the Horizon community!  
