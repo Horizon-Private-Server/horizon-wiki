@@ -50,7 +50,7 @@ The second time that a user violates the rules ("Warned Twice" level):
 - The warning will be permanently logged by Horizon staff.  
 
 ### Bans
-The third time that a user violates the rules:  
+The third time that a user violates the rules, or for serious violations regardless of previous history:  
 - The user will be banned from the Horizon Discord server.  
 - At the discretion of the Horizon staff, the user may be banned from the UYA/R&C 3 and/or DL/Gladiator game servers.  
 - At the discretion of the Horizon staff, the ban may expire in 9 months (see next section).  
