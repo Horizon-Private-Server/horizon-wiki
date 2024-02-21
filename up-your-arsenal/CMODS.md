@@ -35,6 +35,8 @@ Here is a list of permanent mods (this list may not be fully up-to-date):
 - No Dead Shooting - Players are no longer able to shoot and damage other players after they reach 0 HP.
 - No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
 - Fix Weapon Shot Lag - Shots are much more likely to "count" on the screen of the shooting player.
+- No Flux Niking - Unless there are [bots](/up-your-arsenal/bots.md) in the lobby, flux rifle shots will almost always do the full 87 damage (no more 20 damage "niks").
+- No Wallsniping - Unless there are [bots](/up-your-arsenal/bots.md) in the lobby, flux rifle shots will no longer be able to travel through walls.
 - Persistent Weapon Ordering - In lobbies where 3 or fewer weapons are enabled, the weapons will remain in the same order when the player respawns.
 - Kill/Frag Limit Change: When creating games, can now select a frag limit up to 50 (instead of 35).
 - Time Limit Change: When creating games, can now select a time limit up to 120 minutes (instead of 35 minutes).
