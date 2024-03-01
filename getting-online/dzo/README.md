@@ -34,4 +34,5 @@ The client download is available at: https://rac-horizon.com/.
 
 [Video Tutorial - PC](https://www.youtube.com/watch?v=KKeOXb0R4mM) - Huge shout out to Discord user @lalify for making this video!
 
-[Video Tutorial - Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU) - Huge shout out to Discord user @teasecake for making this video!
+[Video Tutorial - Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU) - Huge shout out to Discord user @teasecake. for making this video!  
+* Note: Linux users can also check out the [written tutorial on our website](https://rac-horizon.com/dzo/linux).
