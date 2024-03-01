@@ -32,6 +32,6 @@ Setting up DZO requires you to have administrative, write-level access to the fo
 ## Video Guides
 The client download is available at: https://rac-horizon.com/.
 
-[Click here for a video tutorial showing how to set up Dreadzone Online on PC](https://www.youtube.com/watch?v=KKeOXb0R4mM). Huge shout out to Discord user @lalify for making this video!
+[Video Tutorial - PC](https://www.youtube.com/watch?v=KKeOXb0R4mM). Huge shout out to Discord user @lalify for making this video!
 
-[Click here for a video tutorial showing how to set up Dreadzone Online on Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU). Huge shout out to Discord user @teasecake for making this video!
+[Video Tutorial - Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU). Huge shout out to Discord user @teasecake for making this video!
