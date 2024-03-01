@@ -4,7 +4,7 @@
 
 - [Introduction](/getting-online/dzo/README.md#introduction)
 - [Setup Requirements](/getting-online/dzo/README.md#setup-requirements)
-- [Video Guide](/getting-online/dzo/README.md#video-guide)
+- [Video Guides](/getting-online/dzo/README.md#video-guides)
 
 ## Introduction
 
@@ -29,7 +29,9 @@ A quick Internet search will yield detailed guides for how to obtain both BIOS a
 Setting up DZO requires you to have administrative, write-level access to the folder that you install it into. You also must have enough tech-savviness to move files around between specific folders on your computer.
 
 
-## Video Guide
-[Click here for a video tutorial showing how to set up Dreadzone Online](https://www.youtube.com/watch?v=KKeOXb0R4mM).
-
+## Video Guides
 The client download is available at: https://rac-horizon.com/.
+
+[Click here for a video tutorial showing how to set up Dreadzone Online on PC](https://www.youtube.com/watch?v=KKeOXb0R4mM). Huge shout out to Discord user @lalify for making this video!
+
+[Click here for a video tutorial showing how to set up Dreadzone Online on Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU). Huge shout out to Discord user @teasecake for making this video!
