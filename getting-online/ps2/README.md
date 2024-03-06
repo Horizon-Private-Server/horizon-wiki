@@ -75,7 +75,7 @@ If you wish to play on custom maps, also complete the steps in that section belo
 
 It is also possible to use Open PS2 Loader (OPL). For UYA/R&C 3, you must use USB on OPL version 1.1.0. Other versions, as well as HDD and MX4SIO aren't able to play UYA online. For DL/Gladiator, you should use OPL version 0.9.3 as OPL seems to black screen whenever you use two USBs on later versions of OPL.
 
-To install the games on OPL, please refer to the guide linked below. Please inquire in the `#tech-support` channel of the Horizon Discord server if you are having trouble setting up with OPL.  
+To set up with OPL, please refer to the guide linked below. Please inquire in the `#tech-support` channel of the Horizon Discord server if you are having trouble setting up with OPL.  
 - [English - thanks to pavo](https://docs.google.com/document/d/1cSwpXE4TPN4JAliNGKacys-EtoaoWDFqZhwP23DREOM/edit)
 
 
