@@ -54,6 +54,8 @@ The deadline for all submissions is March 18th at 11:59 PM PST!
 
 Our Survival Tournament pits players against one another as they compete to beat 50 rounds on Mountain Pass in the shortest time possible. The players who complete 50 rounds the fastest win a prize. Prizes are distributed to the top 5 fastest runs. Players may submit multiple runs but only their best run will be counted.
 
+**NOTE** To complete 50 rounds on Mountain Pass you must beat Reactor twice!
+
 ## How to Play
 
 Survival requires the [latest custom maps](./CMAPS.md) and a copy of Deadlocked NTSC-U/C. Gladiator is not supported.
