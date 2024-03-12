@@ -45,7 +45,7 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 - [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly.md#faq)  
 
 ### Video Setup Guides
-- [English](https://youtu.be/fjEykSzbP7s) - last updated July 2023.
+- [English](https://www.youtube.com/watch?v=AhKEnH_3b3g) - last updated March 2024.
 - [French](https://youtu.be/QLflmex8tA0) - last updated November 2022. Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).  
 
 ## Other PCSX2 Setup Guides
