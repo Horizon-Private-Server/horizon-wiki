@@ -45,15 +45,14 @@ We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net
 - [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly.md#faq)  
 
 ### Video Setup Guides
-- [English](https://www.youtube.com/watch?v=AhKEnH_3b3g) - last updated March 2024.
-- [French](https://youtu.be/QLflmex8tA0) - last updated November 2022. Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).  
+- [English](https://www.youtube.com/watch?v=AhKEnH_3b3g) - last updated March 2024. Thanks to Discord user @lalify!
+- [French](https://youtu.be/QLflmex8tA0) - last updated November 2022. Thanks to Discord user @Kairada! Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).  
 
 ## Other PCSX2 Setup Guides
 In case you need to use PCSX2 1.6 for some reason, [here is a guide for that version dating to 2021](/getting-online/pcsx2/1.6.md). Horizon staff recommends using PCSX2 1.7.  
 
 ## Credits
-The Horizon staff would like to give a special thanks to several community members who have assisted with creating, updating, and providing feedback on these guides:
+The Horizon staff would like to give a special thanks to several community members who have assisted with creating, updating, and providing feedback on written guides:
 - Bubblegum3390
-- Kairada
 - Skunk
 - TheBananaTarT
