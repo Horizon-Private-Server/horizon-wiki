@@ -32,7 +32,7 @@ Setting up DZO requires you to have administrative, write-level access to the fo
 ## Video Guides
 The client download is available at: https://rac-horizon.com/.
 
-[Video Tutorial - PC](https://www.youtube.com/watch?v=KKeOXb0R4mM) - Huge shout out to Discord user @lalify for making this video!
+[Video Tutorial - PC](https://www.youtube.com/watch?v=1yVIdE1hE4o) - Last updated March 2024. Thanks to Discord user @lalify!
 
 [Video Tutorial - Linux/Steam Deck](https://www.youtube.com/watch?v=9eXR2wDr0OU) - Huge shout out to Discord user @teasecake. for making this video!  
 * Note: Linux users can also check out the [written tutorial on our website](https://rac-horizon.com/dzo/linux).
