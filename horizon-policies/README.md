@@ -43,7 +43,6 @@ The first time that a user violates the rules ("Warned Once" level):
 
 The second time that a user violates the rules ("Warned Twice" level):  
 - The user will receive a message from a Horizon staff member explaining the warning. This message will be sent in a thread within the Horizon Discord server that is only visible to the staff and the user in question.  
-- The user will be blocked from all voice chat channels for 6 months.  
 - The user will be given the "Warned Twice" role.  
 - At the discretion of Horizon staff, the user may be muted for up to 24 hours.  
 - The warning will expire in 6 months (the role will be removed) if there are no additional violations. The warning will be removed completely at that time (not downgraded to "Warned Once").  
@@ -69,8 +68,8 @@ A couple of exceptions to the above process should be noted:
 - For severe offenses, Horizon staff may skip steps above. For example, as stated in rule #5 violent threats are strictly prohibited - so users who break this rule may be banned immediately even if they have not been previously warned.  
 - Discord officially supports account switching, but we discourage the use of multiple Discord accounts because of the confusion it causes for other community members. Any disciplinary steps applied to one of your Discord accounts will also be applied to all of your other Discord accounts that we are aware of. For example, if your main account receives a first formal warning and we know that you also have a second account, that second account would also have the warning applied to it. **Use of Discord alts to evade a Horizon Discord ban is grounds for further action, such as game server bans and/or revoking of the ban expiration privilege.**  
 
-### Exile from UYA/DL
-While we encourage community members to try both UYA/R & C 3 and DL/Gladiator, we recognize that most players do have a clear favorite between the two games (including all Horizon staff members). Unfortunately, we have seen some players take this too far and make it their mission to visit the channels for the other game only to stir the pot and create drama. To address this, the Horizon staff has created "exile roles" and applied them to users as needed. The "Exiled from UYA" role means that all channels in the UYA section will be hidden from the user. The "Exiled from DL" role means that all channels in the DL section will be hidden from the user. Exile can be appealed to the Horizon staff, but does not have a defined expiration time frame. 
+### Special Note About Harassing The Other Game's Community Members
+While we encourage community members to try both UYA/R&C 3 and DL/Gladiator, we recognize that most players do have a clear favorite between the two games (including all Horizon staff members). Unfortunately, we have seen some players take this too far and make it their mission to visit the channels for the other game only to stir the pot and create drama. Just in case it isn't obvious already, these same rules still apply everywhere in the server - whether the discussion topic is UYA/R&C 3, DL /Gladiator, or something else.  
 
 
 ## Horizon Staff Expectations
@@ -84,4 +83,4 @@ Note that Horizon staff does not DM members (whether new to the server, or other
 
 Thank you for being a part of the Horizon community!  
 
-_This page last updated 19 February 2024._
+_This page last updated 25 April 2024._
