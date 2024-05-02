@@ -14,7 +14,6 @@ This event is a **solo** speedrun event. *All runs with other players in the mat
 Set up your game settings in the "Create Game" screen as follows:  
 - Map: **Bakisi Isles**  
 - Game Mode: **Siege**  
-- Vehicles: **Off**  
 - Weapons: **Choose any three weapons from the eight available.** You may use different combinations of three weapons for each attempt.  
 - Vehicles: **Off**  
 - Siege mode: **Normal**  
