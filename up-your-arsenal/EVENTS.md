@@ -34,7 +34,7 @@ Once the game starts, your goal is simple. You must:
 2. Take out the red base and win the game.  
 
 ### Recording and Verification Process
-**You must record the attempt that you wish to submit.** Recordings can be any quality (i.e. cell phone recordings are fine, if you do not have a capture card).  
+**You must record the attempt that you wish to submit.** Recordings can be any quality (i.e. cell phone recordings are fine, if you do not have a capture card). You should record from the time you configure the patch menu settings in the staging screen, up until the screen that appears after the end of the match that gives the length of the game. The length of the game is the metric used to determine the winner.  
 
 Please submit your best run to this Google form. If you complete multiple attempts, submit only your best attempt.  
 
