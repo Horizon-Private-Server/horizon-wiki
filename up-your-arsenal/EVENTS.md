@@ -4,7 +4,7 @@ This page outlines active and previous special events for Up Your Arsenal (Ratch
 
 ## Active Events
 ### UYA Siege Speedrun on Bakisi Isles
-Compete in the UYA Siege Speedrun ("USS") on Bakisi Isles between May 6, 2024 and May 12, 2024. The goal is to capture all nodes and take out the base in Siege mode on Bakisi Isles, using any three weapons of your choosing. All attempts must be recorded and submitted for review. The player with the fastest time will get the `@U.S.S. Bakisi Captain` honorary role in the Horizon Discord!  
+Compete in the UYA Siege Speedrun ("U.S.S.") on Bakisi Isles between ***May 6, 2024 and May 12, 2024***. The goal is to capture all nodes and take out the base in Siege mode on Bakisi Isles, using any three weapons of your choosing. All attempts must be recorded and submitted for review. The player with the fastest time will get the `@U.S.S. Bakisi Captain` honorary role in the Horizon Discord!  
 
 Huge shout out to Discord user and Horizon community member @roblobster152 (Mon) for coming up with this event!  
 
@@ -20,7 +20,7 @@ Set up your game settings in the "Create Game" screen as follows:
 - Siege mode: **Normal**  
 - Other settings can be whatever you like.  
 
-In the staging screen, configure the [patch menu](/main/up-your-arsenal/CMODS.md) settings as follows:  
+In the staging screen, configure the [patch menu](/up-your-arsenal/CMODS.md) settings as follows:  
 - Damage Cooldown: **On**  
 - Fix Flux Niking: **On**  
 - Fix Wallsniping: **On**  
@@ -29,16 +29,18 @@ In the staging screen, configure the [patch menu](/main/up-your-arsenal/CMODS.md
 
 You must also play on the **Blue Team**. *All runs with the player on the red team will be disqualified.*
 
-Once the game starts, your goal is simple. You must:  
+Once the game starts, your goal is simple. As quickly as possible, you must:  
 1. Capture all nodes that can be reached without vehicles. For Bakisi Isles, that is a total of six nodes.  
 2. Take out the red base and win the game.  
 
 ### Recording and Verification Process
-**You must record the attempt that you wish to submit.** Recordings can be any quality (i.e. cell phone recordings are fine, if you do not have a capture card). You should record from the time you configure the patch menu settings in the staging screen, up until the screen that appears after the end of the match that gives the length of the game. The length of the game is the metric used to determine the winner.  
+**You must record the attempt that you wish to submit.** Recordings can be any quality (i.e. cell phone recordings are fine, if you do not have a capture card). You should record from the time you configure the patch menu settings in the staging screen, up until the Game Results screen that appears after the end of the match. The length of the game that displays on the Game Results screen is the metric that will be used to determine the winner.  
 
-Please submit your best run to this Google form. If you complete multiple attempts, submit only your best attempt.  
+Please submit your best run to [this Google form](https://docs.google.com/forms/d/e/1FAIpQLScw44DvfJj_SCqPF9p1I_U3mQrxeV3V3X8bsRnFLgh_iLfJmA/viewform?usp=sf_link). If you complete multiple attempts, please submit only your best attempt.  
 
-You must submit by May 12, 2024 at 11:59 PM US Eastern time for your submission to count.
+You must submit by **May 12, 2024 at 11:59 PM US Eastern time** for your submission to count.  
+
+Good luck!
 
 
 ## Past Events
