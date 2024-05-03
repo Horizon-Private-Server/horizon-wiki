@@ -4,7 +4,7 @@ This page outlines active and previous special events for Up Your Arsenal (Ratch
 
 ## Active Events
 ### UYA Siege Speedrun on Bakisi Isles
-Compete in the UYA Siege Speedrun ("U.S.S.") on Bakisi Isles between ***May 6, 2024 and May 12, 2024***. The goal is to capture all nodes and take out the base in Siege mode on Bakisi Isles, using any three weapons of your choosing. All attempts must be recorded and submitted for review. The player with the fastest time will get the `@U.S.S. Bakisi Captain` honorary role in the Horizon Discord!  
+Compete in the UYA Siege Speedrun ("U.S.S.") solo tournament on Bakisi Isles between ***May 6, 2024 and May 12, 2024***. The goal is to capture all nodes and take out the base in Siege mode, using any three weapons of your choosing. All attempts must be recorded and submitted for review. The player with the fastest time will get the `@U.S.S. Bakisi Captain` honorary role in the Horizon Discord!  
 
 Huge shout out to Discord user and Horizon community member @roblobster152 (Mon) for coming up with this event!  
 
