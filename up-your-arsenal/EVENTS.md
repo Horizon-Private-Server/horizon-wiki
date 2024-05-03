@@ -25,6 +25,7 @@ In the staging screen, configure the [patch menu](/up-your-arsenal/CMODS.md) set
 - Damage Cooldown: **On**  
 - Fix Flux Niking: **On**  
 - Fix Wallsniping: **On**  
+- V2s: **Default**  
 - Gatling Turret Health: **Default (1x)**  
 - Other settings can be whatever you like.  
 
