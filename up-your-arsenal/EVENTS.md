@@ -11,6 +11,8 @@ Huge shout out to Discord user and Horizon community member @roblobster152 (Mon)
 #### Event Details
 This event is a **solo** speedrun event. *All runs with other players in the match will be disqualified.*  
 
+You may play as many runs/attempts as you like.  
+
 Set up your game settings in the "Create Game" screen as follows:  
 - Map: **Bakisi Isles**  
 - Game Mode: **Siege**  
