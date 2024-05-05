@@ -25,6 +25,7 @@ In the staging screen, configure the [patch menu](/up-your-arsenal/CMODS.md) set
 - Damage Cooldown: **On**  
 - V2s: **Default**  
 - Gatling Turret Health: **Default (1x)**  
+- Bots (Troopers, Ball Bots, etc.): **On**  
 - Other settings can be whatever you like.  
 
 You must also play on the **Blue Team**. *All runs with the player on the red team will be disqualified.*
