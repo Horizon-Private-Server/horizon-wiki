@@ -3,7 +3,12 @@
 This page outlines active and previous special events for Up Your Arsenal (Ratchet & Clank 3).
 
 ## Active Events
+None at the moment! Or at least, none that we have documented here.  
+
+## Past Events
 ### UYA Siege Speedrun on Bakisi Isles
+=== Congrats to our two winners, [Nick#1](https://www.youtube.com/watch?v=DfcABQ1AhdI) and [max7](https://www.youtube.com/watch?v=pvqr2ti4wF4)! Both of them had a blazing fast time of 2:55. Check out their video submissions by clicking the user's name. ===
+
 Compete in the UYA Siege Speedrun ("U.S.S.") solo tournament on Bakisi Isles between ***May 6, 2024 and May 12, 2024***. The goal is to capture all nodes and take out the base in Siege mode, using any three weapons of your choosing. All attempts must be recorded and submitted for review. The player with the fastest time will get the `@U.S.S. Bakisi Captain` honorary role in the Horizon Discord!  
 
 Huge shout out to Discord user and Horizon community member @roblobster152 (Mon) for coming up with this event!  
@@ -42,7 +47,3 @@ Please submit your best run to [this Google form](https://docs.google.com/forms/
 You must submit by **May 12, 2024 at 11:59 PM US Eastern time** for your submission to count.  
 
 Good luck!
-
-
-## Past Events
-When there are past UYA/R&C 3 events that we documented on this wiki, they will show up here!
