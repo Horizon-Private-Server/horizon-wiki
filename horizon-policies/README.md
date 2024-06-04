@@ -16,6 +16,7 @@ As listed in the `#rules` channel of the [Horizon Discord server](https://discor
 3. Please try to keep conversations in the appropriate channels here on Discord. Linking to other Discord servers is also prohibited without prior approval from staff.  
 4. Flooding and/or spamming messages is not allowed, nor is any NSFW content.  
 5. Violent threats (both written and verbal) are strictly prohibited. These threats will result in immediate [bans](#bans).  Threats against Horizon servers and staff members are also strictly prohibited.  
+6. Sharing personal information about other server members without their consent is prohibited. This includes real name, location, photographs, etc. (We also suggest that you limit the personal information you share yourself, since Horizon is a public place accessible by anyone in the world).  
 
 
 ## Horizon Disciplinary Policy
