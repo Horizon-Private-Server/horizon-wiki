@@ -3,9 +3,9 @@
 Multiplayer bots have been created to play alongside or against other bots and players.
 
 ## Game Settings Supported
-Maps: Marcadia Palace only
-Game Mode: Deathmatch only (FFA or teams). CTF: Coming soon!
-Weapons: Cycle only (Gravity Bomb, Blitz, Flux)
+- Maps: Marcadia Palace only
+- Game Mode: Deathmatch only (FFA or teams). CTF: Coming soon!
+- Weapons: Cycle only (Gravity Bomb, Blitz, Flux)
 
 **If the game settings do not match above, the bots will not join.**
 
