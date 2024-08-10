@@ -7,6 +7,7 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [Multiplayer Bots](./bots.md)
 - [Custom Maps](./CMAPS.md)
 - [Custom Mods](./CMODS.md)
+- [Colored Clan Tags](./clantags.md)
 - [Advanced Stats and Live Tracker Website](http://uyatracker.net/) - Thanks to Nick#1!
 - [UYA Beta and Prototype Online Servers](./betas.md)
 - [Helga Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD)
