@@ -1,7 +1,7 @@
 # UYA Cheats 
 
 ## Freecam
-Only works in local play. Will crash online
+Only works in local play. Will crash online. Instructions from Agent Moose:
 ```
 Controls:
 L1 + R1 + L3: Activate
