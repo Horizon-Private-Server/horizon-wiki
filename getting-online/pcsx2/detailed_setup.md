@@ -349,7 +349,7 @@ This has a wide variety of causes. Every once in a while our servers are down, s
    - If you are using a PAL ISO, try an NTSC-U/C ISO if possible.  
 
 #### If none of this works, don't get discouraged!
-This is the single most common problem that new PCSX2 users have. We have several Horizon staff and community members in the [Discord server](https://discord.gg/horizonps) that are vey knowledgeable and may still be able to help. Please don't hesitate to ask us in the `#tech-support` channel of the Discord. Be sure to specify exactly where your issue is popping up (i.e. a, b, c, d, or e above). Screenshots of your PCSX2 Network & HDD Settings screen are very helpful, as are DNAS error numbers if that is where it is failing. Sometimes we can even hop in one of the voice channels to help you in real time.  
+This is the single most common problem that new PCSX2 users have. We have several Horizon staff and community members in the [Discord server](https://discord.gg/horizonps) that are very knowledgeable and may still be able to help. Please don't hesitate to ask us in the `#tech-support` channel of the Discord. Be sure to specify exactly where your issue is popping up (i.e. a, b, c, d, or e above). Screenshots of your PCSX2 Network & HDD Settings screen are very helpful, as are DNAS error numbers if that is where it is failing. Sometimes we can even hop in one of the voice channels to help you in real time.  
 
 </details>  
 
