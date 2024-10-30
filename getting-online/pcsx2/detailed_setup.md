@@ -37,7 +37,7 @@ If using the Setup Wizard, the next screen will have the BIOS Image settings.
 
 5. Select your BIOS, then select Next (or Close, if not in the Setup Wizard) to continue.
 - If you have already set up a different version of PCSX2, you can use the same BIOS by clicking the "Browse..." button and navigating to your existing BIOS folder. Or you can copy the BIOS files into the default folder specified.  
-- If you haven’t used PCSX2 yet, you will have to obtain the BIOS from your PS2 - see the instructions [here](https://pcsx2.net/docs/usage/setup/gather). Then either move the files into the default folder specified, or use the "Browse..." button to select the folder the files are in. A single BIOS will likely consist of *several actual files*, similar to what is shown in the first image below.  
+- If you haven’t used PCSX2 yet, you will have to obtain the BIOS from your PS2 - see the instructions [here](https://pcsx2.net/docs/setup/bios). Then either move the files into the default folder specified, or use the "Browse..." button to select the folder the files are in. A single BIOS will likely consist of *several actual files*, similar to what is shown in the first image below.  
 - Once you have a valid BIOS folder selected, the BIOS will show up in the "BIOS Selection" list *as one selection*, similar to what is shown in the second image below.
 
 ![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-settings-biosfiles.png)
