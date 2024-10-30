@@ -1,6 +1,6 @@
-# Using PCSX2 1.7 (Nightly Build from PCSX2 website)
+# Using PCSX2 - Detailed Setup
 
-This is a guide on how to configure the PCSX2 1.7 "nightly builds" to play Horizon-supported titles online.  
+This is a guide on how to configure PCSX2 to play Horizon-supported titles online.  
 We have also included a [PCSX2 Setup FAQ](#faq) at the bottom of the page.  
 _If you find that this guide is out of date, please let us know in the [Horizon Discord](https://discord.gg/horizonps) and we'll update it when we have time._  
 
@@ -14,9 +14,10 @@ Screenshots in this guide show the Windows version. Steps should be similar on M
 <details>
 <summary>Click here to expand/collapse details.</summary>  
    
-1. Download the "Latest Nightly" release of PCSX2 for your operating system from [the PCSX2 website](https://pcsx2.net/downloads/#nightly-anchor).  
-   > If there are multiple versions available for your OS, check out the [detailed PCSX2 system requirements](https://pcsx2.net/docs/usage/setup/requirements).  
+1. Download PCSX2 for your operating system from [the PCSX2 website](https://pcsx2.net/downloads/). 
+   > The "Latest Stable" or "Latest Nightly" versions of PCSX2 both work fine for most users. Do NOT try to use a version of PCSX2 that is older than 2.0. It will likely not work as well (if at all), the user interface is very different from any of the screenshots shown below, and the Horizon staff will be unable to assist you.  
 2. Unzip the file (use [7-zip](https://www.7-zip.org/) if needed), then move the files into the directory you would like to run PCSX2 from. This build does not have an installer file, so once you extract and move the files they are essentially "installed". See below for an example of what the "installed" folder looks like.
+   > Note: This assumes that you downloaded the "Latest Nightly", or the "Download" version of "Latest Stable". If you downloaded the stable "Installer", use that to install PCSX2.
 
 ![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-folder.png)
 
@@ -79,7 +80,7 @@ After completing the Setup Wizard, there are still several more steps required t
    b) Set up the "Display" tab as shown in the first image below.  
    c) Set up the "Rendering" tab as shown in the second image below.  
    d) The other tabs within the Graphics settings can be left as is.  
-> Note that the graphics settings shown are intended to be a baseline that will provide smooth gameplay on mid-range machines. If you have a high-end gaming computer and/or would like to maximize the visual appearance of the games, please [check the FAQ below](/getting-online/pcsx2/1.7Nightly.md#faq).  
+> Note that the graphics settings shown are intended to be a baseline that will provide smooth gameplay on mid-range machines. If you have a high-end gaming computer and/or would like to maximize the visual appearance of the games, please [check the FAQ below](/#faq).  
 
 ![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-settings_graphics_display_v2.png)
 
@@ -90,7 +91,7 @@ After completing the Setup Wizard, there are still several more steps required t
 <details>
 <summary>Click here to expand/collapse details.</summary>  
 
-This is the simplest PCSX2 network setup configuration. If it isn't working, [check the FAQ below](/getting-online/pcsx2/1.7Nightly.md#faq) for alternate configurations.
+This is the simplest PCSX2 network setup configuration. If it isn't working, [check the FAQ below](#faq) for alternate configurations.
 
 11. Go to Settings → Network & HDD and configure as follows:  
    a) Check the "Enabled" box under Ethernet.  
