@@ -19,7 +19,7 @@ Screenshots in this guide show the Windows version. Steps should be similar on M
 2. Unzip the file (use [7-zip](https://www.7-zip.org/) if needed), then move the files into the directory you would like to run PCSX2 from. This build does not have an installer file, so once you extract and move the files they are essentially "installed". See below for an example of what the "installed" folder looks like.
    > Note: This assumes that you downloaded the "Latest Nightly", or the "Download" version of "Latest Stable". If you downloaded the stable "Installer", use that to install PCSX2.
 
-![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-folder.png)
+![img](/assets/pcsx2/Guide-2023Feb/pcsx2-folder.png)
 
 3. If desired, pin the `pcsx2___.exe` file (the `.exe` file that is NOT named "updater") to your Desktop and/or Start Menu. Then open it. The first window of the Setup Wizard will appear.
 
@@ -110,9 +110,11 @@ Our community members often play on the custom maps created by Horizon staff and
 
 12. Visit the [Horizon website](https://rac-horizon.com/) and find the correct custom map download(s) for your game(s)/region.  
 13. Extract the contents of the downloaded zip file(s) into the same folder you selected for your ISOs above.  
-  - Verify that the ISO folder has all of your ISOs, plus a subfolder called "uya" (for UYA/R&C 3) and/or "dl" (for DL).  
-  - Inside of those subfolder(s) should be a bunch of map files.
-  - In the root folder alongside your ISOs there will also be a readme .txt file and some scripts that you can use to update the maps (check the readme or video guide for detailed update script instructions).  
+  - Verify that the ISO folder has all of your ISOs, plus a subfolder called "uya" (for UYA/R&C 3) and/or "dl" (for DL). In the root folder alongside your ISOs there will also be a readme .txt file and some scripts that you can use to update the maps (check the readme or video guide for detailed update script instructions). Similar to what is shown below.   
+  - Inside of the "uya" and "dl" subfolder(s) should be a bunch of map files.  
+
+![img](/assets/pcsx2/Guide-2023Feb/pcsx2-cmaps.png)
+
 14. In PCSX2, go to Settings → Emulation and verify that the "Enable Host Filesystem" option is enabled.  
 </details>
 
