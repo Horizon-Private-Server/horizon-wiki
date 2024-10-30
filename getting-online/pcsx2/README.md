@@ -6,8 +6,8 @@ _NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZo
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
 - [Setup Requirements](/getting-online/pcsx2/README.md#setup-requirements)
-- [PCSX2 1.7 Nightly Build Setup Guide](/getting-online/pcsx2/README.md#pcsx2-17-nightly-build)
-- [Other PCSX2 Setup Guides](/getting-online/pcsx2/README.md#other-pcsx2-setup-guides)
+- [PCSX2 Detailed Setup Guide](/getting-online/pcsx2/README.md#written-setup-guide)
+- [PCSX2 Detailed Setup Guide](/getting-online/pcsx2/README.md#video-setup-guides)
 - [Credits](/getting-online/pcsx2/README.md#credits)
 
 
@@ -33,23 +33,13 @@ A quick Internet search will yield detailed guides for how to obtain both BIOS a
 Setting up PCSX2 requires you to have administrative, write-level access to the folder that you install PCSX2 into. You also must have enough tech-savviness to move files around between specific folders on your computer.
 
 
-## PCSX2 1.7 Nightly Build
-We recommend using the "Latest Nightly" release of [PCSX2 1.7](https://pcsx2.net/downloads/). There are several reasons why we recommend PCSX2 1.7 and NOT the "Latest Stable" release (PCSX2 1.6):
-- The online gameplay experience is smoother. Significant improvements have been made since the time that PCSX2 1.6 was current.
-- The CLR DEV9 plugin is not needed.
-- 64bit support.
-- The software is capable of updating itself at the click of a button - new builds are often released on (you guessed it) a nightly basis.  
+## Written Setup Guide
+- [Detailed Guide - English](/getting-online/pcsx2/1.7Nightly.md)  
+- [Frequently Asked Questions - English](/getting-online/pcsx2/1.7Nightly.md#faq)  
 
-### Written Setup Guide
-- [PCSX2 1.7 Nightly Build Written Setup Guide](/getting-online/pcsx2/1.7Nightly.md)  
-- [Frequently Asked Questions](/getting-online/pcsx2/1.7Nightly.md#faq)  
-
-### Video Setup Guides
+## Video Setup Guides
 - [English](https://www.youtube.com/watch?v=AhKEnH_3b3g) - last updated March 2024. Thanks to Discord user @lalify!
 - [French](https://youtu.be/QLflmex8tA0) - last updated November 2022. Thanks to Discord user @Kairada! Note that this video shows Ratchet and Clank 3 (Up Your Arsenal), but the setup process is the same for Gladiator/Deadlocked (Cette vidéo montre Ratchet and Clank 3, mais le processus de configuration est le même pour Gladiator).  
-
-## Other PCSX2 Setup Guides
-In case you need to use PCSX2 1.6 for some reason, [here is a guide for that version dating to 2021](/getting-online/pcsx2/1.6.md). Horizon staff recommends using PCSX2 1.7.  
 
 ## Credits
 The Horizon staff would like to give a special thanks to several community members who have assisted with creating, updating, and providing feedback on written guides:
