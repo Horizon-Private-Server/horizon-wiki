@@ -34,8 +34,8 @@ Setting up PCSX2 requires you to have administrative, write-level access to the 
 
 
 ## Written Setup Guide
-- [Detailed Guide - English](/getting-online/pcsx2/1.7Nightly.md)  
-- [Frequently Asked Questions - English](/getting-online/pcsx2/1.7Nightly.md#faq)  
+- [Detailed Guide - English](/getting-online/pcsx2/detailed_setup.md)  
+- [Frequently Asked Questions - English](/getting-online/pcsx2/detailed_setup.md#faq)  
 
 ## Video Setup Guides
 - [English](https://www.youtube.com/watch?v=AhKEnH_3b3g) - last updated March 2024. Thanks to Discord user @lalify!
