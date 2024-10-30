@@ -19,7 +19,7 @@ Screenshots in this guide show the Windows version. Steps should be similar on M
 2. Unzip the file (use [7-zip](https://www.7-zip.org/) if needed), then move the files into the directory you would like to run PCSX2 from. This build does not have an installer file, so once you extract and move the files they are essentially "installed". See below for an example of what the "installed" folder looks like.
    > Note: This assumes that you downloaded the "Latest Nightly", or the "Download" version of "Latest Stable". If you downloaded the stable "Installer", use that to install PCSX2.
 
-![img](/assets/pcsx2/Guide-2023Feb/pcsx2-folder.png)
+![img](/assets/pcsx2/Guide-2023Feb/pcsx2-folder-revised.png)
 
 3. If desired, pin the `pcsx2___.exe` file (the `.exe` file that is NOT named "updater") to your Desktop and/or Start Menu. Then open it. The first window of the Setup Wizard will appear.
 
