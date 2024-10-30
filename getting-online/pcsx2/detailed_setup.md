@@ -276,7 +276,7 @@ Network setup happens in a few different places:
 - Various mods and hacks such as DNAS Bypass, etc. (not required for all titles)  
 
 For some titles, the Sockets/Auto method shown above (or Nmap/PCAP method shown below) and either Cristian's or 1UP/K3rber0s' DNS will work without any further steps. For others, extra steps are required. Requirements can vary on a game-by-game basis. Here are some helpful resources for checking the requirements of each title:  
-- [Official List of all PS2 Online Games](https://docs.google.com/spreadsheets/d/1bbxOGm4dPxZ4Vbzyu3XxBnZmuPx3Ue-cPqBeTxtnvkQ/edit#gid=0) - Includes some setup-related information for each game.  
+- [Official List of all PS2 Online Games](https://ps2online.com/list) - Includes some setup-related information for each game.  
 - [PS2 Online Discord](https://discord.com/invite/zE79nWT) - Includes a channel for each game. Check the pinned messages for setup requirements.  
 - [PS Rewired Discord](https://discord.gg/VfeuF6ZWVb) - Includes a channel for each game that has been revived by 1UP and K3rber0s.  
 
