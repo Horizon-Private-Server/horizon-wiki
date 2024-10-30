@@ -182,8 +182,7 @@ Here are a few things to try in the Settings → Graphics window.
 Settings can also be customized for each individual ISO/title in your PCSX2 game library (example image below). This allows you to experiment and optimize performance for each one. To access the settings for a specific game, right-click on it in the main PCSX2 window list and select "Properties". Then, select the desired tab in the sidebar.  
 - "Graphics" tab: On most modern monitors, both UYA/R&C 3 and Deadlocked/Gladiator will look better in 16:9 aspect ratio so you can set that here.  
 - "Patches" tab: Enable the "Widescreen 16:9" patch.
-- "Emulation" tab: You can change the EE Cycle Rate to 180% for better in-game performance.
-- For UYA/R&C 3 specifically, there is a 16:9 patch that isn't in PCSX2's archive (as of this writing). To use 16:9 here, you can boot the PS2 BIOS, go to its configuration, and set the aspect ratio to "Full". This will allow both UYA/R & C 3 and Deadlocked/Gladiator to boot with their built in 16:9 enabled.  
+- "Emulation" tab: You can change the EE Cycle Rate to 180% for better in-game performance.  
 
 ![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-settings_graphics_display_gamespecific.png)
 
