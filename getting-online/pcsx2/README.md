@@ -6,8 +6,8 @@ _NOTE: For Deadlocked players with high end PCs, we recommend using our [DreadZo
 
 - [Introduction](/getting-online/pcsx2/README.md#introduction)
 - [Setup Requirements](/getting-online/pcsx2/README.md#setup-requirements)
-- [PCSX2 Detailed Setup Guide](/getting-online/pcsx2/README.md#written-setup-guide)
-- [PCSX2 Detailed Setup Guide](/getting-online/pcsx2/README.md#video-setup-guides)
+- [Written Setup Guide](/getting-online/pcsx2/README.md#written-setup-guide)
+- [Video Setup Guides](/getting-online/pcsx2/README.md#video-setup-guides)
 - [Credits](/getting-online/pcsx2/README.md#credits)
 
 
