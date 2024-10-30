@@ -32,6 +32,8 @@ A quick Internet search will yield detailed guides for how to obtain both BIOS a
 
 Setting up PCSX2 requires you to have administrative, write-level access to the folder that you install PCSX2 into. You also must have enough tech-savviness to move files around between specific folders on your computer.
 
+Before beginning the setup process, you should also make sure that your computer meets the [system requirements](https://pcsx2.net/docs/setup/requirements).
+
 
 ## Written Setup Guide
 - [Detailed Guide - English](/getting-online/pcsx2/detailed_setup.md)  
