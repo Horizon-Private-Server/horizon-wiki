@@ -10,7 +10,7 @@ Unless otherwise noted, everything on this page applies in all of the following 
 
 ## Horizon Rules
 
-As listed in the `#rules` channel of the [Horizon Discord server](https://discord.gg/horizonps), all players are expected to follow these rules.
+As listed in the `#rules` channel of the [Horizon Discord server](https://rac-horizon.com/discord), all players are expected to follow these rules.
 1. Respect each other. No discrimination, persistent insults, or uncomfortable/sensitive issues.  
 2. No toxicity. This includes but is not limited to: repeatedly trying to force others to play the games in a certain way, lack of common sense, or being excessively negative or combative.  
 3. Please try to keep conversations in the appropriate channels here on Discord. Linking to other Discord servers is also prohibited without prior approval from staff.  
