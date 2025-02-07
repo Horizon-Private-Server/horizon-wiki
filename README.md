@@ -16,7 +16,7 @@ Currently, Horizon supports the following PS2 games:
 
 ## Quick Links
 
-### Discord Server Invite: https://discord.gg/horizonps
+### Discord Server Invite: https://rac-horizon.com/discord
 
 ### Horizon Website: https://rac-horizon.com/
 
