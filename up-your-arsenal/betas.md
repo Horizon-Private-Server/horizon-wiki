@@ -19,7 +19,7 @@ Supported versions:
 3. Extract the `.exe` file and the ISO into the same folder using 7-zip. *Note: You may have to temporarily disable any antivirus software to successfully extract the files.*
 4. Drag and drop the ISO file over the `.exe` file. A black Command Prompt window will open, stating that the ISO is being scanned.
 5. Once the Command Prompt window disappears, check the "date modified" on the ISO beta file. If the patch tool worked correctly, the date/time should have changed to the latest time. Now you can open the ISO in PCSX2 as you would normally.
-6. In PCSX2, set the DNS to the Horizon DNS (this is the only one that will work for the betas). You can find this in the [Horizon Discord](https://discord.gg/horizonps).
+6. In PCSX2, set the DNS to the Horizon DNS (this is the only one that will work for the betas). You can find this in the [Horizon Discord](https://rac-horizon.com/discord).
 7. Connect as you normally would. If your game freezes on "Looking up lobby server", reset PCSX2 and try again.
 8. You will notice the login/select profile screen is different than what you are used to. To change your profile name and password from the defaults, select the fields and change them. You will likely need to create a different user name and password than the default, in order to log in.
 9. Select "Login" to log in (if it says "Connection failed" the first time, keep trying).
