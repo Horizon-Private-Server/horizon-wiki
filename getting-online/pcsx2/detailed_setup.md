@@ -2,7 +2,7 @@
 
 This is a guide on how to configure PCSX2 to play Horizon-supported titles online.  
 We have also included a [PCSX2 Setup FAQ](#faq) at the bottom of the page.  
-_If you find that this guide is out of date, please let us know in the [Horizon Discord](https://discord.gg/horizonps) and we'll update it when we have time._  
+_If you find that this guide is out of date, please let us know in the [Horizon Discord](https://rac-horizon.com/discord) and we'll update it when we have time._  
 
 ---  
 
@@ -350,7 +350,7 @@ This has a wide variety of causes. Every once in a while our servers are down, s
    - If you are using a PAL ISO, try an NTSC-U/C ISO if possible.  
 
 #### If none of this works, don't get discouraged!
-This is the single most common problem that new PCSX2 users have. We have several Horizon staff and community members in the [Discord server](https://discord.gg/horizonps) that are very knowledgeable and may still be able to help. Please don't hesitate to ask us in the `#tech-support` channel of the Discord. Be sure to specify exactly where your issue is popping up (i.e. a, b, c, d, or e above). Screenshots of your PCSX2 Network & HDD Settings screen are very helpful, as are DNAS error numbers if that is where it is failing. Sometimes we can even hop in one of the voice channels to help you in real time.  
+This is the single most common problem that new PCSX2 users have. We have several Horizon staff and community members in the [Discord server](https://rac-horizon.com/discord) that are very knowledgeable and may still be able to help. Please don't hesitate to ask us in the `#tech-support` channel of the Discord. Be sure to specify exactly where your issue is popping up (i.e. a, b, c, d, or e above). Screenshots of your PCSX2 Network & HDD Settings screen are very helpful, as are DNAS error numbers if that is where it is failing. Sometimes we can even hop in one of the voice channels to help you in real time.  
 
 </details>  
 
@@ -358,7 +358,7 @@ This is the single most common problem that new PCSX2 users have. We have severa
 <details>
 <summary>Click here to expand/collapse details.</summary>  
    
-Please use the `#tech-support` channel in the [Horizon Discord server](https://discord.gg/horizonps). Please keep the following items in mind when asking questions:  
+Please use the `#tech-support` channel in the [Horizon Discord server](https://rac-horizon.com/discord). Please keep the following items in mind when asking questions:  
 - Please be patient. Horizon staff and community members are unpaid volunteers who have jobs and other obligations. It might take a few hours for someone to respond to your message. The first person who sees your message may not be the best suited to help with your specific issue.  
 - Horizon staff cannot provide specific support for games other than [the Ratchet and Clank titles that Horizon supports](/getting-online).
 
