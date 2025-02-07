@@ -322,7 +322,7 @@ Survival supports stat tracking and leaderboards for the following stats. Stats 
 
 ### Viewing Stats
 
-To view stats you must join the [Horizon Discord](https://discord.gg/horizonps) and use the following slash command. Replace `ACCOUNTNAME` with your account name.
+To view stats you must join the [Horizon Discord](https://rac-horizon.com/discord) and use the following slash command. Replace `ACCOUNTNAME` with your account name.
 
     /deadlocked stats Survival ACCOUNTNAME
 
