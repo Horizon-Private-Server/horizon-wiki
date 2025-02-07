@@ -84,4 +84,4 @@ Note that Horizon staff does not DM members (whether new to the server, or other
 
 Thank you for being a part of the Horizon community!  
 
-_This page last updated 25 April 2024._
+_This page last updated 6 February 2025._
