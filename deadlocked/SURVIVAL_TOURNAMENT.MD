@@ -75,7 +75,7 @@ In order to qualify for our Survival Tournaments, there are a few rules you must
 
 ### Horizon Discord
 
-You must join our [discord](https://discord.gg/horizonps) to be able to participate! All communication and submissions go through our discord so please join if you are interested in participating.
+You must join our [discord](https://rac-horizon.com/discord) to be able to participate! All communication and submissions go through our discord so please join if you are interested in participating.
 
 ### Start and End Dates
 
