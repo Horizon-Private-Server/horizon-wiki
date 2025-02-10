@@ -26,6 +26,8 @@ Currently, Horizon supports the following PS2 games:
 
 ### [Ratchet & Clank 3 Custom Maps Download (PAL)](https://box.rac-horizon.com/downloads/maps/uya_custom_maps_pal.zip)
 
+### [Forge Custom Map Editor Wiki](https://github.com/Horizon-Private-Server/horizon-forge/wiki)
+
 ## How can I help support Horizon?
 There are multiple ways to support the community:
 1. Boost the Discord server (using the menu at the top of the server). Boosting unlocks Discord features in the server such as better streaming and audio quality, more custom emojis, and other fun perks.
