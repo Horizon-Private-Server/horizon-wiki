@@ -124,7 +124,7 @@ Our community members often play on the custom maps created by Horizon staff and
 
 **This section only applies if you have a PAL version of the game/ISO. It can be ignored if you have an NTSC-U/C version of the game/ISO.**
 
-15.  Download the DNAS patcher tool from [this webpage](https://www.psx-place.com/threads/dnas-net-patcher.22813/) ("DNAS_PATCHER18.7z" has been verified to work). Then extract it with 7-zip and follow the instructions on the webpage to run it on your Ratchet & Clank 3 and/or Gladiator PAL ISO(s).  
+15.  Download the DNAS patcher tool from [this webpage](https://www.psx-place.com/threads/dnas-net-patcher.22813/) ("DNAS_PATCHER18.7z" has been verified to work). Then extract it with 7-zip and follow the instructions on the webpage to run it on your Ratchet & Clank 3 and/or Gladiator PAL ISO(s). We have made a [video to assist with this](https://www.youtube.com/watch?v=yq9R54XM8yE).    
     > If the DNAS patcher tool is unavailable or is not working for some reason, you can also download the files [here (R&C3)](/assets/cheats/17125698.pnach) and [here (Gladiator)](/assets/cheats/D697D204.pnach) (click the three dots near the upper right corner of the page, then "Download") and place it into the cheats folder of your PCSX2 installation. Then, in PCSX2 navigate to Settings → Emulation → Enable Cheats. This should accomplish the same purpose.  
 </details>
 
