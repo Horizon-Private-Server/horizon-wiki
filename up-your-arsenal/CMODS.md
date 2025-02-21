@@ -30,10 +30,10 @@ Important notes about Game Settings mods:
 ## Permanent Mods
 Permanent mods are patches that are always active. This means that you will not see these settings in the mod menu, but they are features that are present in the Horizon server that were not present in the original UYA/R&C 3 servers.
 
-Here is a list of permanent mods (this list may not be fully up-to-date):
+Here is a list of most of the permanent mods:
 - No Dead Jumping/Crouching - Players are no longer able to "dead jump" (continue hopping around the map after they reach 0 HP).
 - No Dead Shooting - Players are no longer able to shoot and damage other players after they reach 0 HP.
-- No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots the player again before the opponent hits the ground.
+- No Kill Stealing - The player who causes an opposing player to reach 0 HP, will get the credit for the kill even if a teammate shoots that opposing player again before they hit the ground.
 - Fix Weapon Shot Lag - Shots are much more likely to "count" on the screen of the shooting player.
 - No Flux Niking - Unless there are [bots](/up-your-arsenal/bots.md) in the lobby, flux rifle shots will almost always do the full 87 damage (no more 20 damage "niks").
 - No Wallsniping - Unless there are [bots](/up-your-arsenal/bots.md) in the lobby, flux rifle shots will no longer be able to travel through walls.
