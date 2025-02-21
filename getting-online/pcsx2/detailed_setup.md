@@ -233,8 +233,8 @@ This section only needs to be done once.
 5. In the "Search Directory" field, set the folder path to [your PCSX2 installation folder]\textures.  
 6. In the "Options" section:  
    a) Enable the "Load Textures" setting.  
-   b) Disable the "Asynchronous Texture Loading" setting.  
-   c) Enable the "Precache Textures" setting.  
+   b) (recommended) Disable the "Asynchronous Texture Loading" setting.  
+   c) (recommended) Enable the "Precache Textures" setting.  
 
 ##### Adding Textures
 This section should be done as needed.  
