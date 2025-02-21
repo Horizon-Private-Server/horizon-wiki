@@ -1,3 +1,5 @@
+# February 2025: Due to PCSX2 software changes, the custom textures detailed on this page can no longer be used with current versions of PCSX2. This page is no longer being updated, and is being kept only for historical purposes. If you really want to try the textures, you will need to download an older version of PCSX2 to run separately from your current version. See the Setup section below for details.
+
 # Up Your Arsenal (Ratchet & Clank 3) Custom Textures
 
 We have several community members who have created custom texture packs for UYA. These texture packs give the UYA/R&C 3 maps, skins, and weapons you know and love a brand new look.  
