@@ -219,7 +219,7 @@ Users have created various custom textures for PCSX2. Some textures are upscaled
 
 Some set up is required to use the texture packs. There are some initial setup steps that only have to be performed once, and "as-needed" setup to add and remove the chosen textures.  
 
-[Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a video tutorial showing the UYA/R&C 3 custom textures, or read on for written directions. NOTE: The video does not show steps 7 and 8 in the written instructions below. Please be sure to set the "Mipmapping" setting to "Basic (Generated Mipmaps)" as mentioned below.  
+[Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a rough video tutorial, or read on for written directions. NOTE: The video does not show steps 7 and 8 in the written instructions below. Please be sure to set the "Mipmapping" setting to "Basic (Generated Mipmaps)" as mentioned below.  
 
 ##### First Time Setup
 This section only needs to be done once.  
@@ -250,7 +250,6 @@ This section should be done as needed.
 Here are links to downloads of various texture packs. Note: Some download links are external to our wiki - if you find that a link is broken, please let a Horizon staff member know on our Discord!  
 - [Upscaled UI Textures for both multiplayer and single player Up Your Arsenal/Ratchet & Clank 3](https://gbatemp.net/threads/ratchet-clank-up-your-arsenal-texture-pack-scus-97353.631588/) - Download from the link in the first post. All credit for these textures as listed in the post.  
 - [Upscaled UI Textures for UYA/R&C 3 Multiplayer Only](https://drive.google.com/file/d/14gpFeY_jzWzliAtFFWBgs4YnpNV9tL7-/view?usp=sharing) - Community members @pavo9001 and @bubblegum3390 took the above texture packs and optimized them for multiplayer by deleting unnecessary SP textures and adding some of their own.  
-- [Other Custom Map Textures for UYA](/up-your-arsenal/textures.md) - See our special documentation of these custom textures by Horizon community members that allow players to select a whole new look and feel of various UYA maps and features.  
 - [Upscaled UI Textures for Deadlocked Multiplayer](https://drive.google.com/file/d/1E2PMZdb0rKiLSl6askDWCkmqsAcHFrQv/view?usp=sharing) - @pavo9001 created these HQ text textures for Deadlocked.  
 - [Upscaled 16:9 Crosshairs for Deadlocked](https://drive.google.com/file/d/1rKtZ2fD_JadoVRFpVi7pIPi3vyobLdkR/view?usp=sharing) - @pavo9001 created these crosshair textures for Deadlocked.
 
