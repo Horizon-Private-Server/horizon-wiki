@@ -219,8 +219,6 @@ Users have created upscaled UI textures for PCSX2. These textures allow in-game 
 
 Some set up is required to use the texture packs. There are some initial setup steps that only have to be performed once, and "as-needed" setup to add and remove the chosen textures.  
 
-[Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a rough video tutorial, or read on for written directions.  
-
 ##### First Time Setup
 This section only needs to be done once.  
 1. In your PCSX2 installation folder, create a subfolder called "textures" if it does not already exist.  
