@@ -231,7 +231,10 @@ This section only needs to be done once.
 3. Within the folder created in step 2, create a subfolder called "replacements".  
 4. Within PCSX2, navigate to Settings -> Graphics -> Texture Replacement tab.  
 5. In the "Search Directory" field, set the folder path to [your PCSX2 installation folder]\textures.  
-6. In the "Options" section, enable the "Load Textures" setting.  
+6. In the "Options" section:  
+   a) Enable the "Load Textures" setting.  
+   b) Disable the "Asynchronous Texture Loading" setting.  
+   c) Enable the "Precache Textures" setting.  
 
 ##### Adding Textures
 This section should be done as needed.  
