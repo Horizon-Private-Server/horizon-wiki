@@ -8,9 +8,7 @@ This is the Horizon documentation for the original, PS2 release of Ratchet and C
 - [Custom Maps](./CMAPS.md)
 - [Custom Mods](./CMODS.md)
 - [Colored Clan Tags](./clantags.md)
-- [UYA Beta and Prototype Online Servers](./betas.md)
 - [Helga Discord Bot](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/deadlocked/HELGA.MD)
 - [Unlockable Skins](./skins.md)
-- [Custom Textures for PCSX2 Players](./textures.md) - Thanks to BizarreDistance, !m0, pavo, and sanjum2!
 - [Upgrades to "Cities" Area](./cities.md)
 - [UYA Special Events](./EVENTS.md)
