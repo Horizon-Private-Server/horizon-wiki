@@ -230,7 +230,7 @@ This section only needs to be done once.
 4. Within PCSX2, navigate to Settings -> Graphics -> Texture Replacement tab.  
 5. In the "Search Directory" field, set the folder path to [your PCSX2 installation folder]\textures.  
 6. In the "Options" section, enable the "Load Textures" setting.  
-7. (recommended) Within PCSX2, navigate to the [game-specific settings](/###Game-Specific-Settings) for the game in question. Then go to the Graphics -> Texture Replacement tab and:  
+7. (recommended) Within PCSX2, navigate to the [game-specific settings](/#Game-Specific-Settings) for the game in question. Then go to the Graphics -> Texture Replacement tab and:  
    a) Disable the "Asynchronous Texture Loading" setting.  
    b) Enable the "Precache Textures" setting.  
 
