@@ -213,13 +213,13 @@ If you are using an Nvidia GPU and are experiencing delay in-game, try these ste
 <details>
 <summary>Click here to expand/collapse details.</summary>  
    
-Users have created various custom textures for PCSX2. Some textures are upscaled UI textures that allow in-game text and objects like weapon icons to appear in higher resolution. For UYA/R & C 3, community members have also created custom map and skin textures which are explained more [here](/up-your-arsenal/textures.md).
+Users have created upscaled UI textures for PCSX2. These textures allow in-game text and objects like weapon icons to appear in higher resolution.  
 
 #### Texture Setup
 
 Some set up is required to use the texture packs. There are some initial setup steps that only have to be performed once, and "as-needed" setup to add and remove the chosen textures.  
 
-[Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a rough video tutorial, or read on for written directions. NOTE: The video does not show steps 7 and 8 in the written instructions below. Please be sure to set the "Mipmapping" setting to "Basic (Generated Mipmaps)" as mentioned below.  
+[Click here](https://www.youtube.com/watch?v=DeIxdx_K-Bg) for a rough video tutorial, or read on for written directions.  
 
 ##### First Time Setup
 This section only needs to be done once.  
@@ -232,17 +232,14 @@ This section only needs to be done once.
 4. Within PCSX2, navigate to Settings -> Graphics -> Texture Replacement tab.  
 5. In the "Search Directory" field, set the folder path to [your PCSX2 installation folder]\textures.  
 6. In the "Options" section, enable the "Load Textures" setting.  
-7. For UYA/R&C 3 custom textures: Still within the Graphics settings, navigate to the Rendering tab.  
-8. For UYA/R&C 3 custom textures: In the "Mipmapping" field, select "Basic (Generated Mipmaps)". **NOTE: This setting was removed from PCSX2 after version 1.7.5828. You will need this version or a prior one in order for some UYA/R&C 3 custom textures to display correctly. If using newer versions, some custom textures will display correctly but others will not. You can always run version 1.7.5828 alongside your current updated version if you want to try out the textures.**  
 
 ##### Adding Textures
 This section should be done as needed.  
 1. Download and extract the desired texture files. You may need a tool like 7-zip to extract .rar files.  
 2. Locate the folder that contains the textures you want to use. Copy or move the entire folder into the "replacements" folder that was previously created. The textures will still work if some of the image files are in subfolders (as they are organized in the download).  
 3. If any existing textures will conflict with the new ones you just copied in, move them out of the "replacements" folder or delete them. The following rules apply for conflicts:  
-  a) You can use one mod per map feature. For example, there should only be one mod for Bakisi Isles water in use at a time.  
-  b) You can use one mod per weapon.  
-  c) You can use one mod per skin per team color (so up to 8 skin mods in total, if each one is for a different color).  
+  a) You can use one mod per weapon.  
+  b) You can use one mod per skin per team color (so up to 8 skin mods in total, if each one is for a different color).  
   Conflicting textures will cause glitchy overlapping or weird visuals.  
 
 #### Texture Pack Downloads
