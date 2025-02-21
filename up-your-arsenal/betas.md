@@ -1,3 +1,5 @@
+# February 2025: We have removed betas from the Horizon UYA server, so this page is no longer current. It is being preserved here in case betas are re-added in the future.
+
 # UYA Betas & Prototypes
 
 Support for some UYA Betas and Prototypes has been added to the Horizon UYA server.
