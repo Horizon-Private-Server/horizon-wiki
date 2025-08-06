@@ -2,7 +2,7 @@
 
 The Horizon server enables users to play on custom maps. For UYA, we offer both NTSC-U/C and PAL support for custom maps.
 
-Some initial set up is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/1.7Nightly.md#custom-map-setup) as needed.
+Some initial set up is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/detailed_setup.md#custom-map-setup) as needed.
 
 
 ## Table of Contents
