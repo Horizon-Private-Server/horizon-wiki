@@ -43,7 +43,7 @@ Steps are as follows:
 6. Select "Not Required" for the next question.
 7. For "Set the IP address automatically?" select Auto.
 8. For "Set the DNS server address automatically?" select _Manual._
-9. Change the "Primary DNS" to what is shown in the Horizon Discord `#how-to-play` channel. You can use the Horizon DNS, Cristian's DNS, or 1UP/K3rber0s' DNS to access UYA or DL on the Horizon server.
+9. Change the "Primary DNS" to what is shown in the Horizon Discord `#how-to-play` channel. You can use the Horizon DNS, Cristian's DNS, or 1UP/K3rber0s' DNS to access UYA or DL on the Horizon server. Don't have Discord? We try to keep the DNS listed [here](/getting-online/README.md#dns) updated.
 10. Wait for the connection test to complete, then save the settings. It is recommended, but not required, to change the name of the setting to match that of the DNS that you chose in step 9.
 11. Quit the network settings tool. Then select Online Play again and select the new network setting to connect to the network.
 12. If you wish to play on custom maps, also complete the steps in that section below.
