@@ -25,7 +25,8 @@ _*Note: Deadlocked custom maps currently work on NTSC-U/C only._
 
 ## DNS
 To connect to the main UYA/R&C 3 and DL/Gladiator server, use one of the options above and use any of the following DNS as the Primary DNS in the Network Setup tool (you'll reach the same lobby no matter which one you choose):
-- 54.184.25.42  - Operated by Horizon  
-- 45.7.228.197 - Operated by Cristian  
-- 67.222.156.250 - Operated by 1UP/K3rber0s  
+- `54.184.25.42`  - Operated by Horizon  
+- `45.7.228.197` - Operated by Cristian  
+- `67.222.156.250` - Operated by 1UP/K3rber0s
+
 *Last updated 2025-08-05. If these DNS do not work, please contact us or look for the latest DNS in the `#how-to-play` channel in the [Horizon Discord server](https://rac-horizon.com/discord) server.*
