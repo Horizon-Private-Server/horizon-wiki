@@ -19,6 +19,7 @@ As listed in the `#rules` channel of the [Horizon Discord server](https://rac-ho
 4. Flooding and/or spamming messages is not allowed, nor is any NSFW content.  
 5. Violent threats (both written and verbal) are strictly prohibited. These threats will result in immediate [bans](#bans).  Threats against Horizon servers and staff members are also strictly prohibited.  
 6. Sharing personal information about other server members without their consent is prohibited. This includes real name, location, photographs, etc. (We also suggest that you limit the personal information you share yourself, since Horizon is a public place accessible by anyone in the world).  
+7. Using any in-game cheats for any reason without the knowledge and approval of all other participants in the lobby, is prohibited. This means that you may use in-game cheats only if any and all other players in the lobby know that you are doing so and are fine with it.  
 
 
 ## Horizon Disciplinary Policy
