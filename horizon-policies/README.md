@@ -6,6 +6,7 @@ Unless otherwise noted, everything on this page applies in all of the following 
 - The Ratchet and Clank: Up Your Arsenal/Ratchet and Clank 3 game server that Horizon runs.  
 - The Ratchet: Deadlocked/Ratchet: Gladiator game servers that Horizon runs.  
 - All test game servers that Horizon runs.  
+
 This also means that Horizon's rules do _not_ apply anywhere else, including other Discord servers where users may coordinate lobbies on Horizon's game servers.
 
 
