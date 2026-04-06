@@ -6,6 +6,7 @@ Unless otherwise noted, everything on this page applies in all of the following 
 - The Ratchet and Clank: Up Your Arsenal/Ratchet and Clank 3 game server that Horizon runs.  
 - The Ratchet: Deadlocked/Ratchet: Gladiator game servers that Horizon runs.  
 - All test game servers that Horizon runs.  
+This also means that Horizon's rules do _not_ apply anywhere else, including other Discord servers where users may coordinate lobbies on Horizon's game servers.
 
 
 ## Horizon Rules
@@ -70,7 +71,7 @@ A couple of exceptions to the above process should be noted:
 - Discord officially supports account switching, but we discourage the use of multiple Discord accounts because of the confusion it causes for other community members. Any disciplinary steps applied to one of your Discord accounts will also be applied to all of your other Discord accounts that we are aware of. For example, if your main account receives a first formal warning and we know that you also have a second account, that second account would also have the warning applied to it. **Use of Discord alts to evade a Horizon Discord ban is grounds for further action, such as game server bans and/or revoking of the ban expiration privilege.**  
 
 ### Special Note About Harassing The Other Game's Community Members
-While we encourage community members to try both UYA/R&C 3 and DL/Gladiator, we recognize that most players do have a clear favorite between the two games (including all Horizon staff members). Unfortunately, we have seen some players take this too far and make it their mission to visit the channels for the other game only to stir the pot and create drama. Just in case it isn't obvious already, these same rules still apply everywhere in the server - whether the discussion topic is UYA/R&C 3, DL /Gladiator, or something else.  
+While we encourage community members to try both UYA/R&C 3 and DL/Gladiator, we recognize that most players do have a clear favorite between the two games (including most Horizon staff members). Unfortunately, we have seen some players take this too far and make it their mission to visit the channels for the other game only to stir the pot and create drama. Just in case it isn't obvious already, these same rules still apply everywhere in the server - whether the discussion topic is UYA/R&C 3, DL /Gladiator, or something else.  
 
 
 ## Horizon Staff Expectations
@@ -78,10 +79,10 @@ You can expect Horizon staff members to try their best to:
 - Treat all community members equally and with respect.  
 - Resolve any and all disputes democratically.  If you have an issue, please tag the Moderators role to get our attention.  
 - Be transparent and honest with community members at all times.  
-- Take community feedback into account as much as possible.
+- Take community feedback into account as much as possible.  
 
 Note that Horizon staff does not DM members (whether new to the server, or otherwise) unexpectedly, unless we personally know you. In general, all official Horizon staff member communication will come from within the Horizon Discord server.  
 
 Thank you for being a part of the Horizon community!  
 
-_This page last updated 6 February 2025._
+_This page last updated 5 April 2026._
