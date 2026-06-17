@@ -248,7 +248,7 @@ This section should be done as needed.
    
 Here are links to downloads of various texture packs. Note: Some download links are external to our wiki - if you find that a link is broken, please let a Horizon staff member know on our Discord!  
 - [Upscaled UI Textures for both multiplayer and single player Up Your Arsenal/Ratchet & Clank 3](https://gbatemp.net/threads/ratchet-clank-up-your-arsenal-texture-pack-scus-97353.631588/) - Download from the link in the first post. All credit for these textures as listed in the post.  
-- [Upscaled UI Textures for UYA/R&C 3 Multiplayer Only](https://drive.google.com/file/d/14gpFeY_jzWzliAtFFWBgs4YnpNV9tL7-/view?usp=sharing) - Community members @pavo9001 and @bubblegum3390 took the above texture packs and optimized them for multiplayer by deleting unnecessary SP textures and adding some of their own.  
+- Upscaled UI Textures for UYA/R&C 3 Multiplayer Only [Part 1](/assets/textures/UYA_MP_HUD_Texture_Pack_1.zip) and [Part 2](/assets/textures/UYA_MP_HUD_Texture_Pack_2.zip) - Community members @pavo9001 and @bubblegum3390 took the above texture packs and optimized them for multiplayer by deleting unnecessary SP textures and adding some of their own.  
 - [Upscaled UI Textures for Deadlocked Multiplayer](/assets/textures/Deadlocked_HQ_Text.zip) - @pavo9001 created these HQ text textures for Deadlocked.  
 - [Upscaled 16:9 Crosshairs for Deadlocked](/assets/textures/DL_Upscaled_16x9_Crosshairs.zip) - @pavo9001 created these crosshair textures for Deadlocked.
 
