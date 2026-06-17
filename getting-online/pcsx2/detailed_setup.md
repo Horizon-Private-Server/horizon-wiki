@@ -249,8 +249,8 @@ This section should be done as needed.
 Here are links to downloads of various texture packs. Note: Some download links are external to our wiki - if you find that a link is broken, please let a Horizon staff member know on our Discord!  
 - [Upscaled UI Textures for both multiplayer and single player Up Your Arsenal/Ratchet & Clank 3](https://gbatemp.net/threads/ratchet-clank-up-your-arsenal-texture-pack-scus-97353.631588/) - Download from the link in the first post. All credit for these textures as listed in the post.  
 - [Upscaled UI Textures for UYA/R&C 3 Multiplayer Only](https://drive.google.com/file/d/14gpFeY_jzWzliAtFFWBgs4YnpNV9tL7-/view?usp=sharing) - Community members @pavo9001 and @bubblegum3390 took the above texture packs and optimized them for multiplayer by deleting unnecessary SP textures and adding some of their own.  
-- [Upscaled UI Textures for Deadlocked Multiplayer](https://drive.google.com/file/d/1E2PMZdb0rKiLSl6askDWCkmqsAcHFrQv/view?usp=sharing) - @pavo9001 created these HQ text textures for Deadlocked.  
-- [Upscaled 16:9 Crosshairs for Deadlocked](https://drive.google.com/file/d/1rKtZ2fD_JadoVRFpVi7pIPi3vyobLdkR/view?usp=sharing) - @pavo9001 created these crosshair textures for Deadlocked.
+- [Upscaled UI Textures for Deadlocked Multiplayer](/assets/textures/Deadlocked_HQ_Text.zip) - @pavo9001 created these HQ text textures for Deadlocked.  
+- [Upscaled 16:9 Crosshairs for Deadlocked](/assets/textures/DL_Upscaled_16x9_Crosshairs.zip) - @pavo9001 created these crosshair textures for Deadlocked.
 
 </details>  
 
@@ -260,7 +260,7 @@ Here are links to downloads of various texture packs. Note: Some download links 
    
 We have several community members who have played online using a Steam Deck! Most of the same steps apply for getting online. A couple of additional notes:  
 - For network configuration, you MUST set up using the Sockets/Auto method. The Nmap/PCAP method will not work.  
-- @pavo9001 created [16:10 Patches and Textures for UYA/R&C 3 and Deadlocked](https://drive.google.com/drive/folders/1yOrM6TDuUvbYosSMTlPXrsbG3ciwzzjp?usp=sharing). To use the patches, see the readme .txt file in the download. To use the textures, see the relevant FAQ on this page. We recommend using these for an optimal 16:10 experience. However, they will result in a squashed picture on normal 16:9 monitors.  
+- @pavo9001 created [16:10 Patches and Textures for UYA/R&C 3 and Deadlocked](/assets/textures/Steam%20Deck_UYA_DL.zip). To use the patches, see the readme .txt file in the download. To use the textures, see the relevant FAQ on this page. We recommend using these for an optimal 16:10 experience. However, they will result in a squashed picture on normal 16:9 monitors.  
 
 </details>  
 
