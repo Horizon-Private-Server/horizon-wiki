@@ -14,8 +14,8 @@ These mods are located on the "General" tab of the mod menu.
 
 Important notes about General mods:  
 - General mods are configurable by each player, meaning that different players within the same lobby may choose different General mod settings.
-- General mod settings can be acccessed by hitting the Start button on any lobby screen.
-- General mods can also be accessed and changed during the game by pressing the Start button, and then selecting "Patch Config".*
+- General mod settings can be accessed by hitting the Start button on any lobby screen.
+- General mods can also be accessed and changed during the game by pressing the Start button, and then selecting "Patch Config".
 
 
 ## Game Settings Mods

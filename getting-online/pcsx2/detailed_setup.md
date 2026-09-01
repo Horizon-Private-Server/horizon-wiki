@@ -80,7 +80,7 @@ After completing the Setup Wizard, there are still several more steps required t
    b) Set up the "Display" tab as shown in the first image below.  
    c) Set up the "Rendering" tab as shown in the second image below.  
    d) The other tabs within the Graphics settings can be left as is.  
-> Note that the graphics settings shown are intended to be a baseline that will provide smooth gameplay on mid-range machines. If you have a high-end gaming computer and/or would like to maximize the visual appearance of the games, please [check the FAQ below](/#faq).  
+> Note that the graphics settings shown are intended to be a baseline that will provide smooth gameplay on mid-range machines. If you have a high-end gaming computer and/or would like to maximize the visual appearance of the games, please [check the FAQ below](#faq).  
 
 ![img](/assets/pcsx2/Guide-2023Feb/pcsx2-2023Feb-settings_graphics_display_v2.png)
 
@@ -231,7 +231,7 @@ This section only needs to be done once.
 4. Within PCSX2, navigate to Settings -> Graphics -> Texture Replacement tab.  
 5. In the "Search Directory" field, set the folder path to [your PCSX2 installation folder]\textures.  
 6. In the "Options" section, enable the "Load Textures" setting.  
-7. (recommended) Within PCSX2, navigate to the [game-specific settings](#high-end-gaming-computers-and-graphics) for the game in question. Then go to the Graphics -> Texture Replacement tab and:  
+7. (recommended) Within PCSX2, navigate to the [game-specific settings](#high-end-gaming-computers-and-graphics-) for the game in question. Then go to the Graphics -> Texture Replacement tab and:  
    a) Disable the "Asynchronous Texture Loading" setting.  
    b) Enable the "Precache Textures" setting.  
 

@@ -2,14 +2,7 @@
 
 The Horizon server enables users to play on custom maps. _For Deadlocked, custom maps currently work for the NTSC-U/C (North American) version of the game only._
 
-Some initial set up is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/detailed_setup.md#custom-map-setup) as needed.
-
-
-## Table of Contents
-
-- [Usage](#usage)
-- [Additional Documentation](#additional-documentation)
-
+Some initial setup is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/detailed_setup.md#custom-map-setup) as needed.
 
 ## Usage
 
@@ -41,7 +34,7 @@ __Note: For DZO users, custom maps refresh automatically so the steps above are 
 
 1. Create a game as you would normally.
 
-2. From the staging screen, press the Start button to bring up the patch menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map as shown in the first screenshot below.
+2. From the staging screen, press the Start button to bring up the patch menu. In the "Custom Maps" tab, select your desired map as shown in the first screenshot below.
 
 3. Close the patch menu to save the new game settings.
 
@@ -50,7 +43,3 @@ __Note: For DZO users, custom maps refresh automatically so the steps above are 
 ![select custom map](/assets/dl/dl_map_select.png)
 
 ![user_no_map](/assets/dl/dl_user_no_map.png)
-
-## Additional Documentation
-Additional custom map documentation and credits can be found [here](./CMAPS_DETAIL.MD).
-
