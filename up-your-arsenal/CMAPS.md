@@ -2,7 +2,7 @@
 
 The Horizon server enables users to play on custom maps. For UYA, we offer both NTSC-U/C and PAL support for custom maps.
 
-Some initial set up is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/detailed_setup.md#custom-map-setup) as needed.
+Some initial setup is required to play on custom maps. Refer to the setup guides for [PS2](/getting-online/ps2/README.md#custom-map-setup) or [PCSX2](/getting-online/pcsx2/detailed_setup.md#custom-map-setup) as needed.
 
 
 ## Table of Contents
@@ -40,11 +40,12 @@ To refresh:
 
 1. Create a game as you would normally.
 
-2. From the staging screen, press the Start button to bring up the patch menu. In the "Game Settings" tab, change the "Map Override" selection to the desired custom map as shown below.
+2. From the staging screen, press the Start button to bring up the patch menu. In the "Custom Maps" tab, select your desired map as shown in the first screenshot below.
 
 3. Close the patch menu to save the new game settings.
 
 4. Note that each player in the game must install the custom maps separately (not just the host). Any users who do not have custom maps properly installed will not be able to "ready up" or play on them.
+A colored "X" will be shown beside the player to indicate the issue. (blue = map isn't installed, red = you have an older version, green = you have a newer version)
 
 ![select custom map](/assets/uya/uya_map_select.png)
 

@@ -52,4 +52,4 @@ The clan tag:
 
 will translate to:
 
-![clan_tag_example](https://github.com/Horizon-Private-Server/horizon-wiki/blob/main/assets/uya/example_clan_colors.jpg)
+![clan_tag_example](/assets/uya/example_clan_colors.jpg)

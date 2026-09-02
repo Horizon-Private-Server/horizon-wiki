@@ -2,7 +2,7 @@
 
 This page is dedicated to detailing all of the custom game modes available on the Horizon Private Server. Below each game mode is a list of recommended settings curated through developer and community playtesting. Please feel free to use whatever settings you want, the recommended settings are provided only as a baseline to get you started!
 
-All game modes except for Search and Destory do not contribute towards your stats in a particular area (e.g., rank/skill level, kills, deaths). Search and Destroy contributes towards your Conquest Rank (similar to a substituted sub-game mode like __Home Nodes__ and __Lockdown__).
+All game modes except for Search and Destroy do not contribute towards your stats in a particular area (e.g., rank/skill level, kills, deaths). Search and Destroy contributes towards your Conquest Rank (similar to a substituted sub-game mode like __Home Nodes__ and __Lockdown__).
 
 ## Table of Contents
 - [Custom Game Modes](#custom-game-modes)
@@ -23,16 +23,14 @@ All game modes except for Search and Destory do not contribute towards your stat
   - [Reviving Teammates](#reviving-teammates)
   - [Weapon Pickups, Mods & Health](#weapon-pickups-mods--health)
   - [Recommended Settings](#recommended-settings-5)
-  - [AI Difficulty](#ai-difficulty)
   - [Zombie Spawns](#zombie-spawns)
-    - [Zombie Types](#zombie-types)
 - [Training](#training)
     - [Recommended Settings](#recommended-settings-6)
     - [Fusion (Sniper) Training](#fusion-sniper-training)
 
 # Infected
 
-A game mode derived from the the eponymously named game modes featured in the Halo and Call of Duty franchises.
+A game mode derived from the eponymously named game modes featured in the Halo and Call of Duty franchises.
 Players become "infected" after dying and must hunt the remaining survivors using only their wrench and their speed!
 Survivors, have the luxury of weapons, but have a limited health pool, limited ammo and only one life!
 If the survivors last the duration of the game, they win, otherwise the infected win.
@@ -53,7 +51,7 @@ If the survivors last the duration of the game, they win, otherwise the infected
   - Respawn Timer - __3__
 - Weapon
   - Hunter Mine Launcher - __Off__
-    > During playtesting, it was found that changing the weapons between matches added more variety to gamplay.
+    > During playtesting, it was found that changing the weapons between matches added more variety to gameplay.
 - Custom
   - Health Crates - __Off__
 
@@ -101,7 +99,7 @@ The first person to a specified number of points wins, or the person with the mo
   - Team Play - __Off__
 - Weapon
   - > Explosive Weapons (__The Arbiter__, __Hunter Mine Launcher__ and __B-6 Obliterator__) have splash damage which makes for chaotic gameplay and very fast rounds.
-  - > If is recommended that you limit the total number of weapons to 3 to create a fair playing field. (if more than 3 weapons are available, other players may spawn with advatageous weapons).
+  - > Its recommended that you limit the total number of weapons to 3 to create a fair playing field. (if more than 3 weapons are available, other players may spawn with advantageous weapons).
 
 # Infinite Climber
 
@@ -139,7 +137,7 @@ The red weapon pack contains the hacker ray, which the bomb carrier must use to 
 
 Victory conditions are as follows:
 1. If all players on the attacking team are killed before the bomb is planted, the defenders win.
-2. If the round timer hits 0 wwithout the bomb being planted, the defenders win (even if they are all dead).
+2. If the round timer hits 0 without the bomb being planted, the defenders win (even if they are all dead).
 3. If the attackers plant the bomb, the defenders must defuse within in 30 seconds or the bomb will detonate and the attackers win (the bomb must be defused in time, even if all of the attackers are dead for the defenders to win the round).
 4. If the bomb is planted and successfully defused, the defenders win.
 
@@ -172,7 +170,7 @@ Additionally, a common community rule has been that players mute themselves in D
   - Unlimited Ammo - __On__
   - Team Play - __On__
 - Weapon
-  - > Due to the competitive nature of SND, games played have typically consisted of Cycle Weapons (__Magma Cannon__, __B-6 Obliterator__ and __Fusion Rifle__). Different weapon combinations could lead to exciting gamplay variants.
+  - > Due to the competitive nature of SND, games played have typically consisted of Cycle Weapons (__Magma Cannon__, __B-6 Obliterator__ and __Fusion Rifle__). Different weapon combinations could lead to exciting gameplay variants.
     >In order to guarantee a completely fair game, it is recommended that a maximum of 3 weapons are used so every player spawns with the same weapons.
 - Custom
   - Health Crates - __Off__
@@ -181,27 +179,24 @@ Additionally, a common community rule has been that players mute themselves in D
 
 A game mode derived from COD: Zombies and other wave-survival games.
 You have limited ammo, one-life and must survive endless waves of oncoming zombies.
-The difficulty increases with each wave (both in terms of the number of zomnies, type of zombies and threat of each zombie).
+The difficulty increases with each wave (both in terms of the number of zombies, type of zombies and threat of each zombie).
 
-> __COMPATIBILITY:__
-> Survival currently supports the following custom maps only.
->   * Orxon
-> 
->__SURVIVAL REQUIRES THE LATEST [CUSTOM MAPS](./CMAPS.md)__!
+> __COMPATIBILITY:__ Survival requires specific custom maps to play.
 
 ## Bolts, Weapons & Mods
 Killing zombies earns you bolts (bolts are shared by all people on your team in multiplayer).
 The primary use for bolts is to upgrade your weapons.
 Each map contains a weapon vendor and Big Al's workstation.
 The weapon vendor is used to upgrade your weapons (V2-V10).
-When upgrading your weapon, you will also be given a random Alpha Mod (__Impact Mod__, __Aiming Mod__, __Speed Mod__, __Ammo Mod__, __Area Mod__ and __Jackpot Mod__) - (__XP Mod__ and __NanoLeech Mod__ are not currently supported).
+When upgrading your weapon, you will also be given a random Alpha Mod (__Impact Mod__, __Speed Mod__, __Ammo Mod__, __Area Mod__, __XP Mod__ and __Jackpot Mod__) - (__Aiming Mod__ and __NanoLeech Mod__ are not currently supported).
 Upgrading a weapon __DOES NOT__ automatically apply the mod to a weapon, it only adds it to your inventory.
 Big Al's workstation is used to configure mods between weapons.
-There is a 20-second intermission in-between waves that can be used to safely upgrade and configure weapons.
-This intermission is skippable by the host.
+There is a 45-second intermission in-between waves that can be used to safely upgrade and configure weapons.
+Players can vote to skip this intermission with the host being able to bypass it.
 Any weapon mod can be mixed and matched on any weapon.
-Each weapon upgrade cost more incrementatlly.
+Each weapon upgrade costs more incrementally.
 V10 Weapons, just like in single-player, dramatically improve the effectiveness of your weapon.
+Below is the standard upgrade cost table. This may vary per map.
 
 | Weapon Level | Cost      | Total Cost |
 |--------------|-----------|------------|
@@ -219,31 +214,23 @@ V10 Weapons, just like in single-player, dramatically improve the effectiveness 
 ## Weapon Tweaks
 In order to balance out the PvE experience, multiple weapon tweaks have been made.
 * The Scorpion Flail consumes ammo when twirled (this is to prevent scoring a large number of hits without using ammo).
-* The holoshield launcher currently does not damage zombies, but will temporarily block them.
-* The weapon damage tables have been modifed from single-player to make them more balanced (i.e., Single-player weapon damages [when upgraded above V2] are more potent depending on how late the weapon is acquired).
-  > Please refer to the following [Google Sheet](https://docs.google.com/spreadsheets/d/1ODWP-W6m5kMcn3R2iyiF2Acty7T-gVUxQ9jwkyYoEgo/edit#gid=972887413) to view the weapon damage chanages made.
+* The holoshield launcher will temporarily block zombies.
+* The weapon damage tables have been modified from single-player to make them more balanced (i.e., Single-player weapon damages [when upgraded above V2] are more potent depending on how late the weapon is acquired).
 
 ## Reviving Teammates
-Bolts can also used to revive downed players in multiplayer.
-Every time a player dies (regardless of whether they are revived or not), the price to revive them increases.
-The price to revive for a first death is `5,000` bolts and increments by and additional `5,000` bolts per-death.
-While it may be a difficult choice to revive a player when upgrading your own weapon compels you, it may be the better strategy in the long-term.
-If a player is not revived, they lose all of their weapon upgrades and any mods attached to their weapons (Alpha mods in the player's inventory are not lost, nor are bolts that the player earned).
-Upon death, a player is revivable to up to 60 seconds.
-If 60 seconds passes, the player must wait until the next wave and will automatically spawn with no weeapons.
-If the last zombie is killed while a player is dead (even if they are revivable), they will still spawn with no weapons.
+Upon going down, a player is revivable for up to 60 seconds. They can be revived by standing over that player.
+If 60 seconds passes, the player dies and must wait until the next wave. Their weapon will also be downgraded one level upon respawning.
 
 ## Weapon Pickups, Mods & Health
 
 Each map contains a fixed amount of ammo, health and special pickups that must be shared between all players.
-Weapon pickups are randomized each round to add variety to the game.
 All weapons (including the Dual Vipers) are guaranteed to spawn as a pickup.
-There will be more than one occurence of some weapons sometimes, use this to your advantage when disussing the weapons each teammate will use.
+There will be more than one occurrence of some weapons sometimes, use this to your advantage when discussing the weapons each teammate will use.
 
-Thus far, each map contains 3 health crates and 2 special pickups (__Quad Damage__ and __Allied Shield__).
+The amount of weapon, health and special pickups can vary between maps.
 
 ## Recommended Settings
-> Settings surrounded by \*asteriks\* must be set for the game to count towards your [Stats](#stats).
+> Settings surrounded by \*asterisks\* must be set for the game to count towards your [Stats](#stats).
 
 - General
   - Game Type - __Deathmatch__
@@ -254,52 +241,21 @@ Thus far, each map contains 3 health crates and 2 special pickups (__Quad Damage
   - Autospawn Weapons - __Off__
   - Unlimited Ammo - __\*Off\*__
   - Team Play - __On__
-    > Survival also supports a competitve mode (team-based and free-for-all [FFA]). More information on this game mode variant will be coming soon!
+    > Survival also supports a competitive mode (team-based and free-for-all [FFA]). More information on this game mode variant will be coming soon!
   - Survivor - __\*On\*__
     > Survivor can be disabled if you want to play a more casual version of zombies. In this mode, death won't end the game, but instead cost you all of your weapon upgrades.
 - Custom
   - Health Bars - __On__
 
-## AI Difficulty
-Your Survival experience can be tailored through multiple difficulties.
-
-| Difficulty   | Scale | Description                                                                                |
-|--------------|-------|--------------------------------------------------------------------------------------------|
-| Couch Potato | 0.25x | Meant for very casual play.                                                                |
-| Contestant   | 0.50x | A step-up from Couch Potato, but still casual in nature.                                   |
-| Gladiator    | 0.75x | The _standard_ difficulty which provides a good challenge, even for experienced players.   |
-| Hero         | 1.00x | An advanced difficulty which requires intense teamwork, coordination and individual skill. |
-| Exterminator | 1.50x | You will not survive.                                                                      |
-
 ## Zombie Spawns
 
 Zombies spawn based on a round "budget"/allocation.
-This budget is influcened by 3 factors:
-1. The difficulty selected (__Couch Potato__ - __Exterminator__).
-2. The wave number.
-3. The number of players in the game<sup>2</sup>.
+This budget is influenced by two factors:
+1. The wave number.
+2. The number of players in the game.
 
-The round budget is used to determine how many zombies spawn per-wave and how many mutators are applied to specific zombies. Mutators increase the health, speed and damage output of zombies at random. Damage output and speed are capped per-zombie, but health is unbound and will increase as the waves go on.
-
+The round budget is used to determine how many zombies spawn per-wave.
 As you reach higher waves, different types of more dangerous zombies will start to spawn.
-
-### Zombie Types
-
-* __Normal Zombie__ - The most common type of zombie to spawn. These zombies have modest health, put out moderate damage and are about 20% slower walking than the player. Normal zombies do not have special abilities and do not apply elemental damage.
-* __Runner Zombie__ - An common variant of the normal zombie. These zombies are much faster (about 20%) faster than the player's walking speed. While difficult to avoid, these zombies put out much less damage than normal zombies and are easliy dispatched due to having lower health. These zombies can be difficult to distinguish from normal zombies, however, the rounded head is usually the best give-away.
-* __Ghost Zombie__ - Ghost zombies are special zombies than become invisible over time. While invisible, these zombies are very difficult to see, do not appear on the minimap and are not targetable using the Dual Vipers, B-6 Obliterator, The Arbiter, Hunter Mine Launcher and V10 Magma Cannon. Ghost zombies have the same base stats as the normal zombies, but have the lowest chance to spawn out of any zombie.
-* __Exploding Zombie__ - Exploding zombies are the bane of any melee-based build. When in range of the player, these zombies will ball up and begin a detonation countdown ending with an explosion capable of dealing fatal damage to any players (and unlucky zombies) caught within the blast range. __Warning__: Killing an exploding zombie once they begin their countdown will cause them to detonate prematurely. These zombies are easy to spot, they are red and tend to lumber behind or in the middle of a hoard.
-* __Freeze Zombie__ - Freeze Zombies are elemental zombies whose swipe can apply the freeze effect on a player. The freeze effect inhibits movement speed and chargeboot speed by 50%. While freeze zombies pack a punch in terms of damage, the real danger is the risk of a follow-up attack. Freeze Zombies are identified by their blue color.
-* __Acid Zombie__ - Acid zombies are elemental zombies whose seipe can apply the acid effect on a player. The acid effect deals an addition 15 damage (~30 % max player health) over time. The __Allied Shield__ pickup is especially vulnerable to the acid effect, and will not mitigate the acid damage. Acid zombies can be identified by their distict heads and green eyes and chest.
-
-| Zombie           | Spawns on Wave | Spawn Rate   | Base Health | Base Speed | Base Damage | 
-|------------------|----------------|--------------|-------------|------------|-------------|
-| Normal Zombie    | 1              | 100.0%       | 1.0x        | 1.0x       | 1.0x        |
-| Runner Zombie    | 1              |  14.0%       |             |            |             |
-| Ghost zombie     | 5              |  3.5%        |             |            |             |
-| Exploding Zombie | 7              |  5.0%        |             |            |             |
-| Freeze Zombie    | 9              |  7.0%        |             |            |             |
-| Acid Zombie      | 11             |  7.0%        |             |            |             |
 
 ## Stats
 
@@ -307,24 +263,35 @@ Survival supports stat tracking and leaderboards for the following stats. Stats 
 
 > __NOTE:__ Stats are only tracked for games with the correct settings. Please view the [Recommended Settings](#recommended-settings-5) for a list of required game settings.
 
-| Stat           | Description |
-|------------------|----------------|
-| Rank            | This is your overall survival rank.             |
-| Experience      | This is the total gained XP. XP is directly proportional to the number of bolts you've gained and the difficulty of the match.             |
-| Games Played    | Total number of survival games played.             |
-| Time Played     | Total number of hours of survival played.             |
-| Kills           | Total number of zombie kills.             |
-| Deaths          | Total number of deaths.             |
-| Revives         | Total number of times you revived a teammate.             |
-| Times Revived   | Total number of times you've been revived.             |
-| High Score      | The highest round you've achieved, per difficulty.             |
-| Weapon Kills    | Total number of zombie kills, per weapon.             |
+### Overall
+| Stat          | Description                                         |
+|---------------|-----------------------------------------------------|
+| Rank          | This is your overall survival rank.                 |
+| Completion    | Total completion of all maps (gambits, round 50...) |
+| Games Played  | Total number of survival games played.              |
+| Time Played   | Total number of hours of survival played.           |
+| Kills         | Total number of zombie kills.                       |
+| Deaths        | Total number of deaths.                             |
+| Revives       | Total number of times you revived a teammate.       |
+| Times Revived | Total number of times you've been revived.          |
+| Weapon Kills  | Total number of zombie kills, per weapon.           |
+
+### Per Map
+| Stat                  | Description                                                                                                                    |
+|-----------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Prestige              | Prestige rank. Based on how much you have played.                                                                              |
+| Experience            | This is the total gained XP. XP is directly proportional to the number of bolts you've gained and the difficulty of the match. |
+| Solo High Score       | Highest round in solo.                                                                                                         |
+| Solo Fastest Round 50 | Fastest time to get to round 50 in solo.                                                                                       |
+| Coop High Score       | Highest round in coop.                                                                                                         |
+| Coop Fastest Round 50 | Fastest time to get to round 50 in coop.                                                                                       |
+| Gambit Completion     | Completion of different gambits.                                                                                               |
 
 ### Viewing Stats
 
-To view stats you must join the [Horizon Discord](https://rac-horizon.com/discord) and use the following slash command. Replace `ACCOUNTNAME` with your account name.
+To view stats, you must join the [Horizon Discord](https://rac-horizon.com/discord) and use the following slash command. Replace `ACCOUNTNAME` with your account name.
 
-    /deadlocked stats Survival ACCOUNTNAME
+    /deadlocked-survival-stats ACCOUNTNAME
 
 # Training
 

@@ -61,7 +61,7 @@ The third time that a user violates the rules (or for severe violations regardle
 - The ban will not be explained to the user by default. However, the user may DM a Horizon staff member requesting an explanation.  
 
 ### Ban Expiration
-On a case by case basis, Horizon offers some banned users a 9 month "ban expiration" privilege. This means that 9 months after the date a user is banned, he/she may be unbanned (from the Discord server, and any game servers as applicable). This part of the policy exists because we believe that even some banned users deserve a second chance. However, ban expiration is a priviledge and not a right for the banned user. Unbanning is a manual process that requires time and effort from Horizon staff.  
+On a case by case basis, Horizon offers some banned users a 9 month "ban expiration" privilege. This means that 9 months after the date a user is banned, he/she may be unbanned (from the Discord server, and any game servers as applicable). This part of the policy exists because we believe that even some banned users deserve a second chance. However, ban expiration is a privilege and not a right for the banned user. Unbanning is a manual process that requires time and effort from Horizon staff.  
 
 Horizon staff will not reach out to banned users to remind them of their "unban date", but banned users may contact a Horizon staff member via direct message on Discord to ask if/when they will be unbanned.  
 
